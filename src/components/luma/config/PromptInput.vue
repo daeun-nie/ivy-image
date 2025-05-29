@@ -10,7 +10,7 @@
       type="textarea"
       class="prompt"
       :placeholder="$t('luma.placeholder.prompt')"
-      :maxlength="2000"
+      :maxlength="20000"
       show-word-limit
     />
   </div>

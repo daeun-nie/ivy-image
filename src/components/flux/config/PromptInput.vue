@@ -10,7 +10,7 @@
       type="textarea"
       class="prompt"
       :placeholder="$t('flux.placeholder.prompt')"
-      :maxlength="3000"
+      :maxlength="30000"
       show-word-limit
     />
   </div>

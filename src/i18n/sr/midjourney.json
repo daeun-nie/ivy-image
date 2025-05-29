@@ -1,0 +1,1933 @@
+{
+  "style.cute": {
+    "message": "Slatko",
+    "description": "Tekst na dugmetu koji predstavlja 'slatki' stil"
+  },
+  "style.expressive": {
+    "message": "Ekspresivan",
+    "description": "Tekst na dugmetu koji predstavlja 'ekspresivni' stil"
+  },
+  "style.original": {
+    "message": "Originalan",
+    "description": "Tekst na dugmetu koji predstavlja 'originalni' stil"
+  },
+  "style.scenic": {
+    "message": "Pejzaž",
+    "description": "Tekst na dugmetu koji predstavlja 'pejzažni' stil"
+  },
+  "style.raw": {
+    "message": "Siromašan",
+    "description": "Tekst na dugmetu koji predstavlja 'siromašni' stil"
+  },
+  "styleCategory.special": {
+    "message": "Specijalan",
+    "description": "Reč kategorije koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju ovu oznaku"
+  },
+  "styleCategory.chinese": {
+    "message": "Kineski stil",
+    "description": "Reč kategorije koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju ovu oznaku"
+  },
+  "styleCategory.emotion": {
+    "message": "Emocija",
+    "description": "Reč kategorije koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju ovu oznaku"
+  },
+  "styleCategory.camera": {
+    "message": "Fotoaparat",
+    "description": "Reč kategorije koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju ovu oznaku"
+  },
+  "styleCategory.styles": {
+    "message": "Stilovi",
+    "description": "Reč kategorije koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju ovu oznaku"
+  },
+  "styleCategory.lighting": {
+    "message": "Osvetljenje",
+    "description": "Reč kategorije koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju ovu oznaku"
+  },
+  "styleCategory.painters": {
+    "message": "Slikari",
+    "description": "Reč kategorije koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju ovu oznaku"
+  },
+  "styleCategory.material": {
+    "message": "Materijal",
+    "description": "Reč kategorije koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju ovu oznaku"
+  },
+  "styleCategory.artists": {
+    "message": "Umetnici",
+    "description": "Reč kategorije koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju ovu oznaku"
+  },
+  "styleTag.watercolour": {
+    "message": "Akvarel",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju ovu oznaku"
+  },
+  "styleTag.oilPainting": {
+    "message": "Ulje na platnu",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju ovu oznaku"
+  },
+  "styleTag.oldPhotograph": {
+    "message": "Stara fotografija",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju ovu oznaku"
+  },
+  "styleTag.oneLineDrawing": {
+    "message": "Jedna linija crteža",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju ovu oznaku"
+  },
+  "styleTag.sketchDrawing": {
+    "message": "Skica",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju ovu oznaku"
+  },
+  "styleTag.gouache": {
+    "message": "Gušće boje",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju ovu oznaku"
+  },
+  "styleTag.filmStyle": {
+    "message": "Filmski stil",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju ovu oznaku"
+  },
+  "styleTag.photorealistic": {
+    "message": "Foto realističan",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju ovu oznaku"
+  },
+  "styleTag.logo": {
+    "message": "Logo",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju ovu oznaku"
+  },
+  "styleTag.cartoon": {
+    "message": "Karton",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju ovu oznaku"
+  },
+  "styleTag.marbleStatue": {
+    "message": "Mramorna statua",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju ovu oznaku"
+  },
+  "styleTag.1800S": {
+    "message": "Osamnaesti vek",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju ovu oznaku"
+  },
+  "styleTag.1980S": {
+    "message": "Osamdesete",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju ovu oznaku"
+  },
+  "styleTag.isometricAnime": {
+    "message": "Izometrijski anime",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju ovu oznaku"
+  },
+  "styleTag.analyticDrawing": {
+    "message": "Analitičko crtanje",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju ovu oznaku"
+  },
+  "styleTag.coloringBook": {
+    "message": "Knjiga za obeležavanje",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju ovu oznaku"
+  },
+  "styleTag.infographicDrawing": {
+    "message": "Infografika",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju ovu oznaku"
+  },
+  "styleTag.doubleExposure": {
+    "message": "Duple ekspozicije",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju ovu oznaku"
+  },
+  "styleTag.diagrammaticDrawing": {
+    "message": "Dijagramatsko crtanje",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju stil ovog taga"
+  },
+  "styleTag.2DIllustration": {
+    "message": "2D ilustracija",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju stil ovog taga"
+  },
+  "styleTag.diagrammaticPortrait": {
+    "message": "Dijagramatski portret",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju stil ovog taga"
+  },
+  "styleTag.pixelArt": {
+    "message": "Piksel umetnost",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju stil ovog taga"
+  },
+  "styleTag.darkFantasy": {
+    "message": "Tamna fantastika",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju stil ovog taga"
+  },
+  "styleTag.ukiyoEArt": {
+    "message": "Ukiyo-e umetnost",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju stil ovog taga"
+  },
+  "styleTag.paperQuilling": {
+    "message": "Papirno uvijanje",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju stil ovog taga"
+  },
+  "styleTag.paperCutCraft": {
+    "message": "Papirna umetnost",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju stil ovog taga"
+  },
+  "styleTag.iridescent": {
+    "message": "Iridescentno",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju stil ovog taga"
+  },
+  "styleTag.patchworkCollage": {
+    "message": "Patchwork kolaž",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju stil ovog taga"
+  },
+  "styleTag.opArt": {
+    "message": "Op umetnost",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju stil ovog taga"
+  },
+  "styleTag.japaneseInk": {
+    "message": "Japanska mastila",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju stil ovog taga"
+  },
+  "styleTag.pastelDrawing": {
+    "message": "Pastelno crtanje",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju stil ovog taga"
+  },
+  "styleTag.drippingArt": {
+    "message": "Kapljasta umetnost",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju stil ovog taga"
+  },
+  "styleTag.tattooArt": {
+    "message": "Tetovažna umetnost",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju stil ovog taga"
+  },
+  "styleTag.16Bit": {
+    "message": "16 bita",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju stil ovog taga"
+  },
+  "styleTag.8Bit": {
+    "message": "8 bita",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju stil ovog taga"
+  },
+  "styleTag.amber": {
+    "message": "Biserna boja",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju stil ovog taga"
+  },
+  "styleTag.anatomicalDrawing": {
+    "message": "Anatomski crtež",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju stil ovog taga"
+  },
+  "styleTag.ancient": {
+    "message": "Antički",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju stil ovog taga"
+  },
+  "styleTag.anime": {
+    "message": "Anime",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju stil ovog taga"
+  },
+  "styleTag.arabic": {
+    "message": "Arapski",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju stil ovog taga"
+  },
+  "styleTag.blocky": {
+    "message": "Kockasti",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju stil ovog taga"
+  },
+  "styleTag.blueprint": {
+    "message": "Plan",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju stil ovog taga"
+  },
+  "styleTag.comicbook": {
+    "message": "Strip",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju stil ovog taga"
+  },
+  "styleTag.caribbean": {
+    "message": "Karipski",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju stil ovog taga"
+  },
+  "styleTag.celestial": {
+    "message": "Nebeski",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju stil ovog taga"
+  },
+  "styleTag.cellulose": {
+    "message": "Celuloza",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju stil ovog taga"
+  },
+  "styleTag.charcoalStyle": {
+    "message": "Umetnost ugljena",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju stil ovog taga"
+  },
+  "styleTag.chromatic": {
+    "message": "Hromatski",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju stil ovog taga"
+  },
+  "styleTag.coral": {
+    "message": "Koralni",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike treba da uključuju stil ovog taga"
+  },
+  "styleTag.conceptArt": {
+    "message": "Konceptualna umetnost",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale da sadrže stil ovog taga."
+  },
+  "styleTag.fibonacci": {
+    "message": "Fibonacijeva",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale da sadrže stil ovog taga."
+  },
+  "styleTag.cyberpunk": {
+    "message": "Ciberpunk",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale da sadrže stil ovog taga."
+  },
+  "styleTag.diabolic": {
+    "message": "Đavolski",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale da sadrže stil ovog taga."
+  },
+  "styleTag.diffractionGrading": {
+    "message": "Difrakcija",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale da sadrže stil ovog taga."
+  },
+  "styleTag.lightspeed": {
+    "message": "Brzina svetlosti",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale da sadrže stil ovog taga."
+  },
+  "styleTag.liquid": {
+    "message": "Tekuće",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale da sadrže stil ovog taga."
+  },
+  "styleTag.dots": {
+    "message": "Tačkasta",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale da sadrže stil ovog taga."
+  },
+  "styleTag.dune": {
+    "message": "Peskoviti",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale da sadrže stil ovog taga."
+  },
+  "styleTag.drippingPaint": {
+    "message": "Kapi boje",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale da sadrže stil ovog taga."
+  },
+  "styleTag.electronicCircuitry": {
+    "message": "Elektronska kola",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale da sadrže stil ovog taga."
+  },
+  "styleTag.electrical": {
+    "message": "Električni",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale da sadrže stil ovog taga."
+  },
+  "styleTag.futuristic": {
+    "message": "Futuristički",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale da sadrže stil ovog taga."
+  },
+  "styleTag.etching": {
+    "message": "Graviranje",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale da sadrže stil ovog taga."
+  },
+  "styleTag.extraterrestrial": {
+    "message": "Vanzemaljski",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale da sadrže stil ovog taga."
+  },
+  "styleTag.glitchart": {
+    "message": "Greška umetnost",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale da sadrže stil ovog taga."
+  },
+  "styleTag.floral": {
+    "message": "Cvećasti",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale da sadrže stil ovog taga."
+  },
+  "styleTag.fractal": {
+    "message": "Fraktalni",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale da sadrže stil ovog taga."
+  },
+  "styleTag.preHistoric": {
+    "message": "Pretistorijski",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale da sadrže stil ovog taga."
+  },
+  "styleTag.prokaryotic": {
+    "message": "Prokariotski",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale da sadrže stil ovog taga."
+  },
+  "styleTag.horror": {
+    "message": "Horor",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale da sadrže stil ovog taga."
+  },
+  "styleTag.iceAge": {
+    "message": "Ledeno doba",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale da sadrže stil ovog taga."
+  },
+  "styleTag.jurassic": {
+    "message": "Jura",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale da sadrže stil ovog taga."
+  },
+  "styleTag.knitted": {
+    "message": "Pletivo",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale da sadrže stil ovog taga."
+  },
+  "styleTag.polka": {
+    "message": "Piker",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale da sadrže stil ovog taga."
+  },
+  "styleTag.latex": {
+    "message": "Lateks",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale da sadrže stil ovog taga."
+  },
+  "styleTag.pastel": {
+    "message": "Pastel",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale da sadrže stil ovog taga."
+  },
+  "styleTag.mandala": {
+    "message": "Mandala",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale da sadrže stil ovog taga."
+  },
+  "styleTag.molecular": {
+    "message": "Molekularni",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale da sadrže stil ovog taga."
+  },
+  "styleTag.merkaba": {
+    "message": "Merkaba",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale da sadrže stil ovog taga."
+  },
+  "styleTag.mitochondria": {
+    "message": "Mitohondrija",
+    "description": "Reč stil koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale da sadrže stil ovog taga."
+  },
+  "styleTag.graffiti": {
+    "message": "Grafiti",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da sadrže stil označen ovim tagom."
+  },
+  "styleTag.graphicNovel": {
+    "message": "Grafički romani",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da sadrže stil označen ovim tagom."
+  },
+  "styleTag.multidimensional": {
+    "message": "Višedimenzionalno",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da sadrže stil označen ovim tagom."
+  },
+  "styleTag.nasa": {
+    "message": "NASA",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da sadrže stil označen ovim tagom."
+  },
+  "styleTag.nebula": {
+    "message": "Maglina",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da sadrže stil označen ovim tagom."
+  },
+  "styleTag.neon": {
+    "message": "Neon",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da sadrže stil označen ovim tagom."
+  },
+  "styleTag.nuclear": {
+    "message": "Nuklearno",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da sadrže stil označen ovim tagom."
+  },
+  "styleTag.orbital": {
+    "message": "Orbitalno",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da sadrže stil označen ovim tagom."
+  },
+  "styleTag.rayTracing": {
+    "message": "Praćenje svetlosti",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da sadrže stil označen ovim tagom."
+  },
+  "styleTag.realistic": {
+    "message": "Realističan",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da sadrže stil označen ovim tagom."
+  },
+  "styleTag.renaissance": {
+    "message": "Renesansa",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da sadrže stil označen ovim tagom."
+  },
+  "styleTag.retro": {
+    "message": "Retro",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da sadrže stil označen ovim tagom."
+  },
+  "styleTag.risograph": {
+    "message": "Risograf",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da sadrže stil označen ovim tagom."
+  },
+  "styleTag.origami": {
+    "message": "Origami",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da sadrže stil označen ovim tagom."
+  },
+  "styleTag.ornamental": {
+    "message": "Ornamentalno",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da sadrže stil označen ovim tagom."
+  },
+  "styleTag.space": {
+    "message": "Svemir",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da sadrže stil označen ovim tagom."
+  },
+  "styleTag.splatterPaint": {
+    "message": "Kapljajuća boja",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da sadrže stil označen ovim tagom."
+  },
+  "styleTag.sprayPaint": {
+    "message": "Sprej boja",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da sadrže stil označen ovim tagom."
+  },
+  "styleTag.squiggles": {
+    "message": "Krivudave linije",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da sadrže stil označen ovim tagom."
+  },
+  "styleTag.stitching": {
+    "message": "Šivenje",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da sadrže stil označen ovim tagom."
+  },
+  "styleTag.veins": {
+    "message": "Vene",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da sadrže stil označen ovim tagom."
+  },
+  "styleTag.streetArt": {
+    "message": "Ulična umetnost",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da sadrže stil označen ovim tagom."
+  },
+  "styleTag.surreal": {
+    "message": "Surorealno",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da sadrže stil označen ovim tagom."
+  },
+  "styleTag.symmetric": {
+    "message": "Simetrično",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da sadrže stil označen ovim tagom."
+  },
+  "styleTag.synthWave": {
+    "message": "SynthWave",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da sadrže stil označen ovim tagom."
+  },
+  "styleTag.technological": {
+    "message": "Tehnološko",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da sadrže stil označen ovim tagom."
+  },
+  "styleTag.tron": {
+    "message": "Tron",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da sadrže stil označen ovim tagom."
+  },
+  "styleTag.tropical": {
+    "message": "Tropski",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da sadrže stil označen ovim tagom."
+  },
+  "styleTag.ultraModern": {
+    "message": "Ultra modern",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da sadrže stil označen ovim tagom."
+  },
+  "styleTag.wormhole": {
+    "message": "Crvotočina",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da sadrže stil označen ovim tagom."
+  },
+  "styleTag.wrinkled": {
+    "message": "Naborano",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike treba da sadrže stil označen ovim tagom."
+  },
+  "styleTag.volcanic": {
+    "message": "Vulkan",
+    "description": "Reč stila za opisivanje i generisanje slika, generisane slike treba da imaju stil ovog taga."
+  },
+  "styleTag.wetPaint": {
+    "message": "Mokrim bojama",
+    "description": "Reč stila za opisivanje i generisanje slika, generisane slike treba da imaju stil ovog taga."
+  },
+  "styleTag.wildWest": {
+    "message": "Divlji Zapad",
+    "description": "Reč stila za opisivanje i generisanje slika, generisane slike treba da imaju stil ovog taga."
+  },
+  "styleTag.wind": {
+    "message": "Vetrovito",
+    "description": "Reč stila za opisivanje i generisanje slika, generisane slike treba da imaju stil ovog taga."
+  },
+  "styleTag.miniatureFaking": {
+    "message": "Miniaturna imitacija",
+    "description": "Reč stila za opisivanje i generisanje slika, generisane slike treba da imaju stil ovog taga."
+  },
+  "styleTag.accentLighting": {
+    "message": "Akcentna svetlost",
+    "description": "Reč stila za opisivanje i generisanje slika, generisane slike treba da imaju stil ovog taga."
+  },
+  "styleTag.backlight": {
+    "message": "Pozadinsko osvetljenje",
+    "description": "Reč stila za opisivanje i generisanje slika, generisane slike treba da imaju stil ovog taga."
+  },
+  "styleTag.blacklight": {
+    "message": "Ultravioletna svetlost",
+    "description": "Reč stila za opisivanje i generisanje slika, generisane slike treba da imaju stil ovog taga."
+  },
+  "styleTag.goldenHourLight": {
+    "message": "Zlatno svetlo",
+    "description": "Reč stila za opisivanje i generisanje slika, generisane slike treba da imaju stil ovog taga."
+  },
+  "styleTag.candlelight": {
+    "message": "Svetlost sveće",
+    "description": "Reč stila za opisivanje i generisanje slika, generisane slike treba da imaju stil ovog taga."
+  },
+  "styleTag.concertLighting": {
+    "message": "Osvetljenje koncerta",
+    "description": "Reč stila za opisivanje i generisanje slika, generisane slike treba da imaju stil ovog taga."
+  },
+  "styleTag.crepuscularRays": {
+    "message": "Sumračne zrake",
+    "description": "Reč stila za opisivanje i generisanje slika, generisane slike treba da imaju stil ovog taga."
+  },
+  "styleTag.directSunlight": {
+    "message": "Direktna sunčeva svetlost",
+    "description": "Reč stila za opisivanje i generisanje slika, generisane slike treba da imaju stil ovog taga."
+  },
+  "styleTag.dust": {
+    "message": "Prašina",
+    "description": "Reč stila za opisivanje i generisanje slika, generisane slike treba da imaju stil ovog taga."
+  },
+  "styleTag.studioLighting": {
+    "message": "Osvetljenje studija",
+    "description": "Reč stila za opisivanje i generisanje slika, generisane slike treba da imaju stil ovog taga."
+  },
+  "styleTag.rimLight": {
+    "message": "Rubna svetlost",
+    "description": "Reč stila za opisivanje i generisanje slika, generisane slike treba da imaju stil ovog taga."
+  },
+  "styleTag.volumetricLighting": {
+    "message": "Volumetrijska svetlost",
+    "description": "Reč stila za opisivanje i generisanje slika, generisane slike treba da imaju stil ovog taga."
+  },
+  "styleTag.fluorescent": {
+    "message": "Fluorescentna svetlost",
+    "description": "Reč stila za opisivanje i generisanje slika, generisane slike treba da imaju stil ovog taga."
+  },
+  "styleTag.glowing": {
+    "message": "Sjajeće",
+    "description": "Reč stila za opisivanje i generisanje slika, generisane slike treba da imaju stil ovog taga."
+  },
+  "styleTag.glowStick": {
+    "message": "Sjajna štap",
+    "description": "Reč stila za opisivanje i generisanje slika, generisane slike treba da imaju stil ovog taga."
+  },
+  "styleTag.glowRadioactive": {
+    "message": "Radioaktivno sjajenje",
+    "description": "Reč stila za opisivanje i generisanje slika, generisane slike treba da imaju stil ovog taga."
+  },
+  "styleTag.lavaGlow": {
+    "message": "Svetlucanje lave",
+    "description": "Reč stila za opisivanje i generisanje slika, generisane slike treba da imaju stil ovog taga."
+  },
+  "styleTag.moonlight": {
+    "message": "Mesečina",
+    "description": "Reč stila za opisivanje i generisanje slika, generisane slike treba da imaju stil ovog taga."
+  },
+  "styleTag.naturalLighting": {
+    "message": "Prirodna svetlost",
+    "description": "Reč stila za opisivanje i generisanje slika, generisane slike treba da imaju stil ovog taga."
+  },
+  "styleTag.neonLamp": {
+    "message": "Neonska svetlost",
+    "description": "Reč stila za opisivanje i generisanje slika, generisane slike treba da imaju stil ovog taga."
+  },
+  "styleTag.nightclubLighting": {
+    "message": "Noćni klub svetlost",
+    "description": "Reč stila za opisivanje i generisanje slika, generisane slike treba da imaju stil ovog taga."
+  },
+  "styleTag.nuclearWasteGlo": {
+    "message": "Svetlucanje nuklearnog otpada",
+    "description": "Reč stila za opisivanje i generisanje slika, generisane slike treba da imaju stil ovog taga."
+  },
+  "styleTag.quantumDot": {
+    "message": "Kvantna tačka",
+    "description": "Reč stila za opisivanje i generisanje slika, generisane slike treba da imaju stil ovog taga."
+  },
+  "styleTag.spotlight": {
+    "message": "Reflektor",
+    "description": "Reč stila za opisivanje i generisanje slika, generisane slike treba da imaju stil ovog taga."
+  },
+  "styleTag.edgeLight": {
+    "message": "Rubna svetlost",
+    "description": "Reč stila za opisivanje i generisanje slika, generisane slike treba da imaju stil ovog taga."
+  },
+  "styleTag.coldLight": {
+    "message": "Hladna svetlost",
+    "description": "Reč stila za opisivanje i generisanje slika, generisane slike treba da imaju stil ovog taga."
+  },
+  "styleTag.keyLighting": {
+    "message": "Ključna svetlost",
+    "description": "Reč koja se koristi za opisivanje i generisanje stila slike, generisana slika treba da sadrži stil označen ovom etiketom."
+  },
+  "styleTag.ambientLight": {
+    "message": "Ambijentalna svetlost",
+    "description": "Reč koja se koristi za opisivanje i generisanje stila slike, generisana slika treba da sadrži stil označen ovom etiketom."
+  },
+  "styleTag.highKeyLighting": {
+    "message": "Visoka ključna svetlost",
+    "description": "Reč koja se koristi za opisivanje i generisanje stila slike, generisana slika treba da sadrži stil označen ovom etiketom."
+  },
+  "styleTag.lowKeyLighting": {
+    "message": "Niska ključna svetlost",
+    "description": "Reč koja se koristi za opisivanje i generisanje stila slike, generisana slika treba da sadrži stil označen ovom etiketom."
+  },
+  "styleTag.motivatedLighting": {
+    "message": "Motivaciona svetlost",
+    "description": "Reč koja se koristi za opisivanje i generisanje stila slike, generisana slika treba da sadrži stil označen ovom etiketom."
+  },
+  "styleTag.3PointLighting": {
+    "message": "Tri tačke svetlosti",
+    "description": "Reč koja se koristi za opisivanje i generisanje stila slike, generisana slika treba da sadrži stil označen ovom etiketom."
+  },
+  "styleTag.strobeLight": {
+    "message": "Bljeskalica",
+    "description": "Reč koja se koristi za opisivanje i generisanje stila slike, generisana slika treba da sadrži stil označen ovom etiketom."
+  },
+  "styleTag.sunLight": {
+    "message": "Sunčeva svetlost",
+    "description": "Reč koja se koristi za opisivanje i generisanje stila slike, generisana slika treba da sadrži stil označen ovom etiketom."
+  },
+  "styleTag.ultraviolet": {
+    "message": "Ultraviolet",
+    "description": "Reč koja se koristi za opisivanje i generisanje stila slike, generisana slika treba da sadrži stil označen ovom etiketom."
+  },
+  "styleTag.beautifulLighting": {
+    "message": "Lepa svetlost",
+    "description": "Reč koja se koristi za opisivanje i generisanje stila slike, generisana slika treba da sadrži stil označen ovom etiketom."
+  },
+  "styleTag.moodyLighting": {
+    "message": "Rasveta raspoloženja",
+    "description": "Reč koja se koristi za opisivanje i generisanje stila slike, generisana slika treba da sadrži stil označen ovom etiketom."
+  },
+  "styleTag.softLighting": {
+    "message": "Blaga svetlost",
+    "description": "Reč koja se koristi za opisivanje i generisanje stila slike, generisana slika treba da sadrži stil označen ovom etiketom."
+  },
+  "styleTag.michelangelo": {
+    "message": "Mikelanđelo",
+    "description": "Reč koja se koristi za opisivanje i generisanje stila slike, generisana slika treba da sadrži stil označen ovom etiketom."
+  },
+  "styleTag.monet": {
+    "message": "Monet",
+    "description": "Reč koja se koristi za opisivanje i generisanje stila slike, generisana slika treba da sadrži stil označen ovom etiketom."
+  },
+  "styleTag.paulCezanne": {
+    "message": "Pol Sezan",
+    "description": "Reč koja se koristi za opisivanje i generisanje stila slike, generisana slika treba da sadrži stil označen ovom etiketom."
+  },
+  "styleTag.markRothko": {
+    "message": "Mark Rotko",
+    "description": "Reč koja se koristi za opisivanje i generisanje stila slike, generisana slika treba da sadrži stil označen ovom etiketom."
+  },
+  "styleTag.paulKlee": {
+    "message": "Pol Kli",
+    "description": "Reč koja se koristi za opisivanje i generisanje stila slike, generisana slika treba da sadrži stil označen ovom etiketom."
+  },
+  "styleTag.picasso": {
+    "message": "Pikaso",
+    "description": "Reč koja se koristi za opisivanje i generisanje stila slike, generisana slika treba da sadrži stil označen ovom etiketom."
+  },
+  "styleTag.pietMondrian": {
+    "message": "Piet Mondrijan",
+    "description": "Reč koja se koristi za opisivanje i generisanje stila slike, generisana slika treba da sadrži stil označen ovom etiketom."
+  },
+  "styleTag.pierreAugusteRer": {
+    "message": "Pjere-Ogist Renoar",
+    "description": "Reč koja se koristi za opisivanje i generisanje stila slike, generisana slika treba da sadrži stil označen ovom etiketom."
+  },
+  "styleTag.rembrandt": {
+    "message": "Rembrandt",
+    "description": "Reč koja se koristi za opisivanje i generisanje stila slike, generisana slika treba da sadrži stil označen ovom etiketom."
+  },
+  "styleTag.reneMagritte": {
+    "message": "Rene Magrit",
+    "description": "Reč koja se koristi za opisivanje i generisanje stila slike, generisana slika treba da sadrži stil označen ovom etiketom."
+  },
+  "styleTag.royLichtenstein": {
+    "message": "Roј Lihtenštajn",
+    "description": "Reč koja se koristi za opisivanje i generisanje stila slike, generisana slika treba da sadrži stil označen ovom etiketom."
+  },
+  "styleTag.salvadorDali": {
+    "message": "Salvador Dali",
+    "description": "Reč koja se koristi za opisivanje i generisanje stila slike, generisana slika treba da sadrži stil označen ovom etiketom."
+  },
+  "styleTag.sandroBotticelli": {
+    "message": "Sandro Boticeli",
+    "description": "Reč koja se koristi za opisivanje i generisanje stila slike, generisana slika treba da sadrži stil označen ovom etiketom."
+  },
+  "styleTag.takashiMurakami": {
+    "message": "Takaši Murakami",
+    "description": "Reč koja se koristi za opisivanje i generisanje stila slike, generisana slika treba da sadrži stil označen ovom etiketom."
+  },
+  "styleTag.vanGogh": {
+    "message": "Van Gog",
+    "description": "Reč koja se koristi za opisivanje i generisanje stila slike, generisana slika treba da sadrži stil označen ovom etiketom."
+  },
+  "styleTag.wassilyKandinsky": {
+    "message": "Vasili Kandinski",
+    "description": "Reč koja se koristi za opisivanje i generisanje stila slike, generisana slika treba da sadrži stil označen ovom etiketom."
+  },
+  "styleTag.matCollishaw": {
+    "message": "Met Kolishaw",
+    "description": "Reč koja se koristi za opisivanje i generisanje stila slike, generisana slika treba da sadrži stil označen ovom etiketom."
+  },
+  "styleTag.yayoiKusama": {
+    "message": "Јајои Кусама",
+    "description": "Користи се за опис и генерацију слика стилом, генерисане слике треба да садрже стил овог ознака."
+  },
+  "styleTag.igorMorski": {
+    "message": "Игор Морски",
+    "description": "Користи се за опис и генерацију слика стилом, генерисане слике треба да садрже стил овог ознака."
+  },
+  "styleTag.shinkaiMakoto": {
+    "message": "Синкай Макото",
+    "description": "Користи се за опис и генерацију слика стилом, генерисане слике треба да садрже стил овог ознака."
+  },
+  "styleTag.pixar": {
+    "message": "Пиксар",
+    "description": "Користи се за опис и генерацију слика стилом, генерисане слике треба да садрже стил овог ознака."
+  },
+  "styleTag.kyotoAnime": {
+    "message": "Кјото аниме",
+    "description": "Користи се за опис и генерацију слика стилом, генерисане слике треба да садрже стил овог ознака."
+  },
+  "styleTag.jerryPinkney": {
+    "message": "Џери Пинкни",
+    "description": "Користи се за опис и генерацију слика стилом, генерисане слике треба да садрже стил овог ознака."
+  },
+  "styleTag.hayaoMiyazaki": {
+    "message": "Хајао Мијађаки",
+    "description": "Користи се за опис и генерацију слика стилом, генерисане слике треба да садрже стил овог ознака."
+  },
+  "styleTag.beatrixPotter": {
+    "message": "Беатрис Потер",
+    "description": "Користи се за опис и генерацију слика стилом, генерисане слике треба да садрже стил овог ознака."
+  },
+  "styleTag.jonKlassen": {
+    "message": "Џон Класен",
+    "description": "Користи се за опис и генерацију слика стилом, генерисане слике треба да садрже стил овог ознака."
+  },
+  "styleTag.kaySage": {
+    "message": "Кеј Сејџ",
+    "description": "Користи се за опис и генерацију слика стилом, генерисане слике треба да садрже стил овог ознака."
+  },
+  "styleTag.jeffreyCatherineJones": {
+    "message": "Џефри Кетрин Џонс",
+    "description": "Користи се за опис и генерацију слика стилом, генерисане слике треба да садрже стил овог ознака."
+  },
+  "styleTag.yaacovAgam": {
+    "message": "Јааков Агам",
+    "description": "Користи се за опис и генерацију слика стилом, генерисане слике треба да садрже стил овог ознака."
+  },
+  "styleTag.davidHockney": {
+    "message": "Дејвид Хокни",
+    "description": "Користи се за опис и генерацију слика стилом, генерисане слике треба да садрже стил овог ознака."
+  },
+  "styleTag.victorMoscoso": {
+    "message": "Виктор MOSCOSO",
+    "description": "Користи се за опис и генерацију слика стилом, генерисане слике треба да садрже стил овог ознака."
+  },
+  "styleTag.raphaelite": {
+    "message": "Рафаелисти",
+    "description": "Користи се за опис и генерацију слика стилом, генерисане слике треба да садрже стил овог ознака."
+  },
+  "styleTag.stefanKoidl": {
+    "message": "Стефан Којдл",
+    "description": "Користи се за опис и генерацију слика стилом, генерисане слике треба да садрже стил овог ознака."
+  },
+  "styleTag.suiIshida": {
+    "message": "Суи Ишида",
+    "description": "Користи се за опис и генерацију слика стилом, генерисане слике треба да садрже стил овог ознака."
+  },
+  "styleTag.swoon": {
+    "message": "Зanos",
+    "description": "Користи се за опис и генерацију слика стилом, генерисане слике треба да садрже стил овог ознака."
+  },
+  "styleTag.tashaTudor": {
+    "message": "Таша Тудор",
+    "description": "Користи се за опис и генерацију слика стилом, генерисане слике треба да садрже стил овог ознака."
+  },
+  "styleTag.tintoretto": {
+    "message": "Тинторето",
+    "description": "Користи се за опис и генерацију слика стилом, генерисане слике треба да садрже стил овог ознака."
+  },
+  "styleTag.theodoreRobinsor": {
+    "message": "Теодор Робинсон",
+    "description": "Користи се за опис и генерацију слика стилом, генерисане слике треба да садрже стил овог ознака."
+  },
+  "styleTag.titian": {
+    "message": "Тицијан",
+    "description": "Користи се за опис и генерацију слика стилом, генерисане слике треба да садрже стил овог ознака."
+  },
+  "styleTag.wlop": {
+    "message": "WLOP",
+    "description": "Користи се за опис и генерацију слика стилом, генерисане слике треба да садрже стил овог ознака."
+  },
+  "styleTag.yanjunCheng": {
+    "message": "Чен Јанжун",
+    "description": "Користи се за опис и генерацију слика стилом, генерисане слике треба да садрже стил овог ознака."
+  },
+  "styleTag.yojiShinkawa": {
+    "message": "Шинкава Јоји",
+    "description": "Користи се за опис и генерацију слика стилом, генерисане слике треба да садрже стил овог ознака."
+  },
+  "styleTag.zhelongXu": {
+    "message": "Сју Желонг",
+    "description": "Користи се за опис и генерацију слика стилом, генерисане слике треба да садрже стил овог ознака."
+  },
+  "styleTag.alenaAenami": {
+    "message": "Алена Аенами",
+    "description": "Користи се за опис и генерацију слика стилом, генерисане слике треба да садрже стил овог ознака."
+  },
+  "styleTag.anntonFadeevi": {
+    "message": "Антон Фадееви",
+    "description": "Користи се за опис и генерацију слика стилом, генерисане слике треба да садрже стил овог ознака."
+  },
+  "styleTag.charlieBowater": {
+    "message": "Чарли Боватар",
+    "description": "Користи се за опис и генерацију слика стилом, генерисане слике треба да садрже стил овог ознака."
+  },
+  "styleTag.coryLoftis": {
+    "message": "Cory Loftis",
+    "description": "Reč stil za opisivanje i generisanje slika, generisane slike treba da sadrže stil ovog oznake."
+  },
+  "styleTag.fenghuaZhong": {
+    "message": "Fenghua Zhong",
+    "description": "Reč stil za opisivanje i generisanje slika, generisane slike treba da sadrže stil ovog oznake."
+  },
+  "styleTag.gregRutkowski": {
+    "message": "Greg Rutkowski",
+    "description": "Reč stil za opisivanje i generisanje slika, generisane slike treba da sadrže stil ovog oznake."
+  },
+  "styleTag.hongSoonsang": {
+    "message": "Hong Soonsang",
+    "description": "Reč stil za opisivanje i generisanje slika, generisane slike treba da sadrže stil ovog oznake."
+  },
+  "styleTag.dennisStock": {
+    "message": "Dennis Stock",
+    "description": "Reč stil za opisivanje i generisanje slika, generisane slike treba da sadrže stil ovog oznake."
+  },
+  "styleTag.michalLisowski": {
+    "message": "Michal Lisowski",
+    "description": "Reč stil za opisivanje i generisanje slika, generisane slike treba da sadrže stil ovog oznake."
+  },
+  "styleTag.paulLehr": {
+    "message": "Paul Lehr",
+    "description": "Reč stil za opisivanje i generisanje slika, generisane slike treba da sadrže stil ovog oznake."
+  },
+  "styleTag.rossTran": {
+    "message": "Ross Tran",
+    "description": "Reč stil za opisivanje i generisanje slika, generisane slike treba da sadrže stil ovog oznake."
+  },
+  "styleTag.antonPieck": {
+    "message": "Anton Pieck",
+    "description": "Reč stil za opisivanje i generisanje slika, generisane slike treba da sadrže stil ovog oznake."
+  },
+  "styleTag.carlBarks": {
+    "message": "Carl Barks",
+    "description": "Reč stil za opisivanje i generisanje slika, generisane slike treba da sadrže stil ovog oznake."
+  },
+  "styleTag.alphonseMucha": {
+    "message": "Alphonse Mucha",
+    "description": "Reč stil za opisivanje i generisanje slika, generisane slike treba da sadrže stil ovog oznake."
+  },
+  "styleTag.andyWarhol": {
+    "message": "Andi Vorhol",
+    "description": "Reč stil za opisivanje i generisanje slika, generisane slike treba da sadrže stil ovog oznake."
+  },
+  "styleTag.banksy": {
+    "message": "Banksy",
+    "description": "Reč stil za opisivanje i generisanje slika, generisane slike treba da sadrže stil ovog oznake."
+  },
+  "styleTag.franciscoDeGoya": {
+    "message": "Francisko Goya",
+    "description": "Reč stil za opisivanje i generisanje slika, generisane slike treba da sadrže stil ovog oznake."
+  },
+  "styleTag.caravaggio": {
+    "message": "Karavađo",
+    "description": "Reč stil za opisivanje i generisanje slika, generisane slike treba da sadrže stil ovog oznake."
+  },
+  "styleTag.diegoRivera": {
+    "message": "Diego Rivera",
+    "description": "Reč stil za opisivanje i generisanje slika, generisane slike treba da sadrže stil ovog oznake."
+  },
+  "styleTag.marcChagall": {
+    "message": "Mark Šagal",
+    "description": "Reč stil za opisivanje i generisanje slika, generisane slike treba da sadrže stil ovog oznake."
+  },
+  "styleTag.edgarDegas": {
+    "message": "Edgar De Gas",
+    "description": "Reč stil za opisivanje i generisanje slika, generisane slike treba da sadrže stil ovog oznake."
+  },
+  "styleTag.eugeneDelacroix": {
+    "message": "Eugene Delakroa",
+    "description": "Reč stil za opisivanje i generisanje slika, generisane slike treba da sadrže stil ovog oznake."
+  },
+  "styleTag.francisBacon": {
+    "message": "Francis Bejkoun",
+    "description": "Reč stil za opisivanje i generisanje slika, generisane slike treba da sadrže stil ovog oznake."
+  },
+  "styleTag.fridaKahlo": {
+    "message": "Frida Kalo",
+    "description": "Reč stil za opisivanje i generisanje slika, generisane slike treba da sadrže stil ovog oznake."
+  },
+  "styleTag.garaldBrom": {
+    "message": "Geral Brom",
+    "description": "Reč stil za opisivanje i generisanje slika, generisane slike treba da sadrže stil ovog oznake."
+  },
+  "styleTag.gustavKlimt": {
+    "message": "Gustav Klimt",
+    "description": "Reč stil za opisivanje i generisanje slika, generisane slike treba da sadrže stil ovog oznake."
+  },
+  "styleTag.henriMatisse": {
+    "message": "Anri Matis",
+    "description": "Reč stil za opisivanje i generisanje slika, generisane slike treba da sadrže stil ovog oznake."
+  },
+  "styleTag.jackKirby": {
+    "message": "Džek Kirbi",
+    "description": "Reč stil za opisivanje i generisanje slika, generisane slike treba da sadrže stil ovog oznake."
+  },
+  "styleTag.jacksonPollock": {
+    "message": "Džekson Polok",
+    "description": "Reč stil za opisivanje i generisanje slika, generisane slike treba da sadrže stil ovog oznake."
+  },
+  "styleTag.johannesVermeer": {
+    "message": "Johannes Vermeer",
+    "description": "Reč stil za opisivanje i generisanje slika, generisane slike treba da sadrže stil ovog oznake."
+  },
+  "styleTag.jeanMichelBasquiat": {
+    "message": "Žan-Mišel Baskijat",
+    "description": "Reč stil za opisivanje i generisanje slika, generisane slike treba da sadrže stil ovog oznake."
+  },
+  "styleTag.marcelDuchamp": {
+    "message": "Marcel Dišan",
+    "description": "Reč stil za opisivanje i generisanje slika, generisane slike treba da sadrže stil ovog oznake."
+  },
+  "styleTag.aluminum": {
+    "message": "Aluminijum",
+    "description": "Koristi se za opisivanje i generisanje slika stila, generisane slike treba da sadrže stil ovog taga."
+  },
+  "styleTag.brick": {
+    "message": "Kamen",
+    "description": "Koristi se za opisivanje i generisanje slika stila, generisane slike treba da sadrže stil ovog taga."
+  },
+  "styleTag.bronze": {
+    "message": "Bronza",
+    "description": "Koristi se za opisivanje i generisanje slika stila, generisane slike treba da sadrže stil ovog taga."
+  },
+  "styleTag.carbonFiber": {
+    "message": "Karboni vlakna",
+    "description": "Koristi se za opisivanje i generisanje slika stila, generisane slike treba da sadrže stil ovog taga."
+  },
+  "styleTag.cardboard": {
+    "message": "Kartonski",
+    "description": "Koristi se za opisivanje i generisanje slika stila, generisane slike treba da sadrže stil ovog taga."
+  },
+  "styleTag.ceramic": {
+    "message": "Keramika",
+    "description": "Koristi se za opisivanje i generisanje slika stila, generisane slike treba da sadrže stil ovog taga."
+  },
+  "styleTag.cotton": {
+    "message": "Pamuk",
+    "description": "Koristi se za opisivanje i generisanje slika stila, generisane slike treba da sadrže stil ovog taga."
+  },
+  "styleTag.fabric": {
+    "message": "Tkanina",
+    "description": "Koristi se za opisivanje i generisanje slika stila, generisane slike treba da sadrže stil ovog taga."
+  },
+  "styleTag.fiberOptic": {
+    "message": "Optička vlakna",
+    "description": "Koristi se za opisivanje i generisanje slika stila, generisane slike treba da sadrže stil ovog taga."
+  },
+  "styleTag.foil": {
+    "message": "Foliја",
+    "description": "Koristi se za opisivanje i generisanje slika stila, generisane slike treba da sadrže stil ovog taga."
+  },
+  "styleTag.yarn": {
+    "message": "Konac",
+    "description": "Koristi se za opisivanje i generisanje slika stila, generisane slike treba da sadrže stil ovog taga."
+  },
+  "styleTag.glass": {
+    "message": "Staklo",
+    "description": "Koristi se za opisivanje i generisanje slika stila, generisane slike treba da sadrže stil ovog taga."
+  },
+  "styleTag.gold": {
+    "message": "Zlatna boja",
+    "description": "Koristi se za opisivanje i generisanje slika stila, generisane slike treba da sadrže stil ovog taga."
+  },
+  "styleTag.gummies": {
+    "message": "Gumene bombone",
+    "description": "Koristi se za opisivanje i generisanje slika stila, generisane slike treba da sadrže stil ovog taga."
+  },
+  "styleTag.leather": {
+    "message": "Koža",
+    "description": "Koristi se za opisivanje i generisanje slika stila, generisane slike treba da sadrže stil ovog taga."
+  },
+  "styleTag.magma": {
+    "message": "Magma",
+    "description": "Koristi se za opisivanje i generisanje slika stila, generisane slike treba da sadrže stil ovog taga."
+  },
+  "styleTag.metallic": {
+    "message": "Metalni izgled",
+    "description": "Koristi se za opisivanje i generisanje slika stila, generisane slike treba da sadrže stil ovog taga."
+  },
+  "styleTag.nickel": {
+    "message": "Nikal",
+    "description": "Koristi se za opisivanje i generisanje slika stila, generisane slike treba da sadrže stil ovog taga."
+  },
+  "styleTag.nylon": {
+    "message": "Najlon",
+    "description": "Koristi se za opisivanje i generisanje slika stila, generisane slike treba da sadrže stil ovog taga."
+  },
+  "styleTag.paper": {
+    "message": "Papir",
+    "description": "Koristi se za opisivanje i generisanje slika stila, generisane slike treba da sadrže stil ovog taga."
+  },
+  "styleTag.plastic": {
+    "message": "Plastika",
+    "description": "Koristi se za opisivanje i generisanje slika stila, generisane slike treba da sadrže stil ovog taga."
+  },
+  "styleTag.quartz": {
+    "message": "Kvarc",
+    "description": "Koristi se za opisivanje i generisanje slika stila, generisane slike treba da sadrže stil ovog taga."
+  },
+  "styleTag.wrap": {
+    "message": "Zavoj",
+    "description": "Koristi se za opisivanje i generisanje slika stila, generisane slike treba da sadrže stil ovog taga."
+  },
+  "styleTag.wooden": {
+    "message": "Drven",
+    "description": "Koristi se za opisivanje i generisanje slika stila, generisane slike treba da sadrže stil ovog taga."
+  },
+  "styleTag.slime": {
+    "message": "Sluz",
+    "description": "Koristi se za opisivanje i generisanje slika stila, generisane slike treba da sadrže stil ovog taga."
+  },
+  "styleTag.engraving": {
+    "message": "Urezivanje",
+    "description": "Koristi se za opisivanje i generisanje slika stila, generisane slike treba da sadrže stil ovog taga."
+  },
+  "styleTag.ivory": {
+    "message": "Slonovača",
+    "description": "Koristi se za opisivanje i generisanje slika stila, generisane slike treba da sadrže stil ovog taga."
+  },
+  "styleTag.basalt": {
+    "message": "Bazalt",
+    "description": "Koristi se za opisivanje i generisanje slika stila, generisane slike treba da sadrže stil ovog taga."
+  },
+  "styleTag.pine": {
+    "message": "Bor",
+    "description": "Koristi se za opisivanje i generisanje slika stila, generisane slike treba da sadrže stil ovog taga."
+  },
+  "styleTag.diamond": {
+    "message": "Dijamant",
+    "description": "Koristi se za opisivanje i generisanje slika stila, generisane slike treba da sadrže stil ovog taga."
+  },
+  "styleTag.amethyst": {
+    "message": "Ametist",
+    "description": "Koristi se za opisivanje i generisanje slika stila, generisane slike treba da sadrže stil ovog taga."
+  },
+  "styleTag.ruby": {
+    "message": "Rubin",
+    "description": "Reč koja se koristi za opisivanje i generisanje slike, generisana slika treba da uključuje stil oznake."
+  },
+  "styleTag.highPolished": {
+    "message": "Visoki sjaj",
+    "description": "Reč koja se koristi za opisivanje i generisanje slike, generisana slika treba da uključuje stil oznake."
+  },
+  "styleTag.brushed": {
+    "message": "Četkana",
+    "description": "Reč koja se koristi za opisivanje i generisanje slike, generisana slika treba da uključuje stil oznake."
+  },
+  "styleTag.matte": {
+    "message": "Mat",
+    "description": "Reč koja se koristi za opisivanje i generisanje slike, generisana slika treba da uključuje stil oznake."
+  },
+  "styleTag.satin": {
+    "message": "Satin",
+    "description": "Reč koja se koristi za opisivanje i generisanje slike, generisana slika treba da uključuje stil oznake."
+  },
+  "styleTag.sandblasted": {
+    "message": "Pesakblasted",
+    "description": "Reč koja se koristi za opisivanje i generisanje slike, generisana slika treba da uključuje stil oznake."
+  },
+  "styleTag.ebony": {
+    "message": "Ebenu",
+    "description": "Reč koja se koristi za opisivanje i generisanje slike, generisana slika treba da uključuje stil oznake."
+  },
+  "styleTag.bokeh": {
+    "message": "Bokeh efekat",
+    "description": "Reč koja se koristi za opisivanje i generisanje slike, generisana slika treba da uključuje stil oznake."
+  },
+  "styleTag.aerialView": {
+    "message": "Aerialni pogled",
+    "description": "Reč koja se koristi za opisivanje i generisanje slike, generisana slika treba da uključuje stil oznake."
+  },
+  "styleTag.shotByDslr": {
+    "message": "Snimljeno DSLR-om",
+    "description": "Reč koja se koristi za opisivanje i generisanje slike, generisana slika treba da uključuje stil oznake."
+  },
+  "styleTag.360Panorama": {
+    "message": "360° panoramski",
+    "description": "Reč koja se koristi za opisivanje i generisanje slike, generisana slika treba da uključuje stil oznake."
+  },
+  "styleTag.panorama": {
+    "message": "Panoramska fotografija",
+    "description": "Reč koja se koristi za opisivanje i generisanje slike, generisana slika treba da uključuje stil oznake."
+  },
+  "styleTag.telephotoLens": {
+    "message": "Telefoto objektiv",
+    "description": "Reč koja se koristi za opisivanje i generisanje slike, generisana slika treba da uključuje stil oznake."
+  },
+  "styleTag.macroShot": {
+    "message": "Makro fotografija",
+    "description": "Reč koja se koristi za opisivanje i generisanje slike, generisana slika treba da uključuje stil oznake."
+  },
+  "styleTag.microscopy": {
+    "message": "Mikroskopsko posmatranje",
+    "description": "Reč koja se koristi za opisivanje i generisanje slike, generisana slika treba da uključuje stil oznake."
+  },
+  "styleTag.magnification": {
+    "message": "Povećano posmatranje",
+    "description": "Reč koja se koristi za opisivanje i generisanje slike, generisana slika treba da uključuje stil oznake."
+  },
+  "styleTag.closeUp": {
+    "message": "Kadar izbliza",
+    "description": "Reč koja se koristi za opisivanje i generisanje slike, generisana slika treba da uključuje stil oznake."
+  },
+  "styleTag.fullBody": {
+    "message": "Puna figura",
+    "description": "Reč koja se koristi za opisivanje i generisanje slike, generisana slika treba da uključuje stil oznake."
+  },
+  "styleTag.portrait": {
+    "message": "Portretna fotografija",
+    "description": "Reč koja se koristi za opisivanje i generisanje slike, generisana slika treba da uključuje stil oznake."
+  },
+  "styleTag.profile": {
+    "message": "Profilna fotografija",
+    "description": "Reč koja se koristi za opisivanje i generisanje slike, generisana slika treba da uključuje stil oznake."
+  },
+  "styleTag.pinholeLens": {
+    "message": "Snimljeno pinhole objektivom",
+    "description": "Reč koja se koristi za opisivanje i generisanje slike, generisana slika treba da uključuje stil oznake."
+  },
+  "styleTag.wideView": {
+    "message": "Široki ugao",
+    "description": "Reč koja se koristi za opisivanje i generisanje slike, generisana slika treba da uključuje stil oznake."
+  },
+  "styleTag.telescopeLens": {
+    "message": "Snimljeno teleskopskim objektivom",
+    "description": "Reč koja se koristi za opisivanje i generisanje slike, generisana slika treba da uključuje stil oznake."
+  },
+  "styleTag.satelliteImagery": {
+    "message": "Satelitska slika",
+    "description": "Reč koja se koristi za opisivanje i generisanje slike, generisana slika treba da uključuje stil oznake."
+  },
+  "styleTag.headshot": {
+    "message": "Fotografija glave",
+    "description": "Reč koja se koristi za opisivanje i generisanje slike, generisana slika treba da uključuje stil oznake."
+  },
+  "styleTag.extremeCloseup": {
+    "message": "Ekstremno izbliza",
+    "description": "Reč koja se koristi za opisivanje i generisanje slike, generisana slika treba da uključuje stil oznake."
+  },
+  "styleTag.ultrawideShot": {
+    "message": "Ultra široki kadar",
+    "description": "Reč koja se koristi za opisivanje i generisanje slike, generisana slika treba da uključuje stil oznake."
+  },
+  "styleTag.birdView": {
+    "message": "Pogled s visine ptice",
+    "description": "Reč koja se koristi za opisivanje i generisanje slike, generisana slika treba da uključuje stil oznake."
+  },
+  "styleTag.topView": {
+    "message": "Pogled odozgo",
+    "description": "Reč koja se koristi za opisivanje i generisanje slike, generisana slika treba da uključuje stil oznake."
+  },
+  "styleTag.frontView": {
+    "message": "Pogled sprijeda",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale uključivati stil označen ovom etiketom."
+  },
+  "styleTag.sideView": {
+    "message": "Pogled sa strane",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale uključivati stil označen ovom etiketom."
+  },
+  "styleTag.backView": {
+    "message": "Pogled straga",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale uključivati stil označen ovom etiketom."
+  },
+  "styleTag.faceShot": {
+    "message": "Portret lica",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale uključivati stil označen ovom etiketom."
+  },
+  "styleTag.chestShot": {
+    "message": "Portret grudi",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale uključivati stil označen ovom etiketom."
+  },
+  "styleTag.waistShot": {
+    "message": "Portret struka",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale uključivati stil označen ovom etiketom."
+  },
+  "styleTag.extraLongShot": {
+    "message": "Ekstra duga scena",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale uključivati stil označen ovom etiketom."
+  },
+  "styleTag.lookUp": {
+    "message": "Pogled odozdo",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale uključivati stil označen ovom etiketom."
+  },
+  "styleTag.isometricview": {
+    "message": "Izometrijski pogled",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale uključivati stil označen ovom etiketom."
+  },
+  "styleTag.highAngleView": {
+    "message": "Pogled iz visine",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale uključivati stil označen ovom etiketom."
+  },
+  "styleTag.lowAngleView": {
+    "message": "Pogled iz niskog ugla",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale uključivati stil označen ovom etiketom."
+  },
+  "styleTag.happy": {
+    "message": "Srećan",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale uključivati stil označen ovom etiketom."
+  },
+  "styleTag.excited": {
+    "message": "Uzbuđen",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale uključivati stil označen ovom etiketom."
+  },
+  "styleTag.angry": {
+    "message": "Besan",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale uključivati stil označen ovom etiketom."
+  },
+  "styleTag.ped": {
+    "message": "Iznerviran",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale uključivati stil označen ovom etiketom."
+  },
+  "styleTag.disgusted": {
+    "message": "Gađenje",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale uključivati stil označen ovom etiketom."
+  },
+  "styleTag.supnned": {
+    "message": "Iznenađen",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale uključivati stil označen ovom etiketom."
+  },
+  "styleTag.hopeful": {
+    "message": "Puno nade",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale uključivati stil označen ovom etiketom."
+  },
+  "styleTag.anxious": {
+    "message": "Anksiozan",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale uključivati stil označen ovom etiketom."
+  },
+  "styleTag.elated": {
+    "message": "Ushićen",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale uključivati stil označen ovom etiketom."
+  },
+  "styleTag.fearful": {
+    "message": "Uplašen",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale uključivati stil označen ovom etiketom."
+  },
+  "styleTag.hateful": {
+    "message": "Mržnja",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale uključivati stil označen ovom etiketom."
+  },
+  "styleTag.apoow": {
+    "message": "Ogorčen",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale uključivati stil označen ovom etiketom."
+  },
+  "styleTag.dark": {
+    "message": "Tamno",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale uključivati stil označen ovom etiketom."
+  },
+  "styleTag.brutal": {
+    "message": "Brutalan",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale uključivati stil označen ovom etiketom."
+  },
+  "styleTag.hanfu": {
+    "message": "Hanfu",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale uključivati stil označen ovom etiketom."
+  },
+  "styleTag.cheongsam": {
+    "message": "Čiangsam",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale uključivati stil označen ovom etiketom."
+  },
+  "styleTag.chineseCostume": {
+    "message": "Kineska nošnja",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale uključivati stil označen ovom etiketom."
+  },
+  "styleTag.chineseDress": {
+    "message": "Kineska haljina",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale uključivati stil označen ovom etiketom."
+  },
+  "styleTag.wuxia": {
+    "message": "Vuxia",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale uključivati stil označen ovom etiketom."
+  },
+  "styleTag.chinesePhoenix": {
+    "message": "Feniks",
+    "description": "Reč stila koja se koristi za opisivanje i generisanje slika, generisane slike bi trebale uključivati stil označen ovom etiketom."
+  },
+  "styleTag.kungfu": {
+    "message": "Кунг фу",
+    "description": "Реч стилa за описивање и генерисање слика, генерисана слика треба да садржи стил овог ознака."
+  },
+  "styleTag.kunquOpera": {
+    "message": "Кунку опера",
+    "description": "Реч стилa за описивање и генерисање слика, генерисана слика треба да садржи стил овог ознака."
+  },
+  "styleTag.cloisonne": {
+    "message": "Клоисоне",
+    "description": "Реч стилa за описивање и генерисање слика, генерисана слика треба да садржи стил овог ознака."
+  },
+  "styleTag.porcelain": {
+    "message": "Порцелан",
+    "description": "Реч стилa за описивање и генерисање слика, генерисана слика треба да садржи стил овог ознака."
+  },
+  "styleTag.embroidered": {
+    "message": "Вез",
+    "description": "Реч стилa за описивање и генерисање слика, генерисана слика треба да садржи стил овог ознака."
+  },
+  "styleTag.jade": {
+    "message": "Јадеит",
+    "description": "Реч стилa за описивање и генерисање слика, генерисана слика треба да садржи стил овог ознака."
+  },
+  "styleTag.chinesePavilion": {
+    "message": "Кинески павилион",
+    "description": "Реч стилa за описивање и генерисање слика, генерисана слика треба да садржи стил овог ознака."
+  },
+  "styleTag.plumFlower": {
+    "message": "Цвет шљиве",
+    "description": "Реч стилa за описивање и генерисање слика, генерисана слика треба да садржи стил овог ознака."
+  },
+  "styleTag.forbiddenCity": {
+    "message": "Забрањени град",
+    "description": "Реч стилa за описивање и генерисање слика, генерисана слика треба да садржи стил овог ознака."
+  },
+  "styleTag.peony": {
+    "message": "Пеонија",
+    "description": "Реч стилa за описивање и генерисање слика, генерисана слика треба да садржи стил овог ознака."
+  },
+  "styleTag.unrealEngine": {
+    "message": "Нестварни мотор",
+    "description": "Реч стилa за описивање и генерисање слика, генерисана слика треба да садржи стил овог ознака."
+  },
+  "styleTag.octaneRender": {
+    "message": "Octane рендер",
+    "description": "Реч стилa за описивање и генерисање слика, генерисана слика треба да садржи стил овог ознака."
+  },
+  "styleTag.maxonCinema4D": {
+    "message": "Maxon Cinema 4D",
+    "description": "Реч стилa за описивање и генерисање слика, генерисана слика треба да садржи стил овог ознака."
+  },
+  "styleTag.quixelMegascansRender": {
+    "message": "Quixel Megascans рендер",
+    "description": "Реч стилa за описивање и генерисање слика, генерисана слика треба да садржи стил овог ознака."
+  },
+  "styleTag.coronaRender": {
+    "message": "Corona рендер",
+    "description": "Реч стилa за описивање и генерисање слика, генерисана слика треба да садржи стил овог ознака."
+  },
+  "styleTag.vRay": {
+    "message": "V-ray",
+    "description": "Реч стилa за описивање и генерисање слика, генерисана слика треба да садржи стил овог ознака."
+  },
+  "styleTag.architecturalVisualisation": {
+    "message": "Архитектонска визуализација",
+    "description": "Реч стилa за описивање и генерисање слика, генерисана слика треба да садржи стил овог ознака."
+  },
+  "styleTag.dramaticContrast": {
+    "message": "Драматичне контрастне",
+    "description": "Реч стилa за описивање и генерисање слика, генерисана слика треба да садржи стил овог ознака."
+  },
+  "styleTag.goldAndBlackTone": {
+    "message": "Златне и црне нијансе",
+    "description": "Реч стилa за описивање и генерисање слика, генерисана слика треба да садржи стил овог ознака."
+  },
+  "styleTag.whiteAndPinkTone": {
+    "message": "Белe и ружичасте нијансе",
+    "description": "Реч стилa за описивање и генерисање слика, генерисана слика треба да садржи стил овог ознака."
+  },
+  "styleTag.redAndBlackTone": {
+    "message": "Црвене и црне нијансе",
+    "description": "Реч стилa за описивање и генерисање слика, генерисана слика треба да садржи стил овог ознака."
+  },
+  "styleTag.neonShades": {
+    "message": "Неонске нијансе",
+    "description": "Реч стилa за описивање и генерисање слика, генерисана слика треба да садржи стил овог ознака."
+  },
+  "styleTag.richColor": {
+    "message": "Богате боје",
+    "description": "Реч стилa за описивање и генерисање слика, генерисана слика треба да садржи стил овог ознака."
+  },
+  "styleTag.monotone": {
+    "message": "Монохроматски",
+    "description": "Реч стилa за описивање и генерисање слика, генерисана слика треба да садржи стил овог ознака."
+  },
+  "styleTag.theLowPurityTone": {
+    "message": "Низке чистоће тон",
+    "description": "Реч стилa за описивање и генерисање слика, генерисана слика треба да садрži стил овог ознака."
+  },
+  "styleTag.theHighPurityTone": {
+    "message": "Високе чистоће тон",
+    "description": "Реч стилa за описивање и генерисање слика, генерисана слика треба да садрži стил овог ознака."
+  },
+  "button.low": {
+    "message": "Ниско",
+    "description": "Текст на дугмету, који означава 'нису' квалитет слике"
+  },
+  "button.medium": {
+    "message": "Умерено",
+    "description": "Текст на дугмету, који означава 'умерен' квалитет слике"
+  },
+  "button.high": {
+    "message": "Висок",
+    "description": "Текст на дугмету, који означава 'висок' квалитет слике"
+  },
+  "button.buyMore": {
+    "message": "Купи више",
+    "description": "Текст на дугмету, који омогућује кориснику да купи више поена"
+  },
+  "button.select": {
+    "message": "Изабери",
+    "description": "Текст на дугмету, који омогућује кориснику да изабере опцију"
+  },
+  "button.uploadReferences": {
+    "message": "Отпремите",
+    "description": "Текст на дугмету, који омогућује кориснику да отпреми референце"
+  },
+  "button.success": {
+    "message": "Успех",
+    "description": "Текст на dugmetu, koji označava da je operacija uspela"
+  },
+  "button.generating": {
+    "message": "Генерисање",
+    "description": "Текст na dugmetu, koji označava da je operacija u toku"
+  },
+  "button.failed": {
+    "message": "Неуспех",
+    "description": "Текст na dugmetu, koji označava da je operacija neuspešna"
+  },
+  "button.download": {
+    "message": "Преузми",
+    "description": "Текст na dugmetu, koji omogućava korisniku da preuzme rezultate"
+  },
+  "button.fast": {
+    "message": "Брзи режим",
+    "description": "Текст na dugmetu, koji omogućava korisniku da postavi 'брзи режим' za generisanje slika"
+  },
+  "button.relax": {
+    "message": "Спори режим",
+    "description": "Текст na dugmetu, koji omogućava korisniku da postavi 'спори режим' za generisanje slika"
+  },
+  "button.turbo": {
+    "message": "Турбо режим",
+    "description": "Текст na dugmetu, koji omogućava korisniku da postavi 'турбо режим' za generisanje slika"
+  },
+  "button.more": {
+    "message": "Више",
+    "description": "Текст na dugmetu, koji omogućava korisniku da vidi više opcija"
+  },
+  "button.generate": {
+    "message": "Генериши",
+    "description": "Текст na dugmetu, koji omogućava korisniku da generiše sliku"
+  },
+  "button.history": {
+    "message": "Историја",
+    "description": "Текст na dugmetu, koji omogućava korisniku da pregleda istoriju generisanih slika"
+  },
+  "button.generateNew": {
+    "message": "Генериши нову слику",
+    "description": "Текст na dugmetu, koji omogućava korisniku da nacrta novu sliku"
+  },
+  "field.taskId": {
+    "message": "ID задатка",
+    "description": "ID задатка"
+  },
+  "field.imageId": {
+    "message": "ID слике",
+    "description": "ID слике"
+  },
+  "field.finalPrompt": {
+    "message": "Коначни упит",
+    "description": "Коначан упит коришћен за генерисање слике"
+  },
+  "field.elements": {
+    "message": "Стил",
+    "description": "Стил цртежа за генерисање слике"
+  },
+  "field.failureReason": {
+    "message": "Разлог за неуспех",
+    "description": "Разлог за неуспех"
+  },
+  "field.traceId": {
+    "message": "Трагање ID",
+    "description": "ID за праћење захтева за генерисање слике, не преводите, оставите kao 'Трагање ID'"
+  },
+  "description.model": {
+    "message": "Изаберите модел за генерисање слике, универзалан је за већину сцена, Niji је погодан за аниме стил",
+    "description": "Опис параметра модела"
+  },
+  "description.aspect": {
+    "message": "--aspect, промени однос ширине и висине генерисане слике, подразумевана вредност зависи од модела и режима",
+    "description": "Опис параметра аспекта"
+  },
+  "description.elements": {
+    "message": "Изаберите стилске елементе за генерисање слике",
+    "description": "Опис параметра елемената"
+  },
+  "description.chaos": {
+    "message": "--chaos, подешавање степена промене у генерисаној слици, што је већи број, слика је јединственија и неочекиванија, распон 0-100, подразумевано 1",
+    "description": "Опис параметра хаоса"
+  },
+  "description.fast": {
+    "message": "Искључи тренутна подешавања, радиј самосталне генерисање у 'брзом режиму', без подразумеване вредности",
+    "description": "Опис параметра брзине"
+  },
+  "description.iw": {
+    "message": "--iw, подешавање значаја упита слике у односу на текстуални упит током генерисања, распон 0-2, подразумевано 1",
+    "description": "Опис параметра iw"
+  },
+  "description.no": {
+    "message": "--no, указује систему генерисања да покуша да искључи одређене елементе, на пример '--no plants' покушава да генерише слике без биља, без подразумеване вредности",
+    "description": "Опис параметра искључења, превешће se на 'искључи'"
+  },
+  "description.quality": {
+    "message": "--quality, подешавање квалитета генерисаних слика и времена рендеровања, распон.25, .5 или 1, подразумевано 1",
+    "description": "Опис параметра квалитета"
+  },
+  "description.random": {
+    "message": "Додавање случајног основног кода стилу, можете користити '--style random-16', '--style random-64' или '--style random-128' за различите дужине случајних стилских ефеката, без подразумеване вредности",
+    "description": "Опис параметра случајности"
+  },
+  "description.relax": {
+    "message": "Препокривање тренутних подешавања, радиј самосталну задаћу у 'спором режиму', без подразумеване вредности",
+    "description": "Опис параметра опуштања"
+  },
+  "description.repeat": {
+    "message": "--repeat, креирање више задатака из једног упита, распон 1-40, подразумевано 1",
+    "description": "Опис параметра поновљења"
+  },
+  "description.seed": {
+    "message": "--seed, почетни визуелни шум за генерисање слике, распон 0-4294967295, подразумевано насумце"
+  },
+  "description.stop": {
+    "message": "--stop, заустављање задатка у било којој фази генерисања, распон 10-100, подразумевано 100 (тј. потпуно генерисање)",
+    "description": "Опис параметра заустављања"
+  },
+  "description.style": {
+    "message": "--style, прелазак између различитих верзија или стилова модела Midjourney или Niji, као што су raw, cute, expressive, original, scenic, подразумевана вредност зависи од модела и режима",
+    "description": "Опис параметра стила"
+  },
+  "description.stylize": {
+    "message": "--stylize, подешавање интензитета Midjourney подразумеване естетике у генерисању задатака, распон 0-1000, подразумевано 100",
+    "description": "Опис параметра стилизације"
+  },
+  "description.tile": {
+    "message": "--tile, generiši sliku koja se može koristiti za kreiranje neprekidnih pločica, bez podrazumevane vrednosti",
+    "description": "Opis parametra za pločice"
+  },
+  "description.turbo": {
+    "message": "Preklapa trenutne postavke, izvršava jedan zadatak u 'turbo režimu', bez podrazumevane vrednosti",
+    "description": "Opis turbo parametra"
+  },
+  "description.weird": {
+    "message": "--weird, istraži neobične estetske stilove sa eksperimentalnom prirodom, opseg od 0-3000, podrazumevano 0",
+    "description": "Opis čudnog parametra"
+  },
+  "description.translation": {
+    "message": "Omogućava automatski prevod tokom generisanja, sadržaj na jeziku koji nije kineski biće automatski preveden na Midjourney-ev engleski unos",
+    "description": "Opis parametra za prevod"
+  },
+  "description.imageWeight": {
+    "message": "--iw, podešava težinu slikovnog nagoveštaja u odnosu na tekstualni nagoveštaj, opseg od 0-2, podrazumevano 1",
+    "description": "Opis parametra težine slike"
+  },
+  "description.niji": {
+    "message": "--niji, nakon omogućavanja, generisane slike će koristiti Niji model, generišući slike u anime stilu",
+    "description": "Opis niji parametra"
+  },
+  "description.uploadReferences": {
+    "message": "Otpremite slike kao referencu za generisanje, podržava do 5 slika. Ako se otpremi više od jedne slike, biće automatski spojene.",
+    "description": "Opis parametra za otpremanje referenci"
+  },
+  "description.raw": {
+    "message": "--raw, nakon omogućavanja, generisane slike će koristiti Midjourney model, generišući slike u sirovom stilu",
+    "description": "Opis sirovog parametra"
+  },
+  "description.prompt": {
+    "message": "Unesite komandu, ako se dodaju dodatni parametri, oni će preklapati podrazumevane unapred postavljene parametre, na primer dodavanje '--stylize 200' će prisiliti konačnu komandu da koristi '--stylize 200'",
+    "description": "Opis polja nagoveštaja"
+  },
+  "action.generate": {
+    "message": "Kliknite na ovaj dugme da započnete generisanje slike",
+    "description": "Opis dugmeta za generisanje"
+  },
+  "action.upscale1": {
+    "message": "Povećaj prvu sliku",
+    "description": "Opis dugmeta upscale1"
+  },
+  "action.upscale2": {
+    "message": "Povećaj drugu sliku",
+    "description": "Opis dugmeta upscale2"
+  },
+  "action.upscale3": {
+    "message": "Povećaj treću sliku",
+    "description": "Opis dugmeta upscale3"
+  },
+  "action.upscale4": {
+    "message": "Povećaj četvrtu sliku",
+    "description": "Opis dugmeta upscale4"
+  },
+  "action.variation1": {
+    "message": "Prilagodi varijaciju prve slike",
+    "description": "Opis dugmeta variation1"
+  },
+  "action.variation2": {
+    "message": "Prilagodi varijaciju druge slike",
+    "description": "Opis dugmeta variation2"
+  },
+  "action.variation3": {
+    "message": "Prilagodi varijaciju treće slike",
+    "description": "Opis dugmeta variation3"
+  },
+  "action.variation4": {
+    "message": "Prilagodi varijaciju četvrte slike",
+    "description": "Opis dugmeta variation4"
+  },
+  "action.reroll": {
+    "message": "Ponovo generiši",
+    "description": "Opis dugmeta reroll"
+  },
+  "action.variation_strong": {
+    "message": "Varijacija (jaka)",
+    "description": "Opis dugmeta za visoke varijacije"
+  },
+  "action.variation_subtle": {
+    "message": "Varijacija (suptilna)",
+    "description": "Opis dugmeta za niske varijacije"
+  },
+  "action.upscale_creative": {
+    "message": "Povećaj (kreativno)",
+    "description": "Opis dugmeta za visoke varijacije"
+  },
+  "action.upscale_subtle": {
+    "message": "Povećaj (suptilno)",
+    "description": "Opis dugmeta za niske varijacije"
+  },
+  "action.redo_upscale_creative": {
+    "message": "Ponovo povećaj (kreativno)",
+    "description": "Opis dugmeta za visoke varijacije"
+  },
+  "action.redo_upscale_subtle": {
+    "message": "Ponovo povećaj (suptilno)",
+    "description": "Opis dugmeta za niske varijacije"
+  },
+  "action.zoom_out_2x": {
+    "message": "Smanji 2 puta",
+    "description": "Opis dugmeta za smanjenje 2 puta"
+  },
+  "action.zoom_out_1_5x": {
+    "message": "Smanji 1.5 puta",
+    "description": "Opis dugmeta za smanjenje 1.5 puta"
+  },
+  "action.square": {
+    "message": "Kvadrat",
+    "description": "Opis dugmeta za kvadrat"
+  },
+  "action.pan_left": {
+    "message": "Pomeri levo",
+    "description": "Opis dugmeta za pomeranje levo"
+  },
+  "action.pan_up": {
+    "message": "Pomeri nagore",
+    "description": "Opis dugmeta za pomeranje nagore"
+  },
+  "action.pan_down": {
+    "message": "Pomeri nadole",
+    "description": "Opis dugmeta za pomeranje nadole"
+  },
+  "action.pan_right": {
+    "message": "Pomeri desno",
+    "description": "Opis dugmeta za pomeranje desno"
+  },
+  "action.zoom_in_2x": {
+    "message": "Povećaj 2 puta",
+    "description": "Opis dugmeta za povećanje 2 puta"
+  },
+  "action.zoom_in_1_5x": {
+    "message": "Povećaj 1.5 puta",
+    "description": "Opis dugmeta za povećanje 1.5 puta"
+  },
+  "action.upscale_2x": {
+    "message": "Povećaj 2 puta",
+    "description": "Opis dugmeta za povećanje 2 puta"
+  },
+  "action.upscale_4x": {
+    "message": "Povećaj 4 puta",
+    "description": "Opis dugmeta za povećanje 4 puta"
+  },
+  "action.redo_upscale_2x": {
+    "message": "Ponovo uradi povećanje 2 puta",
+    "description": "Opis dugmeta za ponovljeno povećanje 2 puta"
+  },
+  "action.redo_upscale_4x": {
+    "message": "Ponovo uradi povećanje 4 puta",
+    "description": "Opis dugmeta za ponovljeno povećanje 4 puta"
+  },
+  "message.promptPlaceholder": {
+    "message": "Unesite opis slike koju želite da generišete, na primer: slatka mačka. Dodatni parametri će preklapati podrazumevane unapred postavljene parametre",
+    "description": "Tekst zauzete mesto u polju nagoveštaja"
+  },
+  "message.uploadReferencesExceed": {
+    "message": "Maksimalno možete da otpremite 5 slika",
+    "description": "Poruka greške kada broj otpremljenih slika premaši limit"
+  },
+  "message.uploadReferencesSuccess": {
+    "message": "Uspešno otpremljena slika",
+    "description": "Poruka uspeha kada je slika uspešno otpremljena"
+  },
+  "message.uploadReferencesError": {
+    "message": "Otprema slike nije uspela, molimo pokušajte ponovo kasnije",
+    "description": "Poruka greške kada otprema slike nije uspela"
+  },
+  "message.startingTask": {
+    "message": "Početak zadatka...",
+    "description": "Poruka kada započinje zadatak crtanja"
+  },
+  "message.startTaskSuccess": {
+    "message": "Uspešno započet zadatak crtanja",
+    "description": "Poruka uspeha kada je zadatak crtanja uspešno započet"
+  },
+  "message.startTaskFailed": {
+    "message": "Nije moguće započeti zadatak crtanja, molimo kontaktirajte administratora",
+    "description": "Poruka greške kada nije moguće započeti zadatak crtanja"
+  },
+  "message.generating": {
+    "message": "Generišem...",
+    "description": "Poruka tokom generisanja slike"
+  },
+  "message.noOperations": {
+    "message": "Nema dostupnih operacija",
+    "description": "Poruka kada nema dostupnih operacija"
+  },
+  "message.noTasks": {
+    "message": "Nema istorijskih zadatka, prvo započnite novi zadatak",
+    "description": "Poruka kada nema istorijskih zadataka"
+  },
+  "message.usedUp": {
+    "message": "Vaši poeni su iskorišćeni, molimo kupite više poena da biste nastavili",
+    "description": "Poruka kada su poeni iskorišćeni"
+  },
+  "message.operation": {
+    "message": "Opcije konfiguracije",
+    "description": "Detalji o opcijama konfiguracije"
+  },
+  "model.general": {
+    "message": "Opšti",
+    "description": "Naziv modela za opštu generaciju slika"
+  },
+  "model.niji": {
+    "message": "Niji",
+    "description": "Naziv modela za generisanje slika u anime stilu, ne prevoditi, ostaviti kao 'Niji'"
+  },
+  "name.referenceImage": {
+    "message": "Referentna slika",
+    "description": "Naziv referentne slike"
+  },
+  "name.midjourneyBot": {
+    "message": "Midjourney Bot",
+    "description": "Naziv Midjourney modela"
+  },
+  "name.model": {
+    "message": "Model",
+    "description": "Naziv modela, termin za generisanje slika u mašinskom učenju"
+  },
+  "name.aspect": {
+    "message": "Odnos širine i visine",
+    "description": "Naziv parametra za odnos širine i visine"
+  },
+  "name.ratio": {
+    "message": "Proporcija",
+    "description": "Naziv parametra za proporciju"
+  },
+  "name.chaos": {
+    "message": "Stepen haosa",
+    "description": "Naziv parametra za stepen haosa, prevoditi kao 'Stepen haosa'"
+  },
+  "name.fast": {
+    "message": "Brzo",
+    "description": "Naziv brzog moda za brzo generisanje slika, prevoditi kao 'Brzi mod'"
+  },
+  "name.nijiStyle": {
+    "message": "Niji",
+    "description": "Naziv nijiStyle parametra, ne prevoditi, ostaviti kao 'Niji'"
+  },
+  "name.version": {
+    "message": "Verzija",
+    "description": "Naziv parametra za verziju"
+  },
+  "name.imageWeight": {
+    "message": "Težina slike",
+    "description": "Naziv parametra za težinu slike"
+  },
+  "name.no": {
+    "message": "Isključi",
+    "description": "Naziv parametra za isključenje određenih elemenata, prevoditi kao 'Isključi'"
+  },
+  "name.quality": {
+    "message": "Kvalitet slike",
+    "description": "Naziv parametra za podešavanje kvaliteta generisane slike"
+  },
+  "name.mode": {
+    "message": "Brzina",
+    "description": "Naziv parametra za podešavanje brzine generisanja slike"
+  },
+  "name.random": {
+    "message": "Nasumično",
+    "description": "Naziv parametra za dodavanje nasumičnih stilskih efekata"
+  },
+  "name.relax": {
+    "message": "Sporo",
+    "description": "Naziv moda opuštanja za generisanje slike u 'sporo' modu, prevoditi kao 'Spori mod'"
+  },
+  "name.repeat": {
+    "message": "Ponovi",
+    "description": "Naziv parametra za kreiranje više zadataka iz jednog uputstva"
+  },
+  "name.seed": {
+    "message": "Seme",
+    "description": "Naziv parametra za postavljanje početne vizuelne buke"
+  },
+  "name.stop": {
+    "message": "Zaustavi",
+    "description": "Naziv parametra za zaustavljanje zadatka u bilo kojoj fazi"
+  },
+  "name.style": {
+    "message": "Stil",
+    "description": "Naziv parametra za prebacivanje između različitih verzija ili stilova modela"
+  },
+  "name.stylize": {
+    "message": "Stilizuj",
+    "description": "Naziv parametra za podešavanje intenziteta osnovnog estetskog stila"
+  },
+  "name.tile": {
+    "message": "Ploča",
+    "description": "Naziv parametra za generisanje slika koje se mogu koristiti za pločanje"
+  },
+  "name.turbo": {
+    "message": "Turbo",
+    "description": "Naziv turbo moda za generisanje slika u 'turbo' modu, prevoditi kao 'Turbo mod'"
+  },
+  "name.weird": {
+    "message": "Neobičnost",
+    "description": "Naziv parametra za istraživanje neobičnih estetskih stilova, prevoditi kao 'Neobičnost'"
+  },
+  "name.translation": {
+    "message": "Prevod",
+    "description": "Naziv parametra za omogućavanje automatskog prevođenja tokom generisanja"
+  },
+  "name.advanced": {
+    "message": "Napredno",
+    "description": "Naziv naprednog moda za aktiviranje naprednog načina"
+  },
+  "name.niji": {
+    "message": "Niji",
+    "description": "Naziv niji parametra za aktiviranje Niji modela, ne prevoditi, ostaviti kao 'Niji'"
+  },
+  "name.ignore": {
+    "message": "Ignoriši",
+    "description": "Naziv parametra za ignorisanje određenih elemenata"
+  },
+  "name.prompt": {
+    "message": "提示",
+    "description": "提示参数的名称，用于输入绘图指令"
+  },
+  "name.raw": {
+    "message": "原ини",
+    "description": "原始参数的名称，用于启用 Midjourney 模型"
+  },
+  "placeholder.prompt": {
+    "message": "Унесите реченицу која описује слику коју желите да генеришете, на пример: слатка мачка. Додатни параметри ће заменити подразумеване поставке",
+    "description": "提示字段中的占位文本"
+  },
+  "placeholder.ignore": {
+    "message": "Унесите елементе које желите да игноришете, на пример ако не желите да се на слици појави аутомобил, можете написати 'аутомобил'",
+    "description": "忽略字段中的占位文本"
+  },
+  "placeholder.select": {
+    "message": "Изаберите",
+    "description": "选择字段中的占位文本"
+  },
+  "status.pending": {
+    "message": "У току",
+    "description": "任务的某种状态 - 尚未开始"
+  }
+}

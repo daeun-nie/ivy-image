@@ -1,0 +1,222 @@
+{
+  "button.extend": {
+    "message": "Продовжити генерувати",
+    "description": "Текст кнопки для продовження генерації"
+  },
+  "button.download": {
+    "message": "Завантажити",
+    "description": "Текст кнопки для завантаження"
+  },
+  "button.more": {
+    "message": "Більше дій",
+    "description": "Текст кнопки для завантаження"
+  },
+  "button.uploadAudios": {
+    "message": "Завантажити",
+    "description": "Текст кнопки, що дозволяє користувачу завантажити референс"
+  },
+  "button.video": {
+    "message": "Відео",
+    "description": "Текст кнопки для відео"
+  },
+  "button.download_video": {
+    "message": "Завантажити відео",
+    "description": "Текст кнопки завантаження відео"
+  },
+  "button.get_stems": {
+    "message": "Розділення звуків",
+    "description": "Текст кнопки завантаження відео"
+  },
+  "button.cover_music": {
+    "message": "Кавер музики",
+    "description": "Текст кнопки завантаження відео"
+  },
+  "button.concat_music": {
+    "message": "З’єднати музику",
+    "description": "Текст кнопки завантаження відео"
+  },
+  "button.download_audio": {
+    "message": "Завантажити музику",
+    "description": "Текст кнопки завантаження музики"
+  },
+  "model.model1": {
+    "message": "v2",
+    "description": "Модель для генерації музики"
+  },
+  "model.model2": {
+    "message": "v3",
+    "description": "Модель для генерації музики"
+  },
+  "name.instrumental": {
+    "message": "Без тексту",
+    "description": "Опис параметра 'instrumental'"
+  },
+  "name.referenceAudios": {
+    "message": "Референсна музика",
+    "description": "Назва референсної музики"
+  },
+  "model.model3": {
+    "message": "v3.5",
+    "description": "Модель для генерації музики"
+  },
+  "model.model4": {
+    "message": "v4.0",
+    "description": "Модель для генерації музики"
+  },
+  "name.taskId": {
+    "message": "ID завдання",
+    "description": "ID завдання"
+  },
+  "name.type": {
+    "message": "Режим налаштування",
+    "description": "Назва режиму налаштування"
+  },
+  "name.prompt": {
+    "message": "Опис пісні",
+    "description": "Підказка для введення контенту"
+  },
+  "name.extend": {
+    "message": "Розширити пісню з",
+    "description": "Підказка для введення контенту"
+  },
+  "name.cover": {
+    "message": "Кавер пісні з",
+    "description": "Підказка для введення контенту"
+  },
+  "name.lyrics": {
+    "message": "Текст пісні",
+    "description": "Підказка для введення тексту пісні"
+  },
+  "name.style": {
+    "message": "Стиль пісні",
+    "description": "Підказка для введення стилю пісні"
+  },
+  "name.title": {
+    "message": "Назва пісні",
+    "description": "Підказка для введення назви пісні"
+  },
+  "name.failureReason": {
+    "message": "Причина невдачі",
+    "description": "Причина невдачі завдання"
+  },
+  "name.status": {
+    "message": "Статус",
+    "description": "Статус завдання"
+  },
+  "name.traceId": {
+    "message": "ID відстеження",
+    "description": "ID відстеження завдання"
+  },
+  "name.sunoBot": {
+    "message": "Suno Bot",
+    "description": "Назва генератора Suno"
+  },
+  "description.prompt": {
+    "message": "Заповніть стиль і тему музики, яку ви хочете створити, наприклад acoustic pop про свята",
+    "description": "Опис параметра 'prompt'"
+  },
+  "description.lyrics": {
+    "message": "Вміст тексту пісні",
+    "description": "Опис параметра 'lyrics'"
+  },
+  "description.style": {
+    "message": "Вміст стилю пісні",
+    "description": "Опис параметра 'style'"
+  },
+  "description.title": {
+    "message": "Вміст назви пісні",
+    "description": "Опис параметра 'title'"
+  },
+  "description.uploadAudios": {
+    "message": "Завантажте музику як референс для генерації, процес завантаження займе певний час, після успішного завантаження ви зможете створити на основі завантаженої музики",
+    "description": "Опис параметра завантаження референсу"
+  },
+  "status.pending": {
+    "message": "Очікування",
+    "description": "Статус завдання в очікуванні"
+  },
+  "placeholder.prompt": {
+    "message": "Введіть підказку для пісні...",
+    "description": "Заповнювач введення для шуму"
+  },
+  "placeholder.lyrics": {
+    "message": "Введіть текст пісні...",
+    "description": "Заповнювач для тексту"
+  },
+  "placeholder.extend.lyrics": {
+    "message": "Введіть текст, який потрібно розширити...",
+    "description": "Заповнювач для тексту"
+  },
+  "placeholder.extend.continue_at": {
+    "message": "Введіть секунду пісні, з якої потрібно розширити...",
+    "description": "Заповнювач для тексту"
+  },
+  "placeholder.style": {
+    "message": "Введіть підказку для стилю пісні, наприклад, акустичний поп",
+    "description": "Заповнювач текстового поля підказки"
+  },
+  "placeholder.title": {
+    "message": "Введіть підказку для назви пісні, наприклад, святкова пісня",
+    "description": "Заповнювач для введення насіннєвого значення"
+  },
+  "placeholder.select": {
+    "message": "Оберіть модель...",
+    "description": "Заповнювач для вибору"
+  },
+  "placeholder.position": {
+    "message": "Оберіть...",
+    "description": "Заповнювач для вибору"
+  },
+  "button.generate": {
+    "message": "Генерувати",
+    "description": "Текст кнопки генерації"
+  },
+  "message.startingTask": {
+    "message": "Розпочинається завдання...",
+    "description": "Повідомлення при початку завдання з генерації музики"
+  },
+  "message.startingUploadAudio": {
+    "message": "Завантаження користувацької музики...",
+    "description": "Повідомлення при початку завдання з генерації музики"
+  },
+  "message.uploadReferencesExceed": {
+    "message": "Кількість завантаженої музики перевищує максимально дозволену",
+    "description": "Повідомлення про помилку, коли кількість завантаженої музики перевищує максимально дозволену"
+  },
+  "message.uploadReferencesError": {
+    "message": "Не вдалося завантажити музику",
+    "description": "Повідомлення про помилку при завантаженні музики"
+  },
+  "message.startTaskSuccess": {
+    "message": "Успішно розпочато завдання з генерації музики",
+    "description": "Повідомлення про успіх при вдалому запуску завдання з генерації музики"
+  },
+  "message.startUploadAudioSuccess": {
+    "message": "Успішно завантажено користувацьку музику",
+    "description": "Повідомлення про успішний запуск завдання з генерації музики"
+  },
+  "message.startUploadAudioFailed": {
+    "message": "Не вдалося завантажити користувацьку музику",
+    "description": "Повідомлення про помилку при невдалому запуску завдання з генерації музики"
+  },
+  "message.startTaskFailed": {
+    "message": "Не вдалося запустити завдання з генерації музики",
+    "description": "Повідомлення про помилку при невдалому запуску завдання з генерації музики"
+  },
+  "message.generating": {
+    "message": "Генерується...",
+    "description": "Повідомлення під час генерації музики"
+  },
+  "message.generateFailed": {
+    "message": "Не вдалося згенерувати музику",
+    "description": "Повідомлення про помилку при невдалій генерації музики"
+  },
+  "message.noOperations": {
+    "message": "Немає доступних операцій",
+    "description": "Повідомлення, коли немає доступних операцій"
+  },
+  "message.noTasks": {
+    "message": "Немає історії завдань, будь ласка, згенеруйте музику в панелі налаштувань зліва",
+    "description": "Повідомлення, коли немає завдань"
+  }
+}

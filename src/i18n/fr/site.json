@@ -1,0 +1,322 @@
+{
+  "field.title": {
+    "message": "Titre du site",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "field.origin": {
+    "message": "Nom de domaine du site",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "field.description": {
+    "message": "Description du site",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "field.keywords": {
+    "message": "Mots-clés du site",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "field.logo": {
+    "message": "Logo du site",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "field.favicon": {
+    "message": "Favicon du site",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "field.qr": {
+    "message": "Code QR",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "field.url": {
+    "message": "Lien",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "field.admins": {
+    "message": "ID des administrateurs du site",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "field.distributionDefaultInviterId": {
+    "message": "ID de l'inviteur par défaut",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "field.distributionForceInviterId": {
+    "message": "ID de l'inviteur obligatoire",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "field.featuresChat": {
+    "message": "Chat",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "field.featuresMidjourney": {
+    "message": "Midjourney",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "field.featuresChatdoc": {
+    "message": "Chatdoc",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "field.featuresQrart": {
+    "message": "Qrart",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "field.featuresLuma": {
+    "message": "Luma",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "field.featuresPika": {
+    "message": "Pika",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "field.featuresKling": {
+    "message": "Kling",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "field.featuresHailuo": {
+    "message": "Hailuo",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "field.featuresHeadshots": {
+    "message": "Photo d'identité IA",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "field.featuresSuno": {
+    "message": "Suno",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "field.featuresFlux": {
+    "message": "Flux",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "field.featuresSupport": {
+    "message": "Support client",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "field.featuresI18n": {
+    "message": "Support multilingue",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "title.basicConfig": {
+    "message": "Configuration de base",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "title.seoConfig": {
+    "message": "Configuration SEO",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "title.editAdmins": {
+    "message": "Modifier les administrateurs",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "title.featuresConfig": {
+    "message": "Configuration des fonctionnalités",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "title.editTitle": {
+    "message": "Modifier le titre",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "title.editOrigin": {
+    "message": "Modifier le nom de domaine",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "title.editKeywords": {
+    "message": "Modifier les mots-clés",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "title.editLogo": {
+    "message": "Modifier le logo",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "title.editFavicon": {
+    "message": "Modifier le favicon",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "title.editDescription": {
+    "message": "Modifier la description",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "title.distributionConfig": {
+    "message": "Configuration de la distribution",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "title.editDistributionDefaultInviterId": {
+    "message": "Modifier l'inviteur par défaut",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "title.editDistributionForceInviterId": {
+    "message": "Modifier l'inviteur obligatoire",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "title.editQR": {
+    "message": "Modifier le code QR",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "title.editUrl": {
+    "message": "Modifier le lien",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "placeholder.title": {
+    "message": "Veuillez saisir le titre du site",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "placeholder.origin": {
+    "message": "Veuillez saisir le nom de domaine du site",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "placeholder.editUrl": {
+    "message": "Veuillez saisir le lien",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "placeholder.description": {
+    "message": "Veuillez saisir la description du site",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "placeholder.keywords": {
+    "message": "Veuillez saisir les mots-clés du site",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "placeholder.editDistributionDefaultInviterId": {
+    "message": "Veuillez saisir l'ID de l'inviteur par défaut",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "placeholder.editDistributionForceInviterId": {
+    "message": "Veuillez saisir l'ID de l'inviteur obligatoire",
+    "description": "Affiché dans le champ de saisie du titre"
+  },
+  "message.uploadImageExceed": {
+    "message": "L'image téléchargée dépasse la limite",
+    "description": "Message indiquant que l'image téléchargée dépasse la limite"
+  },
+  "message.uploadImageError": {
+    "message": "Erreur de téléchargement de l'image",
+    "description": "Message d'erreur pour le téléchargement d'image"
+  },
+  "message.editLogoTip": {
+    "message": "Taille recommandée : 200*60px",
+    "description": "Message d'astuce pour le téléchargement d'image"
+  },
+  "message.editQRTip": {
+    "message": "Taille recommandée : 200*200px",
+    "description": "Message d'astuce pour le téléchargement d'image"
+  },
+  "message.editFaviconTip": {
+    "message": "Taille recommandée : 32*32px",
+    "description": "Message d'astuce pour le téléchargement d'image"
+  },
+  "message.editUrl": {
+    "message": "Veuillez entrer le lien",
+    "description": "Message d'astuce pour entrer un lien"
+  },
+  "message.atLeastOneAdmin": {
+    "message": "Conservez au moins un administrateur",
+    "description": "Message d'astuce pour conserver au moins un administrateur"
+  },
+  "message.distributionDefaultInviterIdTip": {
+    "message": "ID utilisateur de l'invitant par défaut, si le lien de distribution ne contient pas le paramètre inviter_id, cet ID utilisateur sera utilisé par défaut comme invitant.",
+    "description": "Message d'astuce pour l'ID de l'invitant par défaut"
+  },
+  "message.distributionForceInviterIdTip": {
+    "message": "ID utilisateur de l'invitant forcé, si cet ID est défini, il sera utilisé comme invitant, que le lien de distribution contienne ou non le paramètre inviter_id.",
+    "description": "Message d'astuce pour l'ID de l'invitant forcé"
+  },
+  "message.originTip": {
+    "message": "Nom de domaine du site, la configuration du site est liée au domaine, le nom de domaine ne peut pas être modifié.",
+    "description": "Message d'astuce pour le nom de domaine du site"
+  },
+  "message.titleTip": {
+    "message": "Titre du site, affiché dans l'onglet du navigateur.",
+    "description": "Message d'astuce pour le titre du site"
+  },
+  "message.descriptionTip": {
+    "message": "Description du site, située dans les métadonnées du site, utilisée pour l'optimisation SEO du site.",
+    "description": "Message d'astuce pour la description du site"
+  },
+  "message.logoTip": {
+    "message": "Logo du site, affiché en haut du menu du site lorsque la barre de menu est déployée.",
+    "description": "Message d'astuce pour le logo du site"
+  },
+  "message.faviconTip": {
+    "message": "Favicon du site, affiché dans l'onglet du navigateur.",
+    "description": "Message d'astuce pour le favicon du site"
+  },
+  "message.adminsTip": {
+    "message": "ID de l'administrateur du site, par défaut, l'utilisateur qui crée le site pour la première fois devient administrateur, seul l'administrateur du site peut gérer le site.",
+    "description": "Message d'astuce pour l'administrateur du site"
+  },
+  "message.adminsTip2": {
+    "message": "Vous pouvez ajouter ou supprimer des ID d'administrateur ici, rendez-vous sur https://auth.acedata.cloud pour voir l'ID utilisateur",
+    "description": "Message d'astuce pour l'administrateur du site"
+  },
+  "message.keywordsTip": {
+    "message": "Mots-clés du site, situés dans les métadonnées du site, utilisés pour l'optimisation SEO du site.",
+    "description": "Message d'astuce pour les mots-clés du site"
+  },
+  "message.keywordsTip2": {
+    "message": "Vous pouvez ajouter ou supprimer des mots-clés du site ici, plus les mots-clés sont précis, plus ils sont bénéfiques pour l'optimisation SEO.",
+    "description": "Message d'astuce pour les mots-clés du site"
+  },
+  "message.featuresChat": {
+    "message": "Activer ou désactiver le module de fonctionnalité Chat.",
+    "description": "Description de la fonctionnalité Chat"
+  },
+  "message.featuresMidjourney": {
+    "message": "Activer ou désactiver le module de fonctionnalité Midjourney.",
+    "description": "Description de la fonctionnalité Midjourney"
+  },
+  "message.featuresChatdoc": {
+    "message": "Activer ou désactiver le module de fonctionnalité Chatdoc.",
+    "description": "Description de la fonctionnalité Chatdoc"
+  },
+  "message.featuresQrart": {
+    "message": "Activer ou désactiver le module de fonctionnalité Qrart.",
+    "description": "Description de la fonctionnalité Qrart"
+  },
+  "message.featuresSuno": {
+    "message": "Activer ou désactiver le module de fonctionnalité Suno.",
+    "description": "Description de la fonctionnalité Suno"
+  },
+  "message.featuresFlux": {
+    "message": "Activer ou désactiver le module de fonctionnalité FLux.",
+    "description": "Description de la fonctionnalité FLux"
+  },
+  "message.featuresLuma": {
+    "message": "Activer ou désactiver le module de fonctionnalité Luma.",
+    "description": "Description de la fonctionnalité Luma"
+  },
+  "message.featuresPika": {
+    "message": "Activer ou désactiver le module de fonctionnalité Pika.",
+    "description": "Description de la fonctionnalité Pika"
+  },
+  "message.featuresKling": {
+    "message": "Activer ou désactiver le module de fonctionnalité Kling.",
+    "description": "Description de la fonctionnalité Kling"
+  },
+  "message.featuresHailuo": {
+    "message": "Activer ou désactiver le module de fonctionnalité Hailuo.",
+    "description": "Description de la fonctionnalité Hailuo"
+  },
+  "message.featuresHeadshots": {
+    "message": "Activer ou désactiver le module de fonctionnalité Photos d'identité AI.",
+    "description": "Description de la fonctionnalité Photos d'identité AI"
+  },
+  "message.featuresSupport": {
+    "message": "Activer ou désactiver le support client",
+    "description": "Description de la fonctionnalité Support"
+  },
+  "message.featuresI18n": {
+    "message": "Activer ou désactiver le support multilingue, si désactivé, les utilisateurs ne peuvent utiliser que la langue par défaut.",
+    "description": "Description du support multilingue"
+  },
+  "button.upload": {
+    "message": "Télécharger",
+    "description": "Télécharger"
+  },
+  "button.enabled": {
+    "message": "Activé",
+    "description": "Texte de l'interrupteur, indiquant qu'il est activé"
+  },
+  "button.disabled": {
+    "message": "Désactivé",
+    "description": "Texte de l'interrupteur, indiquant qu'il est désactivé"
+  }
+}

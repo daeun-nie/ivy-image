@@ -1,0 +1,318 @@
+{
+  "button.thinkDeeper": {
+    "message": "Tänk djupare",
+    "description": "Tänk djupare knapp"
+  },
+  "button.deepsearch": {
+    "message": "Djup sökning",
+    "description": "Djup sökningsknapp"
+  },
+  "button.search": {
+    "message": "Sök",
+    "description": "Sökningsknapp"
+  },
+  "button.edit": {
+    "message": "Redigera meddelande",
+    "description": "Redigera skickade meddelanden"
+  },
+  "modelGroup.chatgpt": {
+    "message": "ChatGPT",
+    "description": "Modellnamn för tjänsten, dvs GPT"
+  },
+  "modelGroup.chatgptDescription": {
+    "message": "AI-modell utvecklad av OpenAI",
+    "description": "Beskrivning av ChatGPT-modellen"
+  },
+  "modelGroup.deepseek": {
+    "message": "DeepSeek",
+    "description": "Modellnamn för tjänsten, dvs DeepSeek"
+  },
+  "modelGroup.deepseekDescription": {
+    "message": "AI-modell utvecklad av DeepSeek",
+    "description": "Beskrivning av DeepSeek-modellen"
+  },
+  "modelGroup.grok": {
+    "message": "Grok",
+    "description": "Modellnamn för tjänsten, dvs Grok"
+  },
+  "modelGroup.grokDescription": {
+    "message": "AI-modell utvecklad av xAI",
+    "description": "Beskrivning av Grok3-modellen"
+  },
+  "model.35Standard": {
+    "message": "ChatGPT - 3.5 Standard",
+    "description": "Modellnamn för tjänsten, dvs GPT 3.5 Bas"
+  },
+  "model.35StandardDescription": {
+    "message": "Passar för dagliga uppgifter.",
+    "description": "Beskrivning av 3.5 Standard-modellen"
+  },
+  "model.35Browsing": {
+    "message": "ChatGPT - 3.5 Internetanslutning",
+    "description": "Modellnamn för tjänsten, dvs GPT 3.5 Internet"
+  },
+  "model.35BrowsingDescription": {
+    "message": "Kan hämta information i realtid.",
+    "description": "Beskrivning av 3.5 Webbläsarmodellen"
+  },
+  "model.4Standard": {
+    "message": "ChatGPT - 4.0 Standard",
+    "description": "Modellnamn för tjänsten, dvs GPT 4.0 Standard"
+  },
+  "model.4StandardDescription": {
+    "message": "Mer kraftfull modell, lämplig för komplexa uppgifter.",
+    "description": "Beskrivning av 4.0 Standardmodellen"
+  },
+  "model.4Browsing": {
+    "message": "ChatGPT - 4.0 Internetanslutning",
+    "description": "Modellnamn för tjänsten, dvs GPT 4.0 Internet"
+  },
+  "model.4BrowsingDescription": {
+    "message": "Kraftfull och kan hämta information i realtid.",
+    "description": "Beskrivning av 4.0 Webbläsarmodellen"
+  },
+  "model.4Vision": {
+    "message": "ChatGPT - 4.0 Vision",
+    "description": "Modellnamn för tjänsten, dvs GPT 4.0 Vision"
+  },
+  "model.4O": {
+    "message": "ChatGPT - 4.0 Vision",
+    "description": "Modellnamn för tjänsten, dvs GPT 4.0 Vision"
+  },
+  "model.4ODescription": {
+    "message": "Kan analysera bilder.",
+    "description": "Beskrivning av 4.0 Visionmodellen"
+  },
+  "model.4All": {
+    "message": "ChatGPT - 4.0 Allmänt",
+    "description": "Modellnamn för tjänsten, dvs GPT 4.0 All"
+  },
+  "model.4VisionDescription": {
+    "message": "Kan analysera bilder.",
+    "description": "Beskrivning av 4.0 Visionmodellen"
+  },
+  "model.4AllDescription": {
+    "message": "Allmänt modell",
+    "description": "Beskrivning av 4.0 Allmodell"
+  },
+  "model.deepseekChat": {
+    "message": "DeepSeek - 3.0 Standard",
+    "description": "Modellnamn för tjänsten, dvs DeepSeek Chatt"
+  },
+  "model.deepseekChatDescription": {
+    "message": "Passar för dagliga uppgifter.",
+    "description": "Beskrivning av DeepSeek Chattmodellen"
+  },
+  "model.deepseekReasoner": {
+    "message": "DeepSeek - R1 Resonering",
+    "description": "Modellnamn för tjänsten, dvs DeepSeek Resonering"
+  },
+  "model.deepseekReasonerDescription": {
+    "message": "Lämplig för resonering och problemlösning.",
+    "description": "Beskrivning av DeepSeek Resoneringmodellen"
+  },
+  "model.grok3": {
+    "message": "Grok3",
+    "description": "Modellnamn för tjänsten"
+  },
+  "model.grok3Description": {
+    "message": "AI-modell utvecklad av Grok3",
+    "description": "Beskrivning av Grok3-modellen"
+  },
+  "model.grok3Reasoner": {
+    "message": "Grok3 - R1 Resonering",
+    "description": "Modellnamn för tjänsten, dvs Grok3 Resonering"
+  },
+  "model.grok3ReasonerDescription": {
+    "message": "Lämplig för resonering och problemlösning.",
+    "description": "Beskrivning av Grok3 Resoneringmodellen"
+  },
+  "model.grok3Deepsearch": {
+    "message": "Grok3 - 3.0 Djup sökning",
+    "description": "Modellnamn för tjänsten, dvs Grok3 Djup sökning"
+  },
+  "model.grok3DeepsearchDescription": {
+    "message": "Kan hämta information i realtid.",
+    "description": "Beskrivning av Grok3 Djup sökningsmodellen"
+  },
+  "model.o1": {
+    "message": "ChatGPT - o1 Resonering",
+    "description": "Modellnamn för tjänsten, dvs O1"
+  },
+  "model.o1Description": {
+    "message": "Passar för dagliga uppgifter.",
+    "description": "Beskrivning av O1-modellen"
+  },
+  "model.o1Mini": {
+    "message": "ChatGPT - o1-mini Resonering",
+    "description": "Modellnamn för tjänsten, dvs O1-Mini"
+  },
+  "model.o1MiniDescription": {
+    "message": "Passar för dagliga uppgifter.",
+    "description": "Beskrivning av O1-Mini-modellen"
+  },
+  "model.o3Mini": {
+    "message": "ChatGPT - o3-mini Resonering",
+    "description": "Modellnamn för tjänsten, dvs O3-Mini"
+  },
+  "model.o3MiniDescription": {
+    "message": "Passar för dagliga uppgifter.",
+    "description": "Beskrivning av O3-Mini-modellen"
+  },
+  "message.startNewChat": {
+    "message": "Starta ny konversation",
+    "description": "Meddelande på webbsidan som berättar för användaren att starta en ny konversation"
+  },
+  "message.uploadFile": {
+    "message": "Ladda upp fil",
+    "description": "Meddelande på webbsidan som berättar för användaren att ladda upp en fil"
+  },
+  "message.noToken": {
+    "message": "Ansök först om motsvarande tjänst",
+    "description": "Meddelande på webbsidan som berättar för användaren att ansöka om motsvarande tjänst först"
+  },
+  "message.newMessagePlaceholder": {
+    "message": "Ange din fråga...",
+    "description": "Platshållare på webbsidan som berättar för användaren att ange en fråga"
+  },
+  "message.noInput": {
+    "message": "Frågan kan inte vara tom",
+    "description": "Meddelande på webben som talar om för användaren att frågan inte kan vara tom"
+  },
+  "message.uploadReferencesExceed": {
+    "message": "Endast 1 fil kan laddas upp som mest",
+    "description": "Meddelande på webben som talar om för användaren att endast 1 fil kan laddas upp som mest"
+  },
+  "message.uploadReferencesError": {
+    "message": "Filuppladdning misslyckades, försök igen senare",
+    "description": "Meddelande på webben som talar om för användaren att filuppladdning misslyckades, försök igen senare"
+  },
+  "message.notApplied": {
+    "message": "Du har inte ansökt om den här tjänsten ännu, ansök först",
+    "description": "Meddelande på webben som talar om för användaren att du inte har ansökt om den här tjänsten ännu, ansök först"
+  },
+  "message.tryForFree": {
+    "message": "Prova gratis",
+    "description": "Meddelande på webben som talar om för användaren om gratis provperiod"
+  },
+  "message.question1": {
+    "message": "Skapa en träningsplan",
+    "description": "Exempel på en startfråga som ber användaren att skriva en JavaScript-kod som skriver ut Hello World"
+  },
+  "message.question2": {
+    "message": "Gör en personlig webbsida",
+    "description": "Exempel på en startfråga som ber användaren att skriva ett mail till Mike och berätta att jag precis har flyttat"
+  },
+  "message.question3": {
+    "message": "Designa ett roligt programmeringsspel",
+    "description": "Exempel på en startfråga som ber användaren att förklara kvantberäkningens grundprinciper med enkla ord"
+  },
+  "message.question4": {
+    "message": "Upplev Seoul som en lokal",
+    "description": "Exempel på en startfråga som ber användaren att förklara vilken påverkan virtuell verklighet har på konstnärligt skapande"
+  },
+  "message.question5": {
+    "message": "Vilket är större, 9.8 eller 9.11?",
+    "description": "Exempel på en startfråga som ber användaren att jämföra två siffrors storlek"
+  },
+  "message.question6": {
+    "message": "Hur påverkar AI framtiden?",
+    "description": "Exempel på en startfråga om hur AI påverkar framtiden"
+  },
+  "message.question7": {
+    "message": "Hur kan man öka inlärningseffektiviteten?",
+    "description": "Exempel på en startfråga om hur man ökar sin egen inlärningseffektivitet"
+  },
+  "message.question8": {
+    "message": "Hur kan man förbättra koncentrationen?",
+    "description": "Exempel på en startfråga om hur man förbättrar sin egen koncentration"
+  },
+  "message.errorApiError": {
+    "message": "Misslyckades att svara, försök igen senare",
+    "description": "Meddelande på webben som talar om för användaren att det misslyckades att svara, försök igen senare"
+  },
+  "message.errorBadRequest": {
+    "message": "Begärans innehåll är inte korrekt, ställ frågan igen",
+    "description": "Meddelande på webben som talar om för användaren att begärans innehåll är inte korrekt, ställ frågan igen"
+  },
+  "message.errorNoConversation": {
+    "message": "Konversationen existerar inte eller har utgått, starta en ny konversation",
+    "description": "Meddelande på webben som talar om för användaren att konversationen existerar inte eller har utgått, starta en ny konversation"
+  },
+  "message.errorContentTooLarge": {
+    "message": "Frågans innehåll är för långt, förkorta och försök igen",
+    "description": "Meddelande på webben som talar om för användaren att frågans innehåll är för långt, förkorta och försök igen"
+  },
+  "message.errorTooManyRequests": {
+    "message": "Du gör för många operationer, försök igen senare",
+    "description": "Meddelande på webben som talar om för användaren att du gör för många operationer, försök igen senare"
+  },
+  "message.errorUsedUp": {
+    "message": "Du har använt alla dina paket antal, köp fler för att fortsätta använda",
+    "description": "Meddelande på webben som talar om för användaren att du har använt alla dina paket antal, köp fler för att fortsätta använda"
+  },
+  "message.errorUnknown": {
+    "message": "Servern har ett okänt fel, försök igen senare eller kontakta kundservice",
+    "description": "Meddelande på webben som talar om för användaren att servern har ett okänt fel, försök igen senare eller kontakta kundservice"
+  },
+  "message.errorTimeout": {
+    "message": "Svara på frågan fördröjd, försök igen senare",
+    "description": "Meddelande på webben som talar om för användaren att svara på frågan är fördröjd, försök igen senare"
+  },
+  "message.errorNotApplied": {
+    "message": "Du har inte ansökt om den här tjänsten ännu, ansök först och fortsätt ställa frågor",
+    "description": "Meddelande på webben som talar om för användaren att du har inte ansökt om den här tjänsten ännu, ansök först och fortsätt ställa frågor"
+  },
+  "message.confirmDelete": {
+    "message": "Bekräfta borttagning",
+    "description": "Meddelande på webben som talar om för användaren att bekräfta borttagning"
+  },
+  "message.howToUse": {
+    "message": "AI kan göra misstag, kontrollera viktig information.",
+    "description": "Meddelande på webben som talar om för användaren att AI kan göra misstag, kontrollera viktig information"
+  },
+  "title.chat": {
+    "message": "AI-chatt",
+    "description": "Titeln på webbsidan, det vill säga AI-chatt"
+  },
+  "title.example": {
+    "message": "Exempel",
+    "description": "Titeln på webbsidan, det vill säga Exempel"
+  },
+  "title.capabilities": {
+    "message": "Funktioner",
+    "description": "Titeln på webbsidan, det vill säga Funktioner"
+  },
+  "title.limitations": {
+    "message": "Begränsningar",
+    "description": "Titeln på webbsidan som pekar ut att detta avsnitt handlar om tjänstens tekniska begränsningar"
+  },
+  "title.complexQuestion": {
+    "message": "Svarar på komplexa frågor",
+    "description": "Titeln på webbsidan som pekar ut att detta avsnitt handlar om tjänstens förmåga att svara på komplexa frågor"
+  },
+  "title.professionalQuestion": {
+    "message": "Konsultera professionella frågor",
+    "description": "Titel på webbsidan, som anger att detta avsnitt handlar om tjänstens förmåga att konsultera professionella frågor"
+  },
+  "title.getTips": {
+    "message": "Få inspiration och idéer",
+    "description": "Titel på webbsidan, som anger att detta avsnitt handlar om tjänstens förmåga att få inspiration och idéer"
+  },
+  "group.today": {
+    "message": "Idag",
+    "description": "Gruppnamn på webbsidan, det vill säga Idag"
+  },
+  "group.yesterday": {
+    "message": "Igår",
+    "description": "Gruppnamn på webbsidan, det vill säga Igår"
+  },
+  "group.thisWeek": {
+    "message": "Denna vecka",
+    "description": "Gruppnamn på webbsidan, det vill säga Denna vecka"
+  },
+  "group.earlier": {
+    "message": "Tidigare",
+    "description": "Gruppnamn på webbsidan, det vill säga Tidigare"
+  }
+}

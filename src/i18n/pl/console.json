@@ -1,0 +1,118 @@
+{
+  "button.suggested": {
+    "message": "Polecane",
+    "description": "Tekst na przycisku, polecane wskazuje na rekomendowany przycisk"
+  },
+  "menu.orderList": {
+    "message": "Lista zamówień",
+    "description": "Tekst w menu strony, zamówienia odnoszą się do usług zakupionych przez użytkownika"
+  },
+  "menu.applicationList": {
+    "message": "Lista zgłoszeń",
+    "description": "Tekst w menu strony, zgłoszenia odnoszą się do wniosków użytkownika o korzystanie z usługi"
+  },
+  "menu.userProfile": {
+    "message": "Profil użytkownika",
+    "description": "Tekst w menu strony, profil użytkownika odnosi się do danych osobistych użytkownika"
+  },
+  "menu.idVerify": {
+    "message": "Weryfikacja tożsamości",
+    "description": "Tekst w menu strony, weryfikacja tożsamości odnosi się do potwierdzenia tożsamości użytkownika"
+  },
+  "menu.manageApplication": {
+    "message": "Zarządzanie zgłoszeniami",
+    "description": "Tekst w menu strony, zarządzanie zgłoszeniami odnosi się do zarządzania wnioskami użytkownika"
+  },
+  "menu.distributionIndex": {
+    "message": "Zyski polecające",
+    "description": "Tekst w menu strony, zyski polecające odnoszą się do dochodu z rekomendacji użytkownika"
+  },
+  "menu.developerPlatform": {
+    "message": "Platforma deweloperska",
+    "description": "Tekst w menu strony, platforma deweloperska odnosi się do platformy dla programistów"
+  },
+  "menu.usageList": {
+    "message": "Historia użytkowania",
+    "description": "Tekst w menu strony, historia użytkowania odnosi się do historii korzystania z usług API przez użytkownika"
+  },
+  "menu.credentialIndex": {
+    "message": "Poświadczenia",
+    "description": "Tekst w menu strony, poświadczenia odnosi się do danych dostępowych do API"
+  },
+  "menu.manageOrder": {
+    "message": "Zarządzanie zamówieniami",
+    "description": "Tekst w menu strony, zarządzanie zamówieniami odnosi się do zarządzania zamówieniami użytkownika, zamówienia odnoszą się do usług zakupionych przez użytkownika"
+  },
+  "menu.manageDistributionStatus": {
+    "message": "Zarządzanie dystrybucją",
+    "description": "Tekst w menu strony, zarządzanie dystrybucją odnosi się do zarządzania statusem dystrybucji użytkownika, związane z dochodem z rekomendacji użytkownika"
+  },
+  "message.benefit1": {
+    "message": "Wsparcie od dedykowanego konsultanta",
+    "description": "Tekst na stronie głównej, wsparcie od dedykowanego konsultanta odnosi się do możliwości uzyskania pomocy od konsultanta"
+  },
+  "message.benefit2": {
+    "message": "Pierwszeństwo w testowaniu nowych funkcji",
+    "description": "Tekst na stronie głównej, pierwszeństwo w testowaniu nowych funkcji oznacza możliwość wczesnego dostępu do nowych funkcji"
+  },
+  "message.buyExtra": {
+    "message": "Kup",
+    "description": "Tekst na stronie głównej, kupowanie limitu odnosi się do możliwości zakupu dodatkowego limitu"
+  },
+  "message.subscribe": {
+    "message": "Subskrybuj",
+    "description": "Tekst na stronie głównej, subskrypcja członkostwa oznacza możliwość subskrybowania członkostwa"
+  },
+  "message.doNotWantSubscribe": {
+    "message": "Nie chcesz subskrybować członkostwa okresowego? Możesz również spróbować kupić dodatkowy limit.",
+    "description": "Tekst na stronie głównej, brak chęci subskrypcji odnosi się do braku chęci subskrybowania członkostwa"
+  },
+  "message.doNotWantExtra": {
+    "message": "Nie chcesz kupić dodatkowego limitu? Możesz również spróbować subskrybować członkostwo okresowe.",
+    "description": "Tekst na stronie głównej, brak chęci zakupu limitu odnosi się do braku chęci zakupu dodatkowego limitu"
+  },
+  "message.applicationNotFound": {
+    "message": "Zgłoszenie nie istnieje",
+    "description": "Komunikat wyświetlany użytkownikowi, gdy zgłoszenie nie istnieje."
+  },
+  "subscription.title": {
+    "message": "Subskrybuj członkostwo, ciesz się dodatkowymi korzyściami",
+    "description": "Komunikat wyświetlany użytkownikowi podczas subskrypcji usługi."
+  },
+  "subscription.3days": {
+    "message": "Członkostwo na 3 dni",
+    "description": "Typ członkostwa, członkostwo na 3 dni"
+  },
+  "subscription.3days.description": {
+    "message": "Okres próbny, idealny dla krótkoterminowego użytkowania.",
+    "description": "Opis członkostwa, odpowiedniego dla krótkoterminowego użytkowania"
+  },
+  "subscription.weekly": {
+    "message": "Członkostwo tygodniowe",
+    "description": "Typ członkostwa, członkostwo tygodniowe oznacza członkostwo zakupione na tydzień"
+  },
+  "subscription.monthly": {
+    "message": "Członkostwo miesięczne",
+    "description": "Typ członkostwa, członkostwo miesięczne oznacza członkostwo zakupione na miesiąc"
+  },
+  "subscription.yearly": {
+    "message": "Członkostwo roczne",
+    "description": "Typ członkostwa, członkostwo roczne oznacza członkostwo zakupione na rok"
+  },
+  "subscription.weekly.description": {
+    "message": "Członkostwo tygodniowe, idealne do krótkoterminowego użytkowania.",
+    "description": "Opis członkostwa tygodniowego, członkostwo zakupione na tydzień"
+  },
+  "subscription.monthly.description": {
+    "message": "Elastyczne członkostwo miesięczne, odpowiednie do długoterminowego użytkowania.",
+    "description": "Opis członkostwa miesięcznego, członkostwo zakupione na miesiąc"
+  },
+  "subscription.yearly.description": {
+    "message": "Członkostwo roczne w najlepszej cenie.",
+    "description": "Opis członkostwa rocznego, członkostwo zakupione na rok"
+  },
+  "subscription.introduction": {
+    "message": "Subskrybuj członkostwo, odblokuj wszystkie usługi AI na stronie.",
+    "description": "Wprowadzenie do członkostwa, informacja o członkostwie"
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "style.effect1": {
+    "message": "Lévitateur",
+    "description": "Nom de l'effet vidéo de Pika"
+  },
+  "style.effect2": {
+    "message": "Décapiter",
+    "description": "Nom de l'effet vidéo de Pika"
+  },
+  "style.effect3": {
+    "message": "Yeux écarquillés",
+    "description": "Nom de l'effet vidéo de Pika"
+  },
+  "style.effect4": {
+    "message": "Tada",
+    "description": "Nom de l'effet vidéo de Pika"
+  },
+  "style.effect5": {
+    "message": "Dégonfler",
+    "description": "Nom de l'effet vidéo de Pika"
+  },
+  "style.effect6": {
+    "message": "Effriter",
+    "description": "Nom de l'effet vidéo de Pika"
+  },
+  "style.effect7": {
+    "message": "Dissoudre",
+    "description": "Nom de l'effet vidéo de Pika"
+  },
+  "style.effect8": {
+    "message": "Écraser",
+    "description": "Nom de l'effet vidéo de Pika"
+  },
+  "style.effect9": {
+    "message": "Gonfler",
+    "description": "Nom de l'effet vidéo de Pika"
+  },
+  "style.effect10": {
+    "message": "Fondre",
+    "description": "Nom de l'effet vidéo de Pika"
+  },
+  "style.effect11": {
+    "message": "Transformation en gâteau",
+    "description": "Nom de l'effet vidéo de Pika"
+  },
+  "style.effect12": {
+    "message": "Écraser",
+    "description": "Nom de l'effet vidéo de Pika"
+  },
+  "style.effect13": {
+    "message": "Exploser",
+    "description": "Nom de l'effet vidéo de Pika"
+  },
+  "name.taskId": {
+    "message": "ID de tâche",
+    "description": "ID de la tâche"
+  },
+  "name.type": {
+    "message": "Type",
+    "description": "Type de contenu du vidéo Pika à générer, comme 'lien', 'texte', etc."
+  },
+  "name.failure": {
+    "message": "Échec",
+    "description": "État d'échec de la tâche"
+  },
+  "name.failureReason": {
+    "message": "Raison de l'échec",
+    "description": "Raison de l'échec de la tâche"
+  },
+  "name.status": {
+    "message": "Statut",
+    "description": "Statut de la tâche"
+  },
+  "name.traceId": {
+    "message": "ID de traçage",
+    "description": "ID de traçage de la tâche"
+  },
+  "name.createdAt": {
+    "message": "Date de création",
+    "description": "Date et heure de génération de la vidéo Pika"
+  },
+  "name.imageUrl": {
+    "message": "Image de référence",
+    "description": "Image de référence pour la vidéo à générer"
+  },
+  "name.videoUrl": {
+    "message": "Vidéo personnalisée",
+    "description": "Vidéo personnalisée"
+  },
+  "name.prompt": {
+    "message": "Invite vidéo",
+    "description": "Invite de saisie du contenu"
+  },
+  "name.ingredients": {
+    "message": "Création de vidéo multiphotos",
+    "description": "Extension personnalisée de la vidéo"
+  },
+  "name.model": {
+    "message": "Version du modèle",
+    "description": "Version du modèle utilisée pour générer la vidéo"
+  },
+  "name.effect": {
+    "message": "Effet vidéo",
+    "description": "Nom du paramètre de style pour passer entre différents modèles ou styles"
+  },
+  "name.ingredientsModel": {
+    "message": "Modèle d'ingrédients",
+    "description": "Version du modèle utilisée pour générer la vidéo"
+  },
+  "name.pikaBot": {
+    "message": "Pika Bot",
+    "description": "Nom du générateur de vidéo Pika"
+  },
+  "description.ingredients": {
+    "message": "Si vous souhaitez télécharger plusieurs images pour créer votre propre vidéo, veuillez activer cette option.",
+    "description": "Description du paramètre 'ingredients'"
+  },
+  "description.imageUrl": {
+    "message": "Pour la création de vidéo multiphotos, il est nécessaire de télécharger plusieurs images.",
+    "description": "Description du paramètre 'imageUrl'"
+  },
+  "description.prompt": {
+    "message": "Mot-clé pour générer la vidéo Pika",
+    "description": "Description du paramètre 'prompt'"
+  },
+  "status.pending": {
+    "message": "En attente",
+    "description": "Statut d'attente de la tâche"
+  },
+  "status.processing": {
+    "message": "En traitement",
+    "description": "Statut de traitement de la tâche"
+  },
+  "placeholder.paddingNoise": {
+    "message": "Veuillez sélectionner...",
+    "description": "Placeholder pour l'entrée de bruit de remplissage"
+  },
+  "placeholder.select": {
+    "message": "Sélectionner",
+    "description": "Texte placeholder du champ de sélection"
+  },
+  "placeholder.paddingLevel": {
+    "message": "Veuillez sélectionner...",
+    "description": "Placeholder pour le niveau de remplissage"
+  },
+  "placeholder.prompt": {
+    "message": "Entrez un mot-clé pour le style vidéo à générer, par exemple : mouvant",
+    "description": "Texte placeholder dans le champ de l'invite"
+  },
+  "placeholder.position": {
+    "message": "Veuillez sélectionner...",
+    "description": "Placeholder pour l'entrée de position"
+  },
+  "placeholder.aspectRatio": {
+    "message": "Veuillez sélectionner...",
+    "description": "Placeholder pour l'entrée de rapport d'aspect"
+  },
+  "placeholder.preset": {
+    "message": "Veuillez sélectionner...",
+    "description": "Placeholder pour l'entrée de préréglage"
+  },
+  "placeholder.markerShape": {
+    "message": "Veuillez sélectionner...",
+    "description": "Placeholder pour l'entrée de forme de marqueur"
+  },
+  "placeholder.rotate": {
+    "message": "Veuillez sélectionner...",
+    "description": "Placeholder pour l'entrée de rotation"
+  },
+  "placeholder.subMarker": {
+    "message": "Veuillez sélectionner...",
+    "description": "Placeholder pour l'entrée de sous-marqueur"
+  },
+  "button.precise": {
+    "message": "Précis",
+    "description": "Texte du bouton pour générer la vidéo Pika"
+  },
+  "button.creative": {
+    "message": "Créatif",
+    "description": "Texte du bouton pour générer la vidéo Pika"
+  },
+  "button.generate": {
+    "message": "Générer",
+    "description": "Texte du bouton pour générer la vidéo Pika"
+  },
+  "button.extend": {
+    "message": "Étendre la vidéo",
+    "description": "Texte du bouton pour étendre la vidéo"
+  },
+  "button.download": {
+    "message": "Télécharger la vidéo",
+    "description": "Texte du bouton pour télécharger la vidéo"
+  },
+  "button.uploadImageUrl": {
+    "message": "Télécharger l'image",
+    "description": "Texte du bouton pour télécharger une image"
+  },
+  "button.uploadVideoUrl": {
+    "message": "Télécharger la vidéo",
+    "description": "Texte du bouton pour télécharger une vidéo"
+  },
+  "message.uploadReferencesExceed": {
+    "message": "Vous pouvez télécharger jusqu'à 5 images",
+    "description": "Message d'erreur lorsque le nombre d'images téléchargées dépasse la limite"
+  },
+  "message.uploadReferencesSuccess": {
+    "message": "Téléchargement d'image réussi",
+    "description": "Message de succès lors du téléchargement réussi de l'image"
+  },
+  "message.uploadReferencesError": {
+    "message": "Échec du téléchargement de l'image, veuillez réessayer plus tard",
+    "description": "Message d'erreur lors de l'échec du téléchargement de l'image"
+  },
+  "message.startingTask": {
+    "message": "Démarrage de la tâche...",
+    "description": "Message lorsque la tâche de dessin commence"
+  },
+  "message.startTaskSuccess": {
+    "message": "Tâche de génération lancée avec succès",
+    "description": "Message de succès lors du lancement de la tâche"
+  },
+  "message.startTaskFailed": {
+    "message": "Échec du lancement de la tâche, veuillez contacter l'administrateur",
+    "description": "Message d'erreur lors de l'échec du lancement de la tâche de dessin"
+  },
+  "message.usedUp": {
+    "message": "Vous avez épuisé vos points, veuillez en acheter davantage pour continuer",
+    "description": "Message lorsqu'il n'y a plus de points disponibles"
+  },
+  "message.generating": {
+    "message": "Génération en cours...",
+    "description": "Message pendant la génération de l'image"
+  },
+  "message.downloadVideo": {
+    "message": "Télécharger cette vidéo",
+    "description": "Message pendant la génération de l'image"
+  },
+  "message.extendVideo": {
+    "message": "Continuer la génération de cette vidéo",
+    "description": "Message pendant la génération de l'image"
+  },
+  "message.generateFailed": {
+    "message": "Échec de la génération de l'image",
+    "description": "Message lors de l'échec de la génération de l'image"
+  },
+  "message.uploadVideoExceed": {
+    "message": "Le nombre d'images de première image téléchargées dépasse la limite",
+    "description": "Message d'erreur lorsque le nombre d'images de première image téléchargées dépasse la limite"
+  },
+  "message.uploadVideoSizeExceed": {
+    "message": "La taille du fichier ne doit pas dépasser 10 Mo!",
+    "description": "Message d'erreur lorsque la taille du fichier téléchargé dépasse 10 Mo"
+  },
+  "message.uploadVideoTypeFailed": {
+    "message": "Le fichier téléchargé doit être au format MP4!",
+    "description": "Message d'erreur lorsque le fichier téléchargé n'est pas au format MP4"
+  },
+  "message.uploadStartImageExceed": {
+    "message": "Le nombre d'images de première image téléchargées dépasse la limite",
+    "description": "Message d'erreur lorsque le nombre d'images de première image téléchargées dépasse la limite"
+  },
+  "message.uploadEndImageExceed": {
+    "message": "Le nombre d'images de dernière image téléchargées dépasse la limite",
+    "description": "Message d'erreur lorsque le nombre d'images de dernière image téléchargées dépasse la limite"
+  },
+  "message.uploadStartImageError": {
+    "message": "Échec du téléchargement de la première image",
+    "description": "Message d'erreur lorsque le téléchargement de la première image échoue"
+  },
+  "message.uploadVideoError": {
+    "message": "Échec du téléchargement de la vidéo",
+    "description": "Message d'erreur lorsque le téléchargement de la vidéo échoue"
+  },
+  "message.uploadEndImageError": {
+    "message": "Échec du téléchargement de la dernière image",
+    "description": "Message d'erreur lorsque le téléchargement de la dernière image échoue"
+  },
+  "message.uploadDocumentsError": {
+    "message": "Échec du téléchargement des documents",
+    "description": "Message d'erreur lorsque le téléchargement des documents échoue"
+  },
+  "message.noOperations": {
+    "message": "Aucune opération disponible",
+    "description": "Message lorsqu'il n'y a pas d'opérations disponibles"
+  },
+  "message.noTasks": {
+    "message": "Aucune tâche historique, veuillez cliquer à gauche pour générer une vidéo",
+    "description": "Message lorsqu'il n'y a pas de tâches disponibles"
+  }
+}

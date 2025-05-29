@@ -1,0 +1,290 @@
+{
+  "style.effect1": {
+    "message": "Levitar",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect2": {
+    "message": "Decapitar",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect3": {
+    "message": "Explotar ojos",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect4": {
+    "message": "¡Ta-da!",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect5": {
+    "message": "Desinflar",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect6": {
+    "message": "Desmoronar",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect7": {
+    "message": "Disolver",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect8": {
+    "message": "Aplastar",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect9": {
+    "message": "Inflar",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect10": {
+    "message": "Derretir",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect11": {
+    "message": "Convertir en pastel",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect12": {
+    "message": "Aplastar",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect13": {
+    "message": "Explotar",
+    "description": "Pika的视频效果名称"
+  },
+  "name.taskId": {
+    "message": "ID de tarea",
+    "description": "任务的 ID"
+  },
+  "name.type": {
+    "message": "Tipo",
+    "description": "要生成的 Pika视频的内容类型，如'链接'、'文本'等"
+  },
+  "name.failure": {
+    "message": "Fallo",
+    "description": "任务的失败状态"
+  },
+  "name.failureReason": {
+    "message": "Razón de fallo",
+    "description": "任务失败的原因"
+  },
+  "name.status": {
+    "message": "Estado",
+    "description": "任务的状态"
+  },
+  "name.traceId": {
+    "message": "ID de seguimiento",
+    "description": "任务的追踪 ID"
+  },
+  "name.createdAt": {
+    "message": "Fecha de creación",
+    "description": "生成 Pika 视频的日期和时间"
+  },
+  "name.imageUrl": {
+    "message": "Imagen de referencia",
+    "description": "要生成的视频的参考图片"
+  },
+  "name.videoUrl": {
+    "message": "Vídeo personalizado",
+    "description": "自定义视频"
+  },
+  "name.prompt": {
+    "message": "Indicación de vídeo",
+    "description": "内容输入的提示"
+  },
+  "name.ingredients": {
+    "message": "Crear vídeo con varias imágenes",
+    "description": "自定义扩展视频"
+  },
+  "name.model": {
+    "message": "Versión del modelo",
+    "description": "要生成视频所采用的模型版本"
+  },
+  "name.effect": {
+    "message": "Efecto de vídeo",
+    "description": "风格参数的名称，用于在不同版本或风格的模型之间切换"
+  },
+  "name.ingredientsModel": {
+    "message": "Modelo de ingredientes",
+    "description": "要生成视频所采用的模型版本"
+  },
+  "name.pikaBot": {
+    "message": "Pika Bot",
+    "description": "Pika 视频生成器的名称"
+  },
+  "description.ingredients": {
+    "message": "Si desea cargar varias imágenes para crear su propio vídeo, active este botón.",
+    "description": "参数'ingredients'的描述"
+  },
+  "description.imageUrl": {
+    "message": "En la tarea de crear vídeo con varias imágenes, se debe cargar varias imágenes.",
+    "description": "参数'imageUrl'的描述"
+  },
+  "description.prompt": {
+    "message": "Palabras clave para generar el vídeo de Pika",
+    "description": "参数'prompt'的描述"
+  },
+  "status.pending": {
+    "message": "Pendiente",
+    "description": "任务的等待状态"
+  },
+  "status.processing": {
+    "message": "En proceso",
+    "description": "任务的等待状态"
+  },
+  "placeholder.paddingNoise": {
+    "message": "Por favor seleccione...",
+    "description": "填充噪音输入的占位符"
+  },
+  "placeholder.select": {
+    "message": "Seleccionar",
+    "description": "选择字段中的占位文本"
+  },
+  "placeholder.paddingLevel": {
+    "message": "Por favor seleccione...",
+    "description": "填充级别的占位符"
+  },
+  "placeholder.prompt": {
+    "message": "Introduzca las palabras clave para el estilo del vídeo a generar, por ejemplo: movimiento",
+    "description": "提示字段中的占位文本"
+  },
+  "placeholder.position": {
+    "message": "Por favor seleccione...",
+    "description": "位置输入的占位符"
+  },
+  "placeholder.aspectRatio": {
+    "message": "Por favor seleccione...",
+    "description": "宽高比输入的占位符"
+  },
+  "placeholder.preset": {
+    "message": "Por favor seleccione...",
+    "description": "预设输入的占位符"
+  },
+  "placeholder.markerShape": {
+    "message": "Por favor seleccione...",
+    "description": "标记形状输入的占位符"
+  },
+  "placeholder.rotate": {
+    "message": "Por favor seleccione...",
+    "description": "旋转输入的占位符"
+  },
+  "placeholder.subMarker": {
+    "message": "Por favor seleccione...",
+    "description": "子标记输入的占位符"
+  },
+  "button.precise": {
+    "message": "Preciso",
+    "description": "生成Pika视频的按钮文本"
+  },
+  "button.creative": {
+    "message": "Creativo",
+    "description": "生成Pika视频的按钮文本"
+  },
+  "button.generate": {
+    "message": "Generar",
+    "description": "生成Pika视频的按钮文本"
+  },
+  "button.extend": {
+    "message": "Extender vídeo",
+    "description": "扩展视频按钮文本"
+  },
+  "button.download": {
+    "message": "Descargar vídeo",
+    "description": "下载视频按钮文本"
+  },
+  "button.uploadImageUrl": {
+    "message": "Subir imagen",
+    "description": "上传图片的按钮文本"
+  },
+  "button.uploadVideoUrl": {
+    "message": "Subir vídeo",
+    "description": "上传视频的按钮文本"
+  },
+  "message.uploadReferencesExceed": {
+    "message": "Se pueden subir un máximo de 5 imágenes",
+    "description": "上传的图片数量超过限制时的错误消息"
+  },
+  "message.uploadReferencesSuccess": {
+    "message": "Éxito al cargar la imagen",
+    "description": "Mensaje de éxito al cargar la imagen correctamente"
+  },
+  "message.uploadReferencesError": {
+    "message": "Error al cargar la imagen, por favor inténtelo de nuevo más tarde",
+    "description": "Mensaje de error al fallar la carga de la imagen"
+  },
+  "message.startingTask": {
+    "message": "Iniciando tarea...",
+    "description": "Mensaje al comenzar una tarea de dibujo"
+  },
+  "message.startTaskSuccess": {
+    "message": "Tarea de generación iniciada con éxito",
+    "description": "Mensaje de éxito al iniciar la tarea correctamente"
+  },
+  "message.startTaskFailed": {
+    "message": "Error al iniciar la tarea, por favor contacte al administrador",
+    "description": "Mensaje de error al fallar la tarea de dibujo"
+  },
+  "message.usedUp": {
+    "message": "Se han agotado sus créditos, por favor compre más créditos para continuar usando",
+    "description": "Mensaje al agotar los créditos disponibles"
+  },
+  "message.generating": {
+    "message": "Generando...",
+    "description": "Mensaje al estar generando la imagen"
+  },
+  "message.downloadVideo": {
+    "message": "Descargar este video",
+    "description": "Mensaje durante la generación de la imagen"
+  },
+  "message.extendVideo": {
+    "message": "Continuar generando este video",
+    "description": "Mensaje durante la generación de la imagen"
+  },
+  "message.generateFailed": {
+    "message": "Fallo al generar la imagen",
+    "description": "Mensaje al fallar la generación de la imagen"
+  },
+  "message.uploadVideoExceed": {
+    "message": "Se excedió el límite de carga de imágenes de fotogramas iniciales",
+    "description": "Mensaje de error al exceder el límite de imágenes de fotogramas iniciales"
+  },
+  "message.uploadVideoSizeExceed": {
+    "message": "¡El tamaño del archivo no puede exceder los 10MB!",
+    "description": "Mensaje de error al exceder el tamaño de archivo de 10MB"
+  },
+  "message.uploadVideoTypeFailed": {
+    "message": "¡El archivo debe ser en formato MP4!",
+    "description": "Mensaje de error al no subir un archivo en formato MP4"
+  },
+  "message.uploadStartImageExceed": {
+    "message": "Se excedió el límite de carga de imágenes de fotogramas iniciales",
+    "description": "Mensaje de error al exceder el límite de imágenes de fotogramas iniciales"
+  },
+  "message.uploadEndImageExceed": {
+    "message": "Se excedió el límite de carga de imágenes de fotogramas finales",
+    "description": "Mensaje de error al exceder el límite de imágenes de fotogramas iniciales"
+  },
+  "message.uploadStartImageError": {
+    "message": "Error al cargar la imagen de fotograma inicial",
+    "description": "Mensaje de error al fallar la carga de la imagen de fotograma inicial"
+  },
+  "message.uploadVideoError": {
+    "message": "Error al cargar el video",
+    "description": "Mensaje de error al fallar la carga de la imagen de fotograma inicial"
+  },
+  "message.uploadEndImageError": {
+    "message": "Error al cargar la imagen de fotograma final",
+    "description": "Mensaje de error al fallar la carga de la imagen de fotograma final"
+  },
+  "message.uploadDocumentsError": {
+    "message": "Error al cargar el documento",
+    "description": "Mensaje de error al fallar la carga del documento"
+  },
+  "message.noOperations": {
+    "message": "No hay operaciones disponibles",
+    "description": "Mensaje al no haber operaciones disponibles"
+  },
+  "message.noTasks": {
+    "message": "No hay tareas históricas, por favor haga clic a la izquierda para generar videos",
+    "description": "Mensaje al no haber tareas"
+  }
+}

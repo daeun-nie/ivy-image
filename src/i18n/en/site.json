@@ -1,0 +1,322 @@
+{
+  "field.title": {
+    "message": "Site Title",
+    "description": "Title displayed in the edit box"
+  },
+  "field.origin": {
+    "message": "Site Domain",
+    "description": "Title displayed in the edit box"
+  },
+  "field.description": {
+    "message": "Site Description",
+    "description": "Title displayed in the edit box"
+  },
+  "field.keywords": {
+    "message": "Site Keywords",
+    "description": "Title displayed in the edit box"
+  },
+  "field.logo": {
+    "message": "Site Logo",
+    "description": "Title displayed in the edit box"
+  },
+  "field.favicon": {
+    "message": "Site Favicon",
+    "description": "Title displayed in the edit box"
+  },
+  "field.qr": {
+    "message": "QR Code",
+    "description": "Title displayed in the edit box"
+  },
+  "field.url": {
+    "message": "Link",
+    "description": "Title displayed in the edit box"
+  },
+  "field.admins": {
+    "message": "Site Admin ID",
+    "description": "Title displayed in the edit box"
+  },
+  "field.distributionDefaultInviterId": {
+    "message": "Default Inviter ID",
+    "description": "Title displayed in the edit box"
+  },
+  "field.distributionForceInviterId": {
+    "message": "Forced Inviter ID",
+    "description": "Title displayed in the edit box"
+  },
+  "field.featuresChat": {
+    "message": "Chat",
+    "description": "Title displayed in the edit box"
+  },
+  "field.featuresMidjourney": {
+    "message": "Midjourney",
+    "description": "Title displayed in the edit box"
+  },
+  "field.featuresChatdoc": {
+    "message": "Chatdoc",
+    "description": "Title displayed in the edit box"
+  },
+  "field.featuresQrart": {
+    "message": "Qrart",
+    "description": "Title displayed in the edit box"
+  },
+  "field.featuresLuma": {
+    "message": "Luma",
+    "description": "Title displayed in the edit box"
+  },
+  "field.featuresPika": {
+    "message": "Pika",
+    "description": "Title displayed in the edit box"
+  },
+  "field.featuresKling": {
+    "message": "Kling",
+    "description": "Title displayed in the edit box"
+  },
+  "field.featuresHailuo": {
+    "message": "Hailuo",
+    "description": "Title displayed in the edit box"
+  },
+  "field.featuresHeadshots": {
+    "message": "AI Headshots",
+    "description": "Title displayed in the edit box"
+  },
+  "field.featuresSuno": {
+    "message": "Suno",
+    "description": "Title displayed in the edit box"
+  },
+  "field.featuresFlux": {
+    "message": "Flux",
+    "description": "Title displayed in the edit box"
+  },
+  "field.featuresSupport": {
+    "message": "Customer Support",
+    "description": "Title displayed in the edit box"
+  },
+  "field.featuresI18n": {
+    "message": "Multilingual Support",
+    "description": "Title displayed in the edit box"
+  },
+  "title.basicConfig": {
+    "message": "Basic Configuration",
+    "description": "Title displayed in the edit box"
+  },
+  "title.seoConfig": {
+    "message": "SEO Configuration",
+    "description": "Title displayed in the edit box"
+  },
+  "title.editAdmins": {
+    "message": "Edit Admins",
+    "description": "Title displayed in the edit box"
+  },
+  "title.featuresConfig": {
+    "message": "Feature Configuration",
+    "description": "Title displayed in the edit box"
+  },
+  "title.editTitle": {
+    "message": "Edit Title",
+    "description": "Title displayed in the edit box"
+  },
+  "title.editOrigin": {
+    "message": "Edit Domain",
+    "description": "Title displayed in the edit box"
+  },
+  "title.editKeywords": {
+    "message": "Edit Keywords",
+    "description": "Title displayed in the edit box"
+  },
+  "title.editLogo": {
+    "message": "Edit Logo",
+    "description": "Title displayed in the edit box"
+  },
+  "title.editFavicon": {
+    "message": "Edit Favicon",
+    "description": "Title displayed in the edit box"
+  },
+  "title.editDescription": {
+    "message": "Edit Description",
+    "description": "Title displayed in the edit box"
+  },
+  "title.distributionConfig": {
+    "message": "Distribution Configuration",
+    "description": "Title displayed in the edit box"
+  },
+  "title.editDistributionDefaultInviterId": {
+    "message": "Edit Default Inviter",
+    "description": "Title displayed in the edit box"
+  },
+  "title.editDistributionForceInviterId": {
+    "message": "Edit Forced Inviter",
+    "description": "Title displayed in the edit box"
+  },
+  "title.editQR": {
+    "message": "Edit QR Code",
+    "description": "Title displayed in the edit box"
+  },
+  "title.editUrl": {
+    "message": "Edit Link",
+    "description": "Title displayed in the edit box"
+  },
+  "placeholder.title": {
+    "message": "Please enter the site title",
+    "description": "Title displayed in the edit box"
+  },
+  "placeholder.origin": {
+    "message": "Please enter the site domain",
+    "description": "Title displayed in the edit box"
+  },
+  "placeholder.editUrl": {
+    "message": "Please enter the link",
+    "description": "Title displayed in the edit box"
+  },
+  "placeholder.description": {
+    "message": "Please enter the site description",
+    "description": "Title displayed in the edit box"
+  },
+  "placeholder.keywords": {
+    "message": "Please enter the site keywords",
+    "description": "Title displayed in the edit box"
+  },
+  "placeholder.editDistributionDefaultInviterId": {
+    "message": "Please enter the default inviter ID",
+    "description": "Title displayed in the edit box"
+  },
+  "placeholder.editDistributionForceInviterId": {
+    "message": "Please enter the forced inviter ID",
+    "description": "Title displayed in the edit box"
+  },
+  "message.uploadImageExceed": {
+    "message": "Uploaded image exceeds the limit",
+    "description": "Prompt when uploaded image exceeds the limit"
+  },
+  "message.uploadImageError": {
+    "message": "Upload Image Error",
+    "description": "Error message when uploading an image"
+  },
+  "message.editLogoTip": {
+    "message": "Recommended size: 200*60px",
+    "description": "Tip for uploading an image"
+  },
+  "message.editQRTip": {
+    "message": "Recommended size: 200*200px",
+    "description": "Tip for uploading an image"
+  },
+  "message.editFaviconTip": {
+    "message": "Recommended size: 32*32px",
+    "description": "Tip for uploading an image"
+  },
+  "message.editUrl": {
+    "message": "Please enter the link",
+    "description": "Prompt for entering a link"
+  },
+  "message.atLeastOneAdmin": {
+    "message": "At least one admin must remain",
+    "description": "Message to ensure at least one admin remains"
+  },
+  "message.distributionDefaultInviterIdTip": {
+    "message": "Default inviter's user ID, if the distribution link does not carry the inviter_id parameter, the user ID will be used as the inviter by default.",
+    "description": "Tip for default inviter ID"
+  },
+  "message.distributionForceInviterIdTip": {
+    "message": "Forced inviter's user ID, if this ID is set, regardless of whether the distribution link carries the inviter_id parameter, the user ID will be forced as the inviter.",
+    "description": "Tip for forced inviter ID"
+  },
+  "message.originTip": {
+    "message": "Site domain, site configuration is bound to the domain, and the site domain cannot be changed.",
+    "description": "Tip for site domain"
+  },
+  "message.titleTip": {
+    "message": "Site title, displayed in the browser tab.",
+    "description": "Tip for site title"
+  },
+  "message.descriptionTip": {
+    "message": "Site description, located in the site's meta information, used for site SEO optimization.",
+    "description": "Tip for site description"
+  },
+  "message.logoTip": {
+    "message": "Site logo, displayed at the top of the site menu when the menu is expanded.",
+    "description": "Tip for site logo"
+  },
+  "message.faviconTip": {
+    "message": "Site favicon, displayed in the browser tab.",
+    "description": "Tip for site favicon"
+  },
+  "message.adminsTip": {
+    "message": "Site admin ID, by default, the user who first creates the site will become the admin. Only site admins can manage the site.",
+    "description": "Tip for site admin"
+  },
+  "message.adminsTip2": {
+    "message": "Admin IDs can be added or removed here, user IDs can be viewed at https://auth.acedata.cloud",
+    "description": "Tip for site admin"
+  },
+  "message.keywordsTip": {
+    "message": "Site keywords, located in the site's meta information, used for site SEO optimization.",
+    "description": "Tip for site keywords"
+  },
+  "message.keywordsTip2": {
+    "message": "Site keywords can be added or removed here. The more precise the keywords, the better for SEO optimization.",
+    "description": "Tip for site keywords"
+  },
+  "message.featuresChat": {
+    "message": "Turn Chat feature module on or off.",
+    "description": "Description of the Chat feature"
+  },
+  "message.featuresMidjourney": {
+    "message": "Turn Midjourney feature module on or off.",
+    "description": "Description of the Midjourney feature"
+  },
+  "message.featuresChatdoc": {
+    "message": "Turn Chatdoc feature module on or off.",
+    "description": "Description of the Chatdoc feature"
+  },
+  "message.featuresQrart": {
+    "message": "Turn Qrart feature module on or off.",
+    "description": "Description of the Qrart feature"
+  },
+  "message.featuresSuno": {
+    "message": "Turn Suno feature module on or off.",
+    "description": "Description of the Suno feature"
+  },
+  "message.featuresFlux": {
+    "message": "Turn Flux feature module on or off.",
+    "description": "Description of the Flux feature"
+  },
+  "message.featuresLuma": {
+    "message": "Turn Luma feature module on or off.",
+    "description": "Description of the Luma feature"
+  },
+  "message.featuresPika": {
+    "message": "Turn Pika feature module on or off.",
+    "description": "Description of the Pika feature"
+  },
+  "message.featuresKling": {
+    "message": "Turn Kling feature module on or off.",
+    "description": "Description of the Kling feature"
+  },
+  "message.featuresHailuo": {
+    "message": "Turn Hailuo feature module on or off.",
+    "description": "Description of the Hailuo feature"
+  },
+  "message.featuresHeadshots": {
+    "message": "Turn AI ID Photo feature module on or off.",
+    "description": "Description of the AI ID Photo feature"
+  },
+  "message.featuresSupport": {
+    "message": "Turn customer support on or off.",
+    "description": "Description of the Support feature"
+  },
+  "message.featuresI18n": {
+    "message": "Turn multilingual support on or off. When turned off, users can only use the default language.",
+    "description": "Description of the multilingual support feature"
+  },
+  "button.upload": {
+    "message": "Upload",
+    "description": "Upload button"
+  },
+  "button.enabled": {
+    "message": "Enabled",
+    "description": "Toggle text indicating that the feature is enabled"
+  },
+  "button.disabled": {
+    "message": "Disabled",
+    "description": "Toggle text indicating that the feature is disabled"
+  }
+}

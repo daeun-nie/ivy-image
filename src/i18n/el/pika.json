@@ -1,0 +1,290 @@
+{
+  "style.effect1": {
+    "message": "Αιωρείται",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect2": {
+    "message": "Αποκεφαλισμός",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect3": {
+    "message": "Πετάγονται τα μάτια",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect4": {
+    "message": "Τα-ντα",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect5": {
+    "message": "Ξεφουσκώνει",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect6": {
+    "message": "Θρυμματίζεται",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect7": {
+    "message": "Διαλύεται",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect8": {
+    "message": "Συμπιέζεται",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect9": {
+    "message": "Φουσκώνει",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect10": {
+    "message": "Λιώνει",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect11": {
+    "message": "Μετατρέπεται σε τούρτα",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect12": {
+    "message": "Συνθλίβεται",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect13": {
+    "message": "Εκρήγνυται",
+    "description": "Pika的视频效果名称"
+  },
+  "name.taskId": {
+    "message": "ID Εργασίας",
+    "description": "任务的 ID"
+  },
+  "name.type": {
+    "message": "Τύπος",
+    "description": "要生成的 Pika视频的内容类型，如'链接'、'文本'等"
+  },
+  "name.failure": {
+    "message": "Αποτυχία",
+    "description": "任务的失败状态"
+  },
+  "name.failureReason": {
+    "message": "Λόγος Αποτυχίας",
+    "description": "任务失败的原因"
+  },
+  "name.status": {
+    "message": "Κατάσταση",
+    "description": "任务的状态"
+  },
+  "name.traceId": {
+    "message": "ID Ανίχνευσης",
+    "description": "任务的追踪 ID"
+  },
+  "name.createdAt": {
+    "message": "Ημερομηνία Δημιουργίας",
+    "description": "生成 Pika 视频的日期和时间"
+  },
+  "name.imageUrl": {
+    "message": "Εικόνα Αναφοράς",
+    "description": "要生成的视频的参考图片"
+  },
+  "name.videoUrl": {
+    "message": "Προσαρμοσμένο Βίντεο",
+    "description": "自定义视频"
+  },
+  "name.prompt": {
+    "message": "Προτροπή Βίντεο",
+    "description": "内容输入的提示"
+  },
+  "name.ingredients": {
+    "message": "Δημιουργία Βίντεο από Πολλαπλές Εικόνες",
+    "description": "自定义扩展视频"
+  },
+  "name.model": {
+    "message": "Έκδοση Μοντέλου",
+    "description": "要生成视频所采用的模型版本"
+  },
+  "name.effect": {
+    "message": "Εφέ Βίντεο",
+    "description": "风格参数的名称，用于在不同版本或风格的模型之间切换"
+  },
+  "name.ingredientsModel": {
+    "message": "Μοντέλο Συστατικών",
+    "description": "要生成视频所采用的模型版本"
+  },
+  "name.pikaBot": {
+    "message": "Pika Bot",
+    "description": "Pika 视频生成器的名称"
+  },
+  "description.ingredients": {
+    "message": "Αν θέλετε να ανεβάσετε πολλές εικόνες για να δημιουργήσετε το δικό σας βίντεο, ενεργοποιήστε αυτό το κουμπί.",
+    "description": "参数'ingredients'的描述"
+  },
+  "description.imageUrl": {
+    "message": "Στην εργασία δημιουργίας βίντεο από πολλαπλές εικόνες, πρέπει να ανεβάσετε πολλές εικόνες.",
+    "description": "参数'imageUrl'的描述"
+  },
+  "description.prompt": {
+    "message": "Λέξεις-κλειδιά για τη δημιουργία Pika βίντεο",
+    "description": "参数'prompt'的描述"
+  },
+  "status.pending": {
+    "message": "Σε αναμονή",
+    "description": "任务的等待状态"
+  },
+  "status.processing": {
+    "message": "Σε επεξεργασία",
+    "description": "任务的等待状态"
+  },
+  "placeholder.paddingNoise": {
+    "message": "Παρακαλώ επιλέξτε...",
+    "description": "填充噪音输入的占位符"
+  },
+  "placeholder.select": {
+    "message": "Επιλογή",
+    "description": "选择字段中的占位文本"
+  },
+  "placeholder.paddingLevel": {
+    "message": "Παρακαλώ επιλέξτε...",
+    "description": "填充级别的占位符"
+  },
+  "placeholder.prompt": {
+    "message": "Εισάγετε λέξεις-κλειδιά για το στυλ του βίντεο που θέλετε να δημιουργήσετε, π.χ.: moving",
+    "description": "提示字段中的占位文本"
+  },
+  "placeholder.position": {
+    "message": "Παρακαλώ επιλέξτε...",
+    "description": "位置输入的占位符"
+  },
+  "placeholder.aspectRatio": {
+    "message": "Παρακαλώ επιλέξτε...",
+    "description": "宽高比输入的占位符"
+  },
+  "placeholder.preset": {
+    "message": "Παρακαλώ επιλέξτε...",
+    "description": "预设输入的占位符"
+  },
+  "placeholder.markerShape": {
+    "message": "Παρακαλώ επιλέξτε...",
+    "description": "标记形状输入的占位符"
+  },
+  "placeholder.rotate": {
+    "message": "Παρακαλώ επιλέξτε...",
+    "description": "旋转输入的占位符"
+  },
+  "placeholder.subMarker": {
+    "message": "Παρακαλώ επιλέξτε...",
+    "description": "子标记输入的占位符"
+  },
+  "button.precise": {
+    "message": "Ακριβές",
+    "description": "生成Pika视频的按钮文本"
+  },
+  "button.creative": {
+    "message": "Δημιουργικό",
+    "description": "生成Pika视频的按钮文本"
+  },
+  "button.generate": {
+    "message": "Δημιουργία",
+    "description": "生成Pika视频的按钮文本"
+  },
+  "button.extend": {
+    "message": "Επέκταση Βίντεο",
+    "description": "扩展视频按钮文本"
+  },
+  "button.download": {
+    "message": "Λήψη Βίντεο",
+    "description": "下载视频按钮文本"
+  },
+  "button.uploadImageUrl": {
+    "message": "Ανέβασμα Εικόνας",
+    "description": "上传图片的按钮文本"
+  },
+  "button.uploadVideoUrl": {
+    "message": "Ανέβασμα Βίντεο",
+    "description": "上传视频的按钮文本"
+  },
+  "message.uploadReferencesExceed": {
+    "message": "Μπορείτε να ανεβάσετε έως 5 εικόνες",
+    "description": "上传的图片数量超过限制时的错误消息"
+  },
+  "message.uploadReferencesSuccess": {
+    "message": "Η μεταφόρτωση της εικόνας ήταν επιτυχής",
+    "description": "Επιτυχές μήνυμα κατά την επιτυχή μεταφόρτωση εικόνας"
+  },
+  "message.uploadReferencesError": {
+    "message": "Αποτυχία μεταφόρτωσης της εικόνας, παρακαλώ δοκιμάστε ξανά αργότερα",
+    "description": "Μήνυμα σφάλματος κατά την αποτυχία μεταφόρτωσης εικόνας"
+  },
+  "message.startingTask": {
+    "message": "Εκκίνηση εργασίας...",
+    "description": "Μήνυμα κατά την έναρξη της εργασίας σκίτσου"
+  },
+  "message.startTaskSuccess": {
+    "message": "Η εργασία δημιουργίας ξεκίνησε επιτυχώς",
+    "description": "Επιτυχές μήνυμα κατά την επιτυχή εκκίνηση της εργασίας"
+  },
+  "message.startTaskFailed": {
+    "message": "Αποτυχία εκκίνησης εργασίας, επικοινωνήστε με τον διαχειριστή",
+    "description": "Μήνυμα σφάλματος κατά την αποτυχία εκκίνησης της εργασίας σκίτσου"
+  },
+  "message.usedUp": {
+    "message": "Έχετε εξαντλήσει τις μονάδες σας, παρακαλώ αγοράστε περισσότερες για να συνεχίσετε",
+    "description": "Μήνυμα όταν οι μονάδες έχουν εξαντληθεί"
+  },
+  "message.generating": {
+    "message": "Γίνεται δημιουργία...",
+    "description": "Μήνυμα κατά τη δημιουργία της εικόνας"
+  },
+  "message.downloadVideo": {
+    "message": "Λήψη αυτού του βίντεο",
+    "description": "Μήνυμα κατά τη δημιουργία της εικόνας"
+  },
+  "message.extendVideo": {
+    "message": "Συνέχιση δημιουργίας αυτού του βίντεο",
+    "description": "Μήνυμα κατά τη δημιουργία της εικόνας"
+  },
+  "message.generateFailed": {
+    "message": "Αποτυχία δημιουργίας εικόνας",
+    "description": "Μήνυμα σφάλματος κατά την αποτυχία δημιουργίας εικόνας"
+  },
+  "message.uploadVideoExceed": {
+    "message": "Ο αριθμός των εικόνων πρώτου καρέ υπερβαίνει το όριο",
+    "description": "Μήνυμα σφάλματος όταν ο αριθμός των εικόνων πρώτου καρέ υπερβαίνει το όριο"
+  },
+  "message.uploadVideoSizeExceed": {
+    "message": "Το μέγεθος του αρχείου δεν μπορεί να υπερβαίνει τα 10MB!",
+    "description": "Μήνυμα σφάλματος όταν το μέγεθος του αρχείου υπερβαίνει τα 10MB!"
+  },
+  "message.uploadVideoTypeFailed": {
+    "message": "Το αρχείο πρέπει να είναι μορφής MP4!",
+    "description": "Μήνυμα σφάλματος όταν το αρχείο δεν είναι μορφής MP4!"
+  },
+  "message.uploadStartImageExceed": {
+    "message": "Ο αριθμός των εικόνων πρώτου καρέ υπερβαίνει το όριο",
+    "description": "Μήνυμα σφάλματος όταν ο αριθμός των εικόνων πρώτου καρέ υπερβαίνει το όριο"
+  },
+  "message.uploadEndImageExceed": {
+    "message": "Ο αριθμός των εικόνων τελευταίου καρέ υπερβαίνει το όριο",
+    "description": "Μήνυμα σφάλματος όταν ο αριθμός των εικόνων πρώτου καρέ υπερβαίνει το όριο"
+  },
+  "message.uploadStartImageError": {
+    "message": "Αποτυχία μεταφόρτωσης πρώτης εικόνας καρέ",
+    "description": "Μήνυμα σφάλματος κατά την αποτυχία μεταφόρτωσης πρώτης εικόνας καρέ"
+  },
+  "message.uploadVideoError": {
+    "message": "Αποτυχία μεταφόρτωσης βίντεο",
+    "description": "Μήνυμα σφάλματος κατά την αποτυχία μεταφόρτωσης πρώτης εικόνας καρέ"
+  },
+  "message.uploadEndImageError": {
+    "message": "Αποτυχία μεταφόρτωσης τελευταίας εικόνας καρέ",
+    "description": "Μήνυμα σφάλματος κατά την αποτυχία μεταφόρτωσης τελευταίας εικόνας καρέ"
+  },
+  "message.uploadDocumentsError": {
+    "message": "Αποτυχία μεταφόρτωσης εγγράφων",
+    "description": "Μήνυμα σφάλματος κατά την αποτυχία μεταφόρτωσης εγγράφων"
+  },
+  "message.noOperations": {
+    "message": "Δεν υπάρχουν διαθέσιμες ενέργειες",
+    "description": "Μήνυμα όταν δεν υπάρχουν διαθέσιμες ενέργειες"
+  },
+  "message.noTasks": {
+    "message": "Δεν υπάρχουν προηγούμενες εργασίες, παρακαλώ κλικάρετε αριστερά για να δημιουργήσετε ένα βίντεο",
+    "description": "Μήνυμα όταν δεν υπάρχουν εργασίες"
+  }
+}

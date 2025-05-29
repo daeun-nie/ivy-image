@@ -1,0 +1,290 @@
+{
+  "style.effect1": {
+    "message": "Левітація",
+    "description": "Назва відеоефекту Pika"
+  },
+  "style.effect2": {
+    "message": "Обезглавлення",
+    "description": "Назва відеоефекту Pika"
+  },
+  "style.effect3": {
+    "message": "Витрішки",
+    "description": "Назва відеоефекту Pika"
+  },
+  "style.effect4": {
+    "message": "Та-да",
+    "description": "Назва відеоефекту Pika"
+  },
+  "style.effect5": {
+    "message": "Здути",
+    "description": "Назва відеоефекту Pika"
+  },
+  "style.effect6": {
+    "message": "Розсипатися",
+    "description": "Назва відеоефекту Pika"
+  },
+  "style.effect7": {
+    "message": "Розчинитися",
+    "description": "Назва відеоефекту Pika"
+  },
+  "style.effect8": {
+    "message": "Стиснути",
+    "description": "Назва відеоефекту Pika"
+  },
+  "style.effect9": {
+    "message": "Надути",
+    "description": "Назва відеоефекту Pika"
+  },
+  "style.effect10": {
+    "message": "Розтопити",
+    "description": "Назва відеоефекту Pika"
+  },
+  "style.effect11": {
+    "message": "Оперецінити",
+    "description": "Назва відеоефекту Pika"
+  },
+  "style.effect12": {
+    "message": "Розчавити",
+    "description": "Назва відеоефекту Pika"
+  },
+  "style.effect13": {
+    "message": "Вибухнути",
+    "description": "Назва відеоефекту Pika"
+  },
+  "name.taskId": {
+    "message": "ID завдання",
+    "description": "ID завдання"
+  },
+  "name.type": {
+    "message": "Тип",
+    "description": "Тип вмісту для створення відео Pika, наприклад, 'посилання', 'текст' тощо"
+  },
+  "name.failure": {
+    "message": "Невдача",
+    "description": "Стан завдання, коли воно не виконано"
+  },
+  "name.failureReason": {
+    "message": "Причина невдачі",
+    "description": "Причина, чому завдання не вдалося"
+  },
+  "name.status": {
+    "message": "Статус",
+    "description": "Статус завдання"
+  },
+  "name.traceId": {
+    "message": "ID відстеження",
+    "description": "ID відстеження завдання"
+  },
+  "name.createdAt": {
+    "message": "Дата створення",
+    "description": "Дата і час створення відео Pika"
+  },
+  "name.imageUrl": {
+    "message": "Референсне зображення",
+    "description": "Референсне зображення для створення відео"
+  },
+  "name.videoUrl": {
+    "message": "Користувацьке відео",
+    "description": "Користувацьке відео"
+  },
+  "name.prompt": {
+    "message": "Підказка до відео",
+    "description": "Підказка для введення вмісту"
+  },
+  "name.ingredients": {
+    "message": "Створення відео з кількох зображень",
+    "description": "Налаштоване розширення для відео"
+  },
+  "name.model": {
+    "message": "Версія моделі",
+    "description": "Версія моделі, що використовується для створення відео"
+  },
+  "name.effect": {
+    "message": "Відеоефект",
+    "description": "Назва стильового параметра для переключення між різними версіями або стилями моделі"
+  },
+  "name.ingredientsModel": {
+    "message": "Модель інгредієнтів",
+    "description": "Версія моделі, що використовується для створення відео"
+  },
+  "name.pikaBot": {
+    "message": "Pika Bot",
+    "description": "Назва генератора відео Pika"
+  },
+  "description.ingredients": {
+    "message": "Якщо ви хочете завантажити кілька зображень для створення власного відео, увімкніть цю кнопку.",
+    "description": "Опис параметра 'ingredients'"
+  },
+  "description.imageUrl": {
+    "message": "У задачах створення відео з кількох зображень потрібно завантажити кілька зображень.",
+    "description": "Опис параметра 'imageUrl'"
+  },
+  "description.prompt": {
+    "message": "Підказка для створення відео Pika",
+    "description": "Опис параметра 'prompt'"
+  },
+  "status.pending": {
+    "message": "В очікуванні",
+    "description": "Стан завдання, коли воно в очікуванні виконання"
+  },
+  "status.processing": {
+    "message": "Обробка",
+    "description": "Стан завдання, коли воно обробляється"
+  },
+  "placeholder.paddingNoise": {
+    "message": "Будь ласка, виберіть...",
+    "description": "Заповнюючий текст для вводу заповнення шумом"
+  },
+  "placeholder.select": {
+    "message": "Виберіть",
+    "description": "Заповнювач у полі вибору"
+  },
+  "placeholder.paddingLevel": {
+    "message": "Будь ласка, виберіть...",
+    "description": "Заповнювач для рівня заповнення"
+  },
+  "placeholder.prompt": {
+    "message": "Введіть підказку для стилю створення відео, наприклад: 'рухається'",
+    "description": "Заповнювач у полі підказки"
+  },
+  "placeholder.position": {
+    "message": "Будь ласка, виберіть...",
+    "description": "Заповнювач для вводу позиції"
+  },
+  "placeholder.aspectRatio": {
+    "message": "Будь ласка, виберіть...",
+    "description": "Заповнювач для вводу співвідношення сторін"
+  },
+  "placeholder.preset": {
+    "message": "Будь ласка, виберіть...",
+    "description": "Заповнювач для вводу пресету"
+  },
+  "placeholder.markerShape": {
+    "message": "Будь ласка, виберіть...",
+    "description": "Заповнювач для вводу форми маркера"
+  },
+  "placeholder.rotate": {
+    "message": "Будь ласка, виберіть...",
+    "description": "Заповнювач для вводу обертання"
+  },
+  "placeholder.subMarker": {
+    "message": "Будь ласка, виберіть...",
+    "description": "Заповнювач для вводу підмаркера"
+  },
+  "button.precise": {
+    "message": "Точність",
+    "description": "Текст кнопки для створення відео Pika"
+  },
+  "button.creative": {
+    "message": "Креативність",
+    "description": "Текст кнопки для створення відео Pika"
+  },
+  "button.generate": {
+    "message": "Створити",
+    "description": "Текст кнопки для створення відео Pika"
+  },
+  "button.extend": {
+    "message": "Розширити відео",
+    "description": "Текст кнопки для розширення відео"
+  },
+  "button.download": {
+    "message": "Завантажити відео",
+    "description": "Текст кнопки для завантаження відео"
+  },
+  "button.uploadImageUrl": {
+    "message": "Завантажити зображення",
+    "description": "Текст кнопки для завантаження зображення"
+  },
+  "button.uploadVideoUrl": {
+    "message": "Завантажити відео",
+    "description": "Текст кнопки для завантаження відео"
+  },
+  "message.uploadReferencesExceed": {
+    "message": "Можна завантажити не більше 5 зображень",
+    "description": "Повідомлення про помилку, коли кількість завантажених зображень перевищує ліміт"
+  },
+  "message.uploadReferencesSuccess": {
+    "message": "Завантаження зображень успішне",
+    "description": "Повідомлення про успішне завантаження зображення"
+  },
+  "message.uploadReferencesError": {
+    "message": "Не вдалося завантажити зображення, спробуйте пізніше",
+    "description": "Повідомлення про помилку при невдачі завантаження зображення"
+  },
+  "message.startingTask": {
+    "message": "Запуск завдання...",
+    "description": "Повідомлення при запуску завдання з малювання"
+  },
+  "message.startTaskSuccess": {
+    "message": "Завдання на генерацію запущене успішно",
+    "description": "Повідомлення про успішний запуск завдання"
+  },
+  "message.startTaskFailed": {
+    "message": "Не вдалося запустити завдання, зверніться до адміністратора",
+    "description": "Повідомлення про помилку при невдачі запуску завдання з малювання"
+  },
+  "message.usedUp": {
+    "message": "Ваші бали закінчилися, придбайте більше, щоб продовжити роботу",
+    "description": "Повідомлення, коли бали закінчилися"
+  },
+  "message.generating": {
+    "message": "Генерація...",
+    "description": "Повідомлення, коли зображення генерується"
+  },
+  "message.downloadVideo": {
+    "message": "Завантажити це відео",
+    "description": "Повідомлення під час генерації зображення"
+  },
+  "message.extendVideo": {
+    "message": "Продовжити генерацію цього відео",
+    "description": "Повідомлення під час генерації зображення"
+  },
+  "message.generateFailed": {
+    "message": "Не вдалося згенерувати зображення",
+    "description": "Повідомлення про невдачу генерації зображення"
+  },
+  "message.uploadVideoExceed": {
+    "message": "Кількість завантажених перших кадрів перевищує обмеження",
+    "description": "Повідомлення про помилку при перевищенні кількості перших кадрів"
+  },
+  "message.uploadVideoSizeExceed": {
+    "message": "Розмір файлу не може перевищувати 10 МБ!",
+    "description": "Повідомлення про помилку при перевищенні розміру файлу понад 10 МБ"
+  },
+  "message.uploadVideoTypeFailed": {
+    "message": "Файл повинен бути у форматі MP4!",
+    "description": "Повідомлення про помилку, якщо файл не у форматі MP4"
+  },
+  "message.uploadStartImageExceed": {
+    "message": "Кількість завантажених перших кадрів перевищує обмеження",
+    "description": "Повідомлення про помилку при перевищенні кількості перших кадрів"
+  },
+  "message.uploadEndImageExceed": {
+    "message": "Кількість завантажених останніх кадрів перевищує обмеження",
+    "description": "Повідомлення про помилку при перевищенні кількості останніх кадрів"
+  },
+  "message.uploadStartImageError": {
+    "message": "Не вдалося завантажити перший кадр",
+    "description": "Повідомлення про помилку при невдачі завантаження першого кадру"
+  },
+  "message.uploadVideoError": {
+    "message": "Не вдалося завантажити відео",
+    "description": "Повідомлення про помилку при невдачі завантаження відео"
+  },
+  "message.uploadEndImageError": {
+    "message": "Не вдалося завантажити останній кадр",
+    "description": "Повідомлення про помилку при невдачі завантаження останнього кадру"
+  },
+  "message.uploadDocumentsError": {
+    "message": "Не вдалося завантажити документи",
+    "description": "Повідомлення про помилку при невдачі завантаження документів"
+  },
+  "message.noOperations": {
+    "message": "Немає доступних операцій",
+    "description": "Повідомлення, коли немає доступних операцій"
+  },
+  "message.noTasks": {
+    "message": "Немає історії завдань, натисніть ліворуч, щоб згенерувати відео",
+    "description": "Повідомлення, коли немає завдань"
+  }
+}

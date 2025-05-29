@@ -1,0 +1,118 @@
+{
+  "button.suggested": {
+    "message": "Recommended",
+    "description": "Button text, recommended indicates a suggested button"
+  },
+  "menu.orderList": {
+    "message": "Order List",
+    "description": "Text in the website menu, order indicates the user's purchase orders for services"
+  },
+  "menu.applicationList": {
+    "message": "Application List",
+    "description": "Text in the website menu, application indicates the user's applications for services"
+  },
+  "menu.userProfile": {
+    "message": "User Profile",
+    "description": "Text in the website menu, user profile indicates the user's personal profile"
+  },
+  "menu.idVerify": {
+    "message": "Identity Verification",
+    "description": "Text in the website menu, identity verification indicates the verification of the user's identity"
+  },
+  "menu.manageApplication": {
+    "message": "Manage Applications",
+    "description": "Text in the website menu, manage applications indicates the management of the user's applications"
+  },
+  "menu.distributionIndex": {
+    "message": "Referral Earnings",
+    "description": "Text in the website menu, referral earnings indicates the earnings from user referrals"
+  },
+  "menu.developerPlatform": {
+    "message": "Developer Platform",
+    "description": "Text in the website menu, developer platform indicates the platform for developers"
+  },
+  "menu.usageList": {
+    "message": "Usage Records",
+    "description": "Text in the website menu, usage records indicates the user's history of using API services"
+  },
+  "menu.credentialIndex": {
+    "message": "Credentials",
+    "description": "Text in the website menu, credentials indicates the credentials for accessing the API"
+  },
+  "menu.manageOrder": {
+    "message": "Manage Orders",
+    "description": "Text in the website menu, manage orders indicates the management of the user's orders, order indicates the user's purchase orders for services"
+  },
+  "menu.manageDistributionStatus": {
+    "message": "Distribution Management",
+    "description": "Text in the website menu, distribution management indicates the management of the user's distribution status, related to the user's referral earnings"
+  },
+  "message.benefit1": {
+    "message": "Exclusive Customer Support",
+    "description": "Text on the website homepage, exclusive customer support indicates that the user can receive exclusive customer support"
+  },
+  "message.benefit2": {
+    "message": "Priority Access to New Features",
+    "description": "Text on the website homepage, priority access to new features indicates that the user can experience new features first"
+  },
+  "message.buyExtra": {
+    "message": "Purchase",
+    "description": "Text on the website homepage, purchase quota indicates that the user can purchase quota"
+  },
+  "message.subscribe": {
+    "message": "Subscribe",
+    "description": "Text on the website homepage, subscribe to membership indicates that the user can subscribe to membership"
+  },
+  "message.doNotWantSubscribe": {
+    "message": "Don't want to subscribe to a periodic membership? You can also try purchasing quota separately.",
+    "description": "Text on the website homepage, don't want to subscribe indicates that the user does not want to subscribe to membership"
+  },
+  "message.doNotWantExtra": {
+    "message": "Don't want to purchase quota? You can also try subscribing to a periodic membership.",
+    "description": "Text on the website homepage, don't want to purchase quota indicates that the user does not want to purchase quota"
+  },
+  "message.applicationNotFound": {
+    "message": "Application Not Found",
+    "description": "Message displayed to the user when the application does not exist."
+  },
+  "subscription.title": {
+    "message": "Subscribe to Membership for More Benefits",
+    "description": "Message displayed to the user when subscribing to services."
+  },
+  "subscription.3days": {
+    "message": "3-Day Trial Membership",
+    "description": "Membership type, 3-day trial membership"
+  },
+  "subscription.3days.description": {
+    "message": "Trial membership, suitable for short-term use.",
+    "description": "Membership type, suitable for short-term use"
+  },
+  "subscription.weekly": {
+    "message": "Weekly Membership",
+    "description": "Membership type, weekly membership indicates the user's purchase of a weekly membership"
+  },
+  "subscription.monthly": {
+    "message": "Monthly Membership",
+    "description": "Membership type, monthly membership indicates the user's purchase of a monthly membership"
+  },
+  "subscription.yearly": {
+    "message": "Yearly Membership",
+    "description": "Membership type, yearly membership indicates the user's purchase of a yearly membership"
+  },
+  "subscription.weekly.description": {
+    "message": "Trial weekly membership, suitable for short-term use.",
+    "description": "Description of membership type, weekly membership indicates the user's purchase of a weekly membership"
+  },
+  "subscription.monthly.description": {
+    "message": "Flexible monthly membership, suitable for long-term use.",
+    "description": "Description of membership type, monthly membership indicates the user's purchase of a monthly membership"
+  },
+  "subscription.yearly.description": {
+    "message": "Value yearly membership, the most cost-effective choice.",
+    "description": "Description of membership type, yearly membership indicates the user's purchase of a yearly membership"
+  },
+  "subscription.introduction": {
+    "message": "Subscribe to membership to unlock all AI services on the site.",
+    "description": "Membership introduction indicates the introduction of membership"
+  }
+}

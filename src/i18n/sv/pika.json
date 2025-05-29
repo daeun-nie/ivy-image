@@ -1,0 +1,290 @@
+{
+  "style.effect1": {
+    "message": "Svindla",
+    "description": "Pikas videoeffektnamn"
+  },
+  "style.effect2": {
+    "message": "Halshugga",
+    "description": "Pikas videoeffektnamn"
+  },
+  "style.effect3": {
+    "message": "Ögonpop",
+    "description": "Pikas videoeffektnamn"
+  },
+  "style.effect4": {
+    "message": "Voila",
+    "description": "Pikas videoeffektnamn"
+  },
+  "style.effect5": {
+    "message": "Tömma",
+    "description": "Pikas videoeffektnamn"
+  },
+  "style.effect6": {
+    "message": "Smulna",
+    "description": "Pikas videoeffektnamn"
+  },
+  "style.effect7": {
+    "message": "Lösa upp",
+    "description": "Pikas videoeffektnamn"
+  },
+  "style.effect8": {
+    "message": "Platta till",
+    "description": "Pikas videoeffektnamn"
+  },
+  "style.effect9": {
+    "message": "Uppblåsa",
+    "description": "Pikas videoeffektnamn"
+  },
+  "style.effect10": {
+    "message": "Smälta",
+    "description": "Pikas videoeffektnamn"
+  },
+  "style.effect11": {
+    "message": "Tårtfy",
+    "description": "Pikas videoeffektnamn"
+  },
+  "style.effect12": {
+    "message": "Krossa",
+    "description": "Pikas videoeffektnamn"
+  },
+  "style.effect13": {
+    "message": "Explodera",
+    "description": "Pikas videoeffektnamn"
+  },
+  "name.taskId": {
+    "message": "Uppgifts-ID",
+    "description": "Uppgiftens ID"
+  },
+  "name.type": {
+    "message": "Typ",
+    "description": "Typ av innehåll för Pika-videon som ska genereras, som 'länk', 'text' etc."
+  },
+  "name.failure": {
+    "message": "Misslyckande",
+    "description": "Uppgiftens misslyckande status"
+  },
+  "name.failureReason": {
+    "message": "Misslyckande anledning",
+    "description": "Anledningen till att uppgiften misslyckades"
+  },
+  "name.status": {
+    "message": "Status",
+    "description": "Uppgiftens status"
+  },
+  "name.traceId": {
+    "message": "Spår-ID",
+    "description": "Uppgiftens spårnings-ID"
+  },
+  "name.createdAt": {
+    "message": "Skapat datum",
+    "description": "Datum och tid då Pika-videon genererades"
+  },
+  "name.imageUrl": {
+    "message": "Referensbild",
+    "description": "Referensbild för den video som ska genereras"
+  },
+  "name.videoUrl": {
+    "message": "Anpassad video",
+    "description": "Anpassad video"
+  },
+  "name.prompt": {
+    "message": "Videotips",
+    "description": "Inmatningspromptens innehåll"
+  },
+  "name.ingredients": {
+    "message": "Multi-bildskapande video",
+    "description": "Anpassad förlängningsvideo"
+  },
+  "name.model": {
+    "message": "Modellversion",
+    "description": "Version av modellen som används för att generera videon"
+  },
+  "name.effect": {
+    "message": "Videoeffekt",
+    "description": "Namn på stilparametern för att växla mellan olika versioner eller stilmodeller"
+  },
+  "name.ingredientsModel": {
+    "message": "Ingrediensmodell",
+    "description": "Version av modellen som används för att generera videon"
+  },
+  "name.pikaBot": {
+    "message": "Pika Bot",
+    "description": "Namn på Pika-videogeneratorn"
+  },
+  "description.ingredients": {
+    "message": "Om du vill ladda upp flera bilder för att skapa din egen video, aktivera denna knapp.",
+    "description": "Beskrivning av parametern 'ingredients'"
+  },
+  "description.imageUrl": {
+    "message": "I multi-bildskapande videotjänst måste flera bilder laddas upp.",
+    "description": "Beskrivning av parametern 'imageUrl'"
+  },
+  "description.prompt": {
+    "message": "Promptord för att generera Pika-video",
+    "description": "Beskrivning av parametern 'prompt'"
+  },
+  "status.pending": {
+    "message": "Väntar",
+    "description": "Uppgiftens väntestatus"
+  },
+  "status.processing": {
+    "message": "Bearbetar",
+    "description": "Uppgiftens väntestatus"
+  },
+  "placeholder.paddingNoise": {
+    "message": "Vänligen välj...",
+    "description": "Platshållare för fyllningsbrus"
+  },
+  "placeholder.select": {
+    "message": "Välj",
+    "description": "Platshållartext i välj fältet"
+  },
+  "placeholder.paddingLevel": {
+    "message": "Vänligen välj...",
+    "description": "Platshållare för fyllningsnivå"
+  },
+  "placeholder.prompt": {
+    "message": "Ange tipsord för den stil av video som ska genereras, t.ex. 'rörlig'",
+    "description": "Platshållartext i tipsfältet"
+  },
+  "placeholder.position": {
+    "message": "Vänligen välj...",
+    "description": "Platshållare för position"
+  },
+  "placeholder.aspectRatio": {
+    "message": "Vänligen välj...",
+    "description": "Platshållare för bildförhållande"
+  },
+  "placeholder.preset": {
+    "message": "Vänligen välj...",
+    "description": "Platshållare för förinställning"
+  },
+  "placeholder.markerShape": {
+    "message": "Vänligen välj...",
+    "description": "Platshållare för markörens form"
+  },
+  "placeholder.rotate": {
+    "message": "Vänligen välj...",
+    "description": "Platshållare för rotation"
+  },
+  "placeholder.subMarker": {
+    "message": "Vänligen välj...",
+    "description": "Platshållare för undermarkör"
+  },
+  "button.precise": {
+    "message": "Preciserad",
+    "description": "Knapptext för att generera Pika-video"
+  },
+  "button.creative": {
+    "message": "Kreativ",
+    "description": "Knapptext för att generera Pika-video"
+  },
+  "button.generate": {
+    "message": "Generera",
+    "description": "Knapptext för att generera Pika-video"
+  },
+  "button.extend": {
+    "message": "Förläng video",
+    "description": "Knapptext för att förlänga video"
+  },
+  "button.download": {
+    "message": "Ladda ner video",
+    "description": "Knapptext för att ladda ner video"
+  },
+  "button.uploadImageUrl": {
+    "message": "Ladda upp bild",
+    "description": "Knapptext för att ladda upp bild"
+  },
+  "button.uploadVideoUrl": {
+    "message": "Ladda upp video",
+    "description": "Knapptext för att ladda upp video"
+  },
+  "message.uploadReferencesExceed": {
+    "message": "Högst 5 bilder kan laddas upp",
+    "description": "Felmeddelande när antalet uppladdade bilder överskrider gränsen"
+  },
+  "message.uploadReferencesSuccess": {
+    "message": "Bilden har laddats upp framgångsrikt",
+    "description": "Framgångsmeddelande när en bild har laddats upp framgångsrikt"
+  },
+  "message.uploadReferencesError": {
+    "message": "Det gick inte att ladda upp bilden, var god försök igen senare",
+    "description": "Felmeddelande när en bilduppladdning misslyckas"
+  },
+  "message.startingTask": {
+    "message": "Startar uppgift...",
+    "description": "Meddelande när en teckningsuppgift påbörjas"
+  },
+  "message.startTaskSuccess": {
+    "message": "Uppgiften har startats framgångsrikt",
+    "description": "Framgångsmeddelande när en uppgift har startats framgångsrikt"
+  },
+  "message.startTaskFailed": {
+    "message": "Misslyckades med att starta uppgiften, kontakta administratören",
+    "description": "Felmeddelande när en teckningsuppgift inte startar"
+  },
+  "message.usedUp": {
+    "message": "Dina poäng är slut, vänligen köp fler poäng för att fortsätta använda",
+    "description": "Meddelande när poängen är slut"
+  },
+  "message.generating": {
+    "message": "Genererar...",
+    "description": "Meddelande vid bildgenerering"
+  },
+  "message.downloadVideo": {
+    "message": "Ladda ner denna video",
+    "description": "Meddelande vid bildgenerering"
+  },
+  "message.extendVideo": {
+    "message": "Fortsätt generera denna video",
+    "description": "Meddelande vid bildgenerering"
+  },
+  "message.generateFailed": {
+    "message": "Kunde inte generera bilden",
+    "description": "Meddelande när bildgenerering misslyckas"
+  },
+  "message.uploadVideoExceed": {
+    "message": "Antalet uppladdade första bildrutor överskrider gränsen",
+    "description": "Felmeddelande när antalet uppladdade första bildrutor överskrider gränsen"
+  },
+  "message.uploadVideoSizeExceed": {
+    "message": "Filstorleken får inte överstiga 10 MB!",
+    "description": "Felmeddelande när filstorleken överstiger 10 MB"
+  },
+  "message.uploadVideoTypeFailed": {
+    "message": "Filen måste vara i MP4-format!",
+    "description": "Felmeddelande när filen inte är i MP4-format"
+  },
+  "message.uploadStartImageExceed": {
+    "message": "Antalet uppladdade första bildrutor överskrider gränsen",
+    "description": "Felmeddelande när antalet uppladdade första bildrutor överskrider gränsen"
+  },
+  "message.uploadEndImageExceed": {
+    "message": "Antalet uppladdade sista bildrutor överskrider gränsen",
+    "description": "Felmeddelande när antalet uppladdade sista bildrutor överskrider gränsen"
+  },
+  "message.uploadStartImageError": {
+    "message": "Misslyckades med att ladda upp första bildruta",
+    "description": "Felmeddelande vid misslyckande med uppladdning av första bildruta"
+  },
+  "message.uploadVideoError": {
+    "message": "Misslyckades med att ladda upp video",
+    "description": "Felmeddelande vid misslyckande med videouppladdning"
+  },
+  "message.uploadEndImageError": {
+    "message": "Misslyckades med att ladda upp sista bildruta",
+    "description": "Felmeddelande vid misslyckande med uppladdning av sista bildruta"
+  },
+  "message.uploadDocumentsError": {
+    "message": "Det gick inte att ladda upp dokumentet",
+    "description": "Felmeddelande när dokumentuppladdning misslyckas"
+  },
+  "message.noOperations": {
+    "message": "Inga tillgängliga åtgärder",
+    "description": "Meddelande när inga åtgärder är tillgängliga"
+  },
+  "message.noTasks": {
+    "message": "Inga historiska uppgifter, var vänlig klicka till vänster för att generera video",
+    "description": "Meddelande när det inte finns några uppgifter"
+  }
+}

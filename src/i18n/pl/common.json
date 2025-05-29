@@ -1,0 +1,482 @@
+{
+  "button.setup": {
+    "message": "Ustawienia",
+    "description": "按钮文本，用于设置某些内容"
+  },
+  "button.copy": {
+    "message": "Kopiuj",
+    "description": "按钮文本，用于设置某些内容"
+  },
+  "button.restart": {
+    "message": "Ponowne generowanie",
+    "description": "按钮文本，用于设置某些内容"
+  },
+  "button.preview": {
+    "message": "Podgląd",
+    "description": "按钮文本，用于通过URL打开预览某个文件"
+  },
+  "button.seeRawImage": {
+    "message": "Zobacz oryginalny obraz",
+    "description": "按钮文本，用于查看原始图片"
+  },
+  "button.seeRawVideo": {
+    "message": "Zobacz wideo",
+    "description": "按钮文本，用于查看原始图片"
+  },
+  "button.edit": {
+    "message": "Edytuj",
+    "description": "按钮文本，用于编辑某些内容"
+  },
+  "button.login": {
+    "message": "Zaloguj się",
+    "description": "按钮文本，用于登录"
+  },
+  "button.logout": {
+    "message": "Wyloguj się",
+    "description": "按钮文本，用于退出登录"
+  },
+  "button.new": {
+    "message": "Nowy",
+    "description": "按钮文本，用于创建新项目"
+  },
+  "button.delete": {
+    "message": "Usuń",
+    "description": "按钮文本，用于删除某些内容"
+  },
+  "button.confirm": {
+    "message": "Potwierdź",
+    "description": "按钮文本，用于确认某些内容"
+  },
+  "button.cancel": {
+    "message": "Anuluj",
+    "description": "按钮文本，用于取消某些操作"
+  },
+  "button.alert": {
+    "message": "Ostrzeżenie",
+    "description": "按钮文本，用于警告某些内容"
+  },
+  "button.info": {
+    "message": "Informacja",
+    "description": "按钮文本，用于显示信息"
+  },
+  "button.publish": {
+    "message": "Opublikuj",
+    "description": "按钮文本，用于发布某些内容"
+  },
+  "button.watch": {
+    "message": "Oglądaj",
+    "description": "按钮文本，用于观看某些内容"
+  },
+  "button.verify": {
+    "message": "Zweryfikuj tożsamość",
+    "description": "按钮文本，用于让用户进行实名认证"
+  },
+  "button.profile": {
+    "message": "Profil",
+    "description": "按钮文本，用于显示个人资料"
+  },
+  "button.console": {
+    "message": "Konsola",
+    "description": "按钮文本，用于显示控制台页面以控制网页中的某些内容"
+  },
+  "button.learn": {
+    "message": "Ucz się",
+    "description": "按钮文本，用于让用户学习某些内容"
+  },
+  "button.buy": {
+    "message": "Kup",
+    "description": "按钮文本，用于让用户购买某些内容"
+  },
+  "button.try": {
+    "message": "Wypróbuj",
+    "description": "按钮文本，用于让用户尝试某些内容"
+  },
+  "button.startForFree": {
+    "message": "Rozpocznij za darmo",
+    "description": "按钮文本，用于让用户免费开始使用"
+  },
+  "button.apply": {
+    "message": "Aplikuj",
+    "description": "按钮文本，用于让用户申请API服务"
+  },
+  "button.refresh": {
+    "message": "Odśwież",
+    "description": "按钮文本，用于刷新页面"
+  },
+  "button.pay": {
+    "message": "Zapłać",
+    "description": "按钮文本，用于让用户支付服务费用"
+  },
+  "button.repay": {
+    "message": "Kontynuuj płatność",
+    "description": "按钮文本，用于让用户继续支付服务费用"
+  },
+  "button.applied": {
+    "message": "Zastosowano",
+    "description": "按钮文本，用于显示用户已经申请了该服务"
+  },
+  "button.acquire": {
+    "message": "Uzyskaj",
+    "description": "按钮文本，用于让用户获取API服务的令牌或密钥"
+  },
+  "button.fillExample": {
+    "message": "Wypełnij przykład",
+    "description": "按钮文本，用于让用户填写示例数据"
+  },
+  "button.buyMore": {
+    "message": "Kup więcej",
+    "description": "按钮文本，用于让用户购买更多内容"
+  },
+  "button.update": {
+    "message": "Aktualizuj",
+    "description": "按钮文本，用于更新某些内容"
+  },
+  "button.view": {
+    "message": "Zobacz",
+    "description": "按钮文本，用于查看某些内容"
+  },
+  "button.create": {
+    "message": "Utwórz",
+    "description": "按钮文本，用于创建某些内容"
+  },
+  "button.referralEarnings": {
+    "message": "Zarobki z poleceń",
+    "description": "按钮文本，用于显示推荐收益，表示用户通过邀请他人使用服务可以赚钱"
+  },
+  "button.finish": {
+    "message": "Zakończ",
+    "description": "按钮文本，用于完成某些内容"
+  },
+  "entity.website": {
+    "message": "Ace Data Cloud",
+    "description": "网站名称，无需翻译，保持为'Ace Data Cloud'"
+  },
+  "entity.copyright": {
+    "message": "Prawa autorskie",
+    "description": "用于显示版权信息的文本"
+  },
+  "entity.platform": {
+    "message": "Platforma",
+    "description": "指示这是API服务的平台的文本"
+  },
+  "entity.title": {
+    "message": "Tytuł",
+    "description": "实体的标题"
+  },
+  "entity.icon": {
+    "message": "Ikona",
+    "description": "实体的图标"
+  },
+  "entity.status": {
+    "message": "Status",
+    "description": "实体的状态"
+  },
+  "entity.operation": {
+    "message": "Operacja",
+    "description": "实体的操作"
+  },
+  "entity.description": {
+    "message": "Opis",
+    "description": "实体的描述"
+  },
+  "entity.createdAt": {
+    "message": "Czas utworzenia",
+    "description": "Czas utworzenia encji"
+  },
+  "entity.updatedAt": {
+    "message": "Czas aktualizacji",
+    "description": "Czas aktualizacji encji"
+  },
+  "entity.order": {
+    "message": "Zamówienie",
+    "description": "Zamówienie encji, które zawiera kwotę i informacje o usłudze, za które użytkownik musi zapłacić"
+  },
+  "message.usedAmount": {
+    "message": "Wykorzystana kwota",
+    "description": "Do wyświetlania kwoty wykorzystanej na usługę"
+  },
+  "message.remainingAmount": {
+    "message": "Pozostała kwota",
+    "description": "Do wyświetlania pozostałej kwoty na usługę"
+  },
+  "message.copied": {
+    "message": "Pomyślnie skopiowano",
+    "description": "Do wyświetlania wiadomości, że zawartość została pomyślnie skopiowana"
+  },
+  "message.restart": {
+    "message": "Ponowne generowanie",
+    "description": "Do wyświetlania wiadomości, że zawartość została pomyślnie skopiowana"
+  },
+  "message.confirmDelete": {
+    "message": "Czy na pewno chcesz usunąć?",
+    "description": "Do potwierdzenia, czy użytkownik chce usunąć pewne treści"
+  },
+  "message.expiredAt": {
+    "message": "Czas wygaśnięcia",
+    "description": "Do wyświetlania czasu wygaśnięcia usługi"
+  },
+  "message.alert": {
+    "message": "Ostrzeżenie",
+    "description": "Do wyświetlania wiadomości ostrzegającej użytkownika"
+  },
+  "message.info": {
+    "message": "Przypomnienie",
+    "description": "Do wyświetlania wiadomości informacyjnej"
+  },
+  "message.free": {
+    "message": "Darmowe",
+    "description": "Do wyświetlania wiadomości, że usługa jest darmowa, co oznacza, że użytkownik nie musi płacić"
+  },
+  "message.startPrice": {
+    "message": "Cena początkowa",
+    "description": "Do wyświetlania najniższej ceny usługi"
+  },
+  "message.joinDiscord": {
+    "message": "Dołącz do Discord",
+    "description": "Do zachęcania użytkowników do dołączenia do kanału Discord"
+  },
+  "message.addWeChat": {
+    "message": "Dodaj WeChat",
+    "description": "Do zachęcania użytkowników do dodania WeChat"
+  },
+  "message.serviceTech": {
+    "message": "Wsparcie techniczne",
+    "description": "Do wyświetlania wiadomości o wsparciu technicznym usługi"
+  },
+  "message.businessCooperation": {
+    "message": "Współpraca biznesowa",
+    "description": "Do wyświetlania wiadomości o współpracy biznesowej"
+  },
+  "message.noData": {
+    "message": "Brak danych",
+    "description": "Do wyświetlania wiadomości, że w tabeli lub na liście nie ma danych"
+  },
+  "nav.home": {
+    "message": "Strona główna",
+    "description": "Tekst w nawigacji strony, do wyświetlania strony głównej"
+  },
+  "nav.content": {
+    "message": "Treść",
+    "description": "Tekst w nawigacji strony, do wyświetlania strony z treścią"
+  },
+  "nav.category": {
+    "message": "Kategoria",
+    "description": "Tekst w nawigacji strony, do wyświetlania strony z kategoriami"
+  },
+  "nav.service": {
+    "message": "Usługi",
+    "description": "Tekst w nawigacji strony, do wyświetlania strony z usługami"
+  },
+  "nav.profile": {
+    "message": "Profil",
+    "description": "Tekst w nawigacji strony, do wyświetlania strony z profilem użytkownika"
+  },
+  "nav.products": {
+    "message": "Produkty",
+    "description": "Tekst w nawigacji strony, do wyświetlania strony z produktami"
+  },
+  "nav.referral": {
+    "message": "Polecenia",
+    "description": "Tekst w nawigacji strony, do wyświetlania strony z poleceniami"
+  },
+  "nav.apiPlatform": {
+    "message": "Platforma API",
+    "description": "Tekst w nawigacji strony, do wyświetlania strony platformy API"
+  },
+  "nav.document": {
+    "message": "Dokumentacja",
+    "description": "Tekst w nawigacji strony, do wyświetlania strony z dokumentacją"
+  },
+  "nav.console": {
+    "message": "Konsola",
+    "description": "Tekst w nawigacji strony, do wyświetlania strony konsoli"
+  },
+  "nav.chat": {
+    "message": "Chat",
+    "description": "Tekst w nawigacji strony, do wyświetlania strony czatu, nie tłumaczyć tego pola, musi pozostać jako 'Chat'"
+  },
+  "nav.midjourney": {
+    "message": "Midjourney",
+    "description": "Tekst w nawigacji strony, do wyświetlania strony Midjourney, nie tłumaczyć tego pola, musi pozostać jako 'Midjourney'"
+  },
+  "nav.chatdoc": {
+    "message": "ChatDoc",
+    "description": "Tekst w nawigacji strony, do wyświetlania strony ChatDoc, nie tłumaczyć tego pola, musi pozostać jako 'Chatdoc'"
+  },
+  "nav.qrart": {
+    "message": "QRArt",
+    "description": "Tekst w nawigacji strony, do wyświetlania strony QRArt, nie tłumaczyć tego pola, musi pozostać jako 'QRArt'"
+  },
+  "nav.suno": {
+    "message": "Suno",
+    "description": "Tekst w nawigacji strony, do wyświetlania strony Suno, nie tłumaczyć tego pola, musi pozostać jako 'Suno'"
+  },
+  "nav.flux": {
+    "message": "Flux",
+    "description": "Tekst w nawigacji strony, do wyświetlania strony Flux, nie tłumaczyć tego pola, musi pozostać jako 'Flux'"
+  },
+  "nav.luma": {
+    "message": "Luma",
+    "description": "Tekst w nawigacji strony, do wyświetlania strony Luma, nie tłumaczyć tego pola, musi pozostać jako 'Luma'"
+  },
+  "nav.pika": {
+    "message": "Pika",
+    "description": "Tekst w nawigacji strony, do wyświetlania strony Pika, nie tłumaczyć tego pola, musi pozostać jako 'Pika'"
+  },
+  "nav.kling": {
+    "message": "Kling",
+    "description": "Tekst w nawigacji strony, do wyświetlania strony Kling, nie tłumaczyć tego pola, musi pozostać jako 'Kling'"
+  },
+  "nav.hailuo": {
+    "message": "Hailuo",
+    "description": "网站导航栏中的文本，用于显示Hailuo页面，请不要翻译此字段，必须保持为'Hailuo'"
+  },
+  "nav.image": {
+    "message": "Obraz",
+    "description": "网站导航栏中的文本，用于显示图片页面"
+  },
+  "nav.music": {
+    "message": "Muzyka",
+    "description": "网站导航栏中的文本，用于显示音乐页面"
+  },
+  "nav.video": {
+    "message": "Wideo",
+    "description": "网站导航栏中的文本，用于显示视频页面"
+  },
+  "nav.distribution": {
+    "message": "Dochody z polecenia",
+    "description": "网站导航栏中的文本，用于显示推荐收益页面"
+  },
+  "nav.logOut": {
+    "message": "Wyloguj się",
+    "description": "网站导航栏中的文本，用于退出登录"
+  },
+  "nav.site": {
+    "message": "Konfiguracja strony",
+    "description": "网站导航栏中的文本，用于显示站点配置页面"
+  },
+  "nav.headshots": {
+    "message": "Zdjęcia do dokumentów AI",
+    "description": "网站导航栏中的文本，用于显示站点配置页面"
+  },
+  "nav.locale": {
+    "message": "Ustawienia języka",
+    "description": "网站导航栏中的文本，用于更改语言"
+  },
+  "nav.support": {
+    "message": "Wsparcie klienta",
+    "description": "网站导航栏中的文本，用于显示支持页面"
+  },
+  "nav.darkMode": {
+    "message": "Tryb ciemny",
+    "description": "网站导航栏中的文本，用于切换到深色主题"
+  },
+  "title.alert": {
+    "message": "Alarm",
+    "description": "警报消息的标题"
+  },
+  "title.placeholderOfSelect": {
+    "message": "Proszę wybrać",
+    "description": "选择输入框的占位符"
+  },
+  "title.placeholderOfInput": {
+    "message": "Proszę wypełnić",
+    "description": "输入框的占位符"
+  },
+  "title.allApplications": {
+    "message": "Wszystkie aplikacje",
+    "description": "显示所有申请的页面标题"
+  },
+  "title.allOrders": {
+    "message": "Wszystkie zamówienia",
+    "description": "显示所有订单的页面标题"
+  },
+  "title.orderInfo": {
+    "message": "Informacje o zamówieniu",
+    "description": "显示订单信息的页面标题"
+  },
+  "title.buyMore": {
+    "message": "Kup więcej",
+    "description": "让用户购买更多的页面标题"
+  },
+  "title.distribution": {
+    "message": "Dochody z polecenia",
+    "description": "显示推荐收益的页面标题，表示用户可以通过邀请他人使用服务来赚钱"
+  },
+  "title.site": {
+    "message": "Konfiguracja strony",
+    "description": "显示站点配置的页面标题"
+  },
+  "title.distributionHistory": {
+    "message": "Historia poleceń",
+    "description": "显示推荐历史的页面标题"
+  },
+  "title.invitee": {
+    "message": "Zapraszający",
+    "description": "显示邀请者的页面标题"
+  },
+  "title.allUsages": {
+    "message": "Historia użytkowania",
+    "description": "显示API服务所有使用记录的页面标题"
+  },
+  "title.allCredentials": {
+    "message": "Poświadczenia",
+    "description": "显示所有凭证的页面标题，这些凭证用于访问API"
+  },
+  "about.title1": {
+    "message": "Kontakt z nami",
+    "description": "显示联系信息的部分的标题"
+  },
+  "about.title2": {
+    "message": "Zasoby",
+    "description": "显示链接的部分的标题"
+  },
+  "about.title3": {
+    "message": "Linki",
+    "description": "显示支持信息的部分的标题"
+  },
+  "about.address": {
+    "message": "Stany Zjednoczone, Delaware, Middletown, biuro nr 201, N Broad St",
+    "description": "公司的地址"
+  },
+  "about.email": {
+    "message": "office@acedata.cloud",
+    "description": "公司的电子邮件"
+  },
+  "about.link1": {
+    "message": "Usługi",
+    "description": "服务页面的链接"
+  },
+  "about.link2": {
+    "message": "Dokumentacja",
+    "description": "文档页面的链接"
+  },
+  "about.link3": {
+    "message": "Konsola",
+    "description": "控制台页面的链接"
+  },
+  "about.link4": {
+    "message": "Profil",
+    "description": "个人资料页面的链接"
+  },
+  "about.link5": {
+    "message": "Centrum",
+    "description": "中心页面的链接"
+  },
+  "about.link6": {
+    "message": "Dochody z polecenia",
+    "description": "推荐收益页面的链接"
+  },
+  "about.link7": {
+    "message": "Wsparcie",
+    "description": "支持页面的链接"
+  },
+  "about.link8": {
+    "message": "Warunki usługi",
+    "description": "服务条款页面的链接"
+  },
+  "about.link9": {
+    "message": "Polityka prywatności",
+    "description": "隐私政策页面的链接"
+  }
+}

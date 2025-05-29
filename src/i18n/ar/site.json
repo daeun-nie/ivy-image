@@ -1,0 +1,322 @@
+{
+  "field.title": {
+    "message": "عنوان الموقع",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "field.origin": {
+    "message": "نطاق الموقع",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "field.description": {
+    "message": "وصف الموقع",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "field.keywords": {
+    "message": "كلمات مفتاحية للموقع",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "field.logo": {
+    "message": "شعار الموقع",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "field.favicon": {
+    "message": "أيقونة الموقع",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "field.qr": {
+    "message": "رمز الاستجابة السريعة",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "field.url": {
+    "message": "الرابط",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "field.admins": {
+    "message": "معرفات مديري الموقع",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "field.distributionDefaultInviterId": {
+    "message": "معرف الداعي الافتراضي",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "field.distributionForceInviterId": {
+    "message": "معرف الداعي الإجباري",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "field.featuresChat": {
+    "message": "الدردشة",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "field.featuresMidjourney": {
+    "message": "Midjourney",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "field.featuresChatdoc": {
+    "message": "Chatdoc",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "field.featuresQrart": {
+    "message": "Qrart",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "field.featuresLuma": {
+    "message": "Luma",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "field.featuresPika": {
+    "message": "Pika",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "field.featuresKling": {
+    "message": "Kling",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "field.featuresHailuo": {
+    "message": "Hailuo",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "field.featuresHeadshots": {
+    "message": "صور شخصية بالذكاء الاصطناعي",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "field.featuresSuno": {
+    "message": "Suno",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "field.featuresFlux": {
+    "message": "Flux",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "field.featuresSupport": {
+    "message": "دعم العملاء",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "field.featuresI18n": {
+    "message": "دعم متعدد اللغات",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "title.basicConfig": {
+    "message": "الإعدادات الأساسية",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "title.seoConfig": {
+    "message": "إعدادات تحسين محركات البحث",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "title.editAdmins": {
+    "message": "تحرير المديرين",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "title.featuresConfig": {
+    "message": "إعدادات الميزات",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "title.editTitle": {
+    "message": "تحرير العنوان",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "title.editOrigin": {
+    "message": "تحرير النطاق",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "title.editKeywords": {
+    "message": "تحرير الكلمات المفتاحية",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "title.editLogo": {
+    "message": "تحرير الشعار",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "title.editFavicon": {
+    "message": "تحرير الأيقونة",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "title.editDescription": {
+    "message": "تحرير الوصف",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "title.distributionConfig": {
+    "message": "إعدادات التوزيع",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "title.editDistributionDefaultInviterId": {
+    "message": "تحرير الداعي الافتراضي",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "title.editDistributionForceInviterId": {
+    "message": "تحرير الداعي الإجباري",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "title.editQR": {
+    "message": "تحرير رمز الاستجابة السريعة",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "title.editUrl": {
+    "message": "تحرير الرابط",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "placeholder.title": {
+    "message": "يرجى إدخال عنوان الموقع",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "placeholder.origin": {
+    "message": "يرجى إدخال نطاق الموقع",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "placeholder.editUrl": {
+    "message": "يرجى إدخال الرابط",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "placeholder.description": {
+    "message": "يرجى إدخال وصف الموقع",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "placeholder.keywords": {
+    "message": "يرجى إدخال الكلمات المفتاحية للموقع",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "placeholder.editDistributionDefaultInviterId": {
+    "message": "يرجى إدخال معرف الداعي الافتراضي",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "placeholder.editDistributionForceInviterId": {
+    "message": "يرجى إدخال معرف الداعي الإجباري",
+    "description": "عرض في عنوان مربع التحرير"
+  },
+  "message.uploadImageExceed": {
+    "message": "تجاوز حجم الصورة المرفوعة الحد المسموح",
+    "description": "تنبيه تجاوز حجم الصورة المرفوعة الحد المسموح"
+  },
+  "message.uploadImageError": {
+    "message": "خطأ في رفع الصورة",
+    "description": "رسالة عند حدوث خطأ في رفع الصورة"
+  },
+  "message.editLogoTip": {
+    "message": "الأبعاد المقترحة: 200*60px",
+    "description": "نص الإرشاد عند رفع الصورة"
+  },
+  "message.editQRTip": {
+    "message": "الأبعاد المقترحة: 200*200px",
+    "description": "نص الإرشاد عند رفع الصورة"
+  },
+  "message.editFaviconTip": {
+    "message": "الأبعاد المقترحة: 32*32px",
+    "description": "نص الإرشاد عند رفع الصورة"
+  },
+  "message.editUrl": {
+    "message": "الرجاء إدخال الرابط",
+    "description": "نص الإرشاد عند إدخال الرابط"
+  },
+  "message.atLeastOneAdmin": {
+    "message": "يجب الاحتفاظ بمدير واحد على الأقل",
+    "description": "إرشاد حول ضرورة الاحتفاظ بمدير واحد على الأقل"
+  },
+  "message.distributionDefaultInviterIdTip": {
+    "message": "معرف المستخدم الافتراضي للدعوة، إذا لم يتضمن رابط التوزيع معامل inviter_id، فسيتم استخدام هذا المعرف كداعم.",
+    "description": "إرشاد حول معرف المستخدم الافتراضي للدعوة"
+  },
+  "message.distributionForceInviterIdTip": {
+    "message": "معرف المستخدم الإجباري للدعوة، إذا تم تعيين هذا المعرف، فسيتم استخدامه كداعم سواء كان رابط التوزيع يتضمن معامل inviter_id أم لا.",
+    "description": "إرشاد حول معرف المستخدم الإجباري للدعوة"
+  },
+  "message.originTip": {
+    "message": "اسم نطاق الموقع، يتم ربط تكوين الموقع بالنطاق، ولا يمكن تغيير اسم نطاق الموقع.",
+    "description": "إرشاد حول اسم نطاق الموقع"
+  },
+  "message.titleTip": {
+    "message": "عنوان الموقع، يظهر في تبويب المتصفح.",
+    "description": "إرشاد حول عنوان الموقع"
+  },
+  "message.descriptionTip": {
+    "message": "وصف الموقع، يقع في بيانات تعريف الموقع ويستخدم لتحسين SEO للموقع.",
+    "description": "إرشاد حول وصف الموقع"
+  },
+  "message.logoTip": {
+    "message": "شعار الموقع، يظهر في أعلى قائمة الموقع عندما يتم توسيعها.",
+    "description": "إرشاد حول شعار الموقع"
+  },
+  "message.faviconTip": {
+    "message": "أيقونة الموقع (Favicon)، تظهر في تبويب المتصفح.",
+    "description": "إرشاد حول أيقونة الموقع"
+  },
+  "message.adminsTip": {
+    "message": "معرفات مديري الموقع، في البداية، يصبح المستخدم الذي أنشأ الموقع هو المدير، فقط مدراء الموقع يمكنهم إدارة الموقع.",
+    "description": "إرشاد حول مديري الموقع"
+  },
+  "message.adminsTip2": {
+    "message": "يمكن إضافة أو حذف معرّفات المديرين هنا، يمكن التحقق من معرّف المستخدم من خلال https://auth.acedata.cloud",
+    "description": "إرشاد حول إضافة أو حذف معرّفات المديرين"
+  },
+  "message.keywordsTip": {
+    "message": "كلمات مفتاحية للموقع، تقع في بيانات تعريف الموقع وتستخدم لتحسين SEO للموقع.",
+    "description": "إرشاد حول الكلمات المفتاحية للموقع"
+  },
+  "message.keywordsTip2": {
+    "message": "يمكن إضافة أو حذف كلمات الموقع المفتاحية هنا، الكلمات الأكثر دقة تكون أفضل لتحسين SEO.",
+    "description": "إرشاد حول إضافة أو حذف الكلمات المفتاحية للموقع"
+  },
+  "message.featuresChat": {
+    "message": "تفعيل أو تعطيل وحدة الدردشة.",
+    "description": "وصف لوظيفة الدردشة"
+  },
+  "message.featuresMidjourney": {
+    "message": "تفعيل أو تعطيل وحدة Midjourney.",
+    "description": "وصف لوظيفة Midjourney"
+  },
+  "message.featuresChatdoc": {
+    "message": "تفعيل أو تعطيل وحدة Chatdoc.",
+    "description": "وصف لوظيفة Chatdoc"
+  },
+  "message.featuresQrart": {
+    "message": "تفعيل أو تعطيل وحدة Qrart.",
+    "description": "وصف لوظيفة Qrart"
+  },
+  "message.featuresSuno": {
+    "message": "تفعيل أو تعطيل وحدة Suno.",
+    "description": "وصف لوظيفة Suno"
+  },
+  "message.featuresFlux": {
+    "message": "تفعيل أو تعطيل وحدة FLux.",
+    "description": "وصف لوظيفة FLux"
+  },
+  "message.featuresLuma": {
+    "message": "تفعيل أو تعطيل وحدة Luma.",
+    "description": "وصف لوظيفة Luma"
+  },
+  "message.featuresPika": {
+    "message": "تفعيل أو تعطيل وحدة Pika.",
+    "description": "وصف لوظيفة Pika"
+  },
+  "message.featuresKling": {
+    "message": "تفعيل أو تعطيل وحدة Kling.",
+    "description": "وصف لوظيفة Kling"
+  },
+  "message.featuresHailuo": {
+    "message": "تفعيل أو تعطيل وحدة Hailuo.",
+    "description": "وصف لوظيفة Hailuo"
+  },
+  "message.featuresHeadshots": {
+    "message": "تفعيل أو تعطيل وحدة صور الهوية AI.",
+    "description": "وصف لوظيفة صور الهوية AI"
+  },
+  "message.featuresSupport": {
+    "message": "تفعيل أو تعطيل دعم العملاء",
+    "description": "وصف لوظيفة دعم العملاء"
+  },
+  "message.featuresI18n": {
+    "message": "تفعيل أو تعطيل دعم اللغات المتعددة، عند التعطيل، سيتمكن المستخدمون من استخدام اللغة الافتراضية فقط.",
+    "description": "وصف لدعم اللغات المتعددة"
+  },
+  "button.upload": {
+    "message": "رفع",
+    "description": "نص الزر لرفع الملفات"
+  },
+  "button.enabled": {
+    "message": "مفعل",
+    "description": "نص الزر عندما يكون الإعداد مفعل"
+  },
+  "button.disabled": {
+    "message": "معطل",
+    "description": "نص الزر عندما يكون الإعداد معطل"
+  }
+}

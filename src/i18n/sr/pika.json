@@ -1,0 +1,290 @@
+{
+  "style.effect1": {
+    "message": "Levitate",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect2": {
+    "message": "Decapitate",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect3": {
+    "message": "Eye-pop",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect4": {
+    "message": "Ta-da",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect5": {
+    "message": "Deflate",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect6": {
+    "message": "Crumble",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect7": {
+    "message": "Dissolve",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect8": {
+    "message": "Squish",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect9": {
+    "message": "Inflate",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect10": {
+    "message": "Melt",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect11": {
+    "message": "Cake-ify",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect12": {
+    "message": "Crush",
+    "description": "Pika的视频效果名称"
+  },
+  "style.effect13": {
+    "message": "Explode",
+    "description": "Pika的视频效果名称"
+  },
+  "name.taskId": {
+    "message": "ID zadatka",
+    "description": "任务的 ID"
+  },
+  "name.type": {
+    "message": "Tip",
+    "description": "要生成的 Pika视频的内容类型，如'链接'、'文本'等"
+  },
+  "name.failure": {
+    "message": "Neuspeh",
+    "description": "任务的失败状态"
+  },
+  "name.failureReason": {
+    "message": "Razlog neuspeha",
+    "description": "任务失败的原因"
+  },
+  "name.status": {
+    "message": "Status",
+    "description": "任务的状态"
+  },
+  "name.traceId": {
+    "message": "ID za praćenje",
+    "description": "任务的追踪 ID"
+  },
+  "name.createdAt": {
+    "message": "Vreme kreiranja",
+    "description": "生成 Pika 视频的日期和时间"
+  },
+  "name.imageUrl": {
+    "message": "Referentna slika",
+    "description": "要生成的视频的参考图片"
+  },
+  "name.videoUrl": {
+    "message": "Prilagođeni video",
+    "description": "自定义视频"
+  },
+  "name.prompt": {
+    "message": "Video prompt",
+    "description": "内容输入的提示"
+  },
+  "name.ingredients": {
+    "message": "Kreiranje videa sa više slika",
+    "description": "自定义扩展视频"
+  },
+  "name.model": {
+    "message": "Verzija modela",
+    "description": "要生成视频所采用的模型版本"
+  },
+  "name.effect": {
+    "message": "Video efekat",
+    "description": "风格参数的名称，用于在不同版本或风格的模型之间切换"
+  },
+  "name.ingredientsModel": {
+    "message": "Model sastojaka",
+    "description": "要生成视频所采用的模型版本"
+  },
+  "name.pikaBot": {
+    "message": "Pika Bot",
+    "description": "Pika 视频生成器的名称"
+  },
+  "description.ingredients": {
+    "message": "Ako želite da prenesete više slika za kreiranje svog videa, otvorite ovo dugme.",
+    "description": "参数'ingredients'的描述"
+  },
+  "description.imageUrl": {
+    "message": "U zadatku kreiranja videa sa više slika, morate preneti više slika.",
+    "description": "参数'imageUrl'的描述"
+  },
+  "description.prompt": {
+    "message": "Prompt za generisanje Pika videa",
+    "description": "参数'prompt'的描述"
+  },
+  "status.pending": {
+    "message": "Na čekanju",
+    "description": "任务的等待状态"
+  },
+  "status.processing": {
+    "message": "Obrada u toku",
+    "description": "任务的等待状态"
+  },
+  "placeholder.paddingNoise": {
+    "message": "Molimo izaberite...",
+    "description": "填充噪音输入的占位符"
+  },
+  "placeholder.select": {
+    "message": "Izaberi",
+    "description": "选择字段中的占位文本"
+  },
+  "placeholder.paddingLevel": {
+    "message": "Molimo izaberite...",
+    "description": "填充级别的占位符"
+  },
+  "placeholder.prompt": {
+    "message": "Unesite prompt za stil videa, na primer: pokretno",
+    "description": "提示字段中的占位文本"
+  },
+  "placeholder.position": {
+    "message": "Molimo izaberite...",
+    "description": "位置输入的占位符"
+  },
+  "placeholder.aspectRatio": {
+    "message": "Molimo izaberite...",
+    "description": "宽高比输入的占位符"
+  },
+  "placeholder.preset": {
+    "message": "Molimo izaberite...",
+    "description": "预设输入的占位符"
+  },
+  "placeholder.markerShape": {
+    "message": "Molimo izaberite...",
+    "description": "标记形状输入的占位符"
+  },
+  "placeholder.rotate": {
+    "message": "Molimo izaberite...",
+    "description": "旋转输入的占位符"
+  },
+  "placeholder.subMarker": {
+    "message": "Molimo izaberite...",
+    "description": "子标记输入的占位符"
+  },
+  "button.precise": {
+    "message": "Precizno",
+    "description": "生成Pika视频的按钮文本"
+  },
+  "button.creative": {
+    "message": "Kreativno",
+    "description": "生成Pika视频的按钮文本"
+  },
+  "button.generate": {
+    "message": "Generiši",
+    "description": "生成Pika视频的按钮文本"
+  },
+  "button.extend": {
+    "message": "Proširi video",
+    "description": "扩展视频按钮文本"
+  },
+  "button.download": {
+    "message": "Preuzmi video",
+    "description": "下载视频按钮文本"
+  },
+  "button.uploadImageUrl": {
+    "message": "Prenesi sliku",
+    "description": "上传图片的按钮文本"
+  },
+  "button.uploadVideoUrl": {
+    "message": "Prenesi video",
+    "description": "上传视频的按钮文本"
+  },
+  "message.uploadReferencesExceed": {
+    "message": "Možete preneti najviše 5 slika",
+    "description": "上传的图片数量超过限制时的错误消息"
+  },
+  "message.uploadReferencesSuccess": {
+    "message": "Слика успешно послата",
+    "description": "Успешна порука приликом слања слике"
+  },
+  "message.uploadReferencesError": {
+    "message": "Неуспешно слање слике, покушајте поново касније",
+    "description": "Порука о грешци приликом неуспешног слања слике"
+  },
+  "message.startingTask": {
+    "message": "Покретање задатка...",
+    "description": "Порука на почетку задатка цртања"
+  },
+  "message.startTaskSuccess": {
+    "message": "Задатак успешно покренут",
+    "description": "Успешна порука приликом покретања задатка"
+  },
+  "message.startTaskFailed": {
+    "message": "Неуспешно покретање задатка, обратите се администратору",
+    "description": "Порука о грешци приликом неуспешног покретања задатка цртања"
+  },
+  "message.usedUp": {
+    "message": "Ваши поени су потрошени, молимо купите више поена за наставак коришћења",
+    "description": "Порука када су поени потрошени"
+  },
+  "message.generating": {
+    "message": "Генерисање...",
+    "description": "Порука током генерисања слике"
+  },
+  "message.downloadVideo": {
+    "message": "Преузми овај видео",
+    "description": "Порука током генерисања слике"
+  },
+  "message.extendVideo": {
+    "message": "Настави генерисање овог видеа",
+    "description": "Порука током генерисања слике"
+  },
+  "message.generateFailed": {
+    "message": "Неуспешно генерисање слике",
+    "description": "Порука о грешци приликом неуспешног генерисања слике"
+  },
+  "message.uploadVideoExceed": {
+    "message": "Број слика прве сличице премашује ограничавање",
+    "description": "Грешка када број слика прве сличице премашује ограничавање"
+  },
+  "message.uploadVideoSizeExceed": {
+    "message": "Величина датотеке не сме бити већа од 10MB!",
+    "description": "Грешка када величина датотеке премашује 10MB!"
+  },
+  "message.uploadVideoTypeFailed": {
+    "message": "Датотека мора бити у MP4 формату!",
+    "description": "Грешка када датотека није у MP4 формату!"
+  },
+  "message.uploadStartImageExceed": {
+    "message": "Број слика прве сличице премашује ограничавање",
+    "description": "Грешка када број слика прве сличице премашује ограничавање"
+  },
+  "message.uploadEndImageExceed": {
+    "message": "Број слика последње сличице премашује ограничавање",
+    "description": "Грешка када број слика прве сличице премашује ограничавање"
+  },
+  "message.uploadStartImageError": {
+    "message": "Неуспешно слање слика прве сличице",
+    "description": "Грешка приликом неуспешног слања слика прве сличице"
+  },
+  "message.uploadVideoError": {
+    "message": "Неуспешно слање видеа",
+    "description": "Грешка приликом неуспешног слања слика прве сличице"
+  },
+  "message.uploadEndImageError": {
+    "message": "Неуспешно слање слика последње сличице",
+    "description": "Грешка приликом неуспешног слања слика последње сличице"
+  },
+  "message.uploadDocumentsError": {
+    "message": "Неуспешно слање докумената",
+    "description": "Грешка приликом неуспешног слања докумената"
+  },
+  "message.noOperations": {
+    "message": "Нема доступних операција",
+    "description": "Порука када нема доступних операција"
+  },
+  "message.noTasks": {
+    "message": "Нема историјских задатака, молимо кликните лево да генеришете видео",
+    "description": "Порука када нема задатака"
+  }
+}

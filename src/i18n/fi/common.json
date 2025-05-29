@@ -1,0 +1,482 @@
+{
+  "button.setup": {
+    "message": "Aseta",
+    "description": "按钮文本，用于设置某些内容"
+  },
+  "button.copy": {
+    "message": "Kopioi",
+    "description": "按钮文本，用于设置某些内容"
+  },
+  "button.restart": {
+    "message": "Luo uudelleen",
+    "description": "按钮文本，用于设置某些内容"
+  },
+  "button.preview": {
+    "message": "Esikatselu",
+    "description": "按钮文本，用于通过URL打开预览某个文件"
+  },
+  "button.seeRawImage": {
+    "message": "Näytä alkuperäinen kuva",
+    "description": "按钮文本，用于查看原始图片"
+  },
+  "button.seeRawVideo": {
+    "message": "Näytä video",
+    "description": "按钮文本，用于查看原始图片"
+  },
+  "button.edit": {
+    "message": "Muokkaa",
+    "description": "按钮文本，用于编辑某些内容"
+  },
+  "button.login": {
+    "message": "Kirjaudu sisään",
+    "description": "按钮文本，用于登录"
+  },
+  "button.logout": {
+    "message": "Kirjaudu ulos",
+    "description": "按钮文本，用于退出登录"
+  },
+  "button.new": {
+    "message": "Uusi",
+    "description": "按钮文本，用于创建新项目"
+  },
+  "button.delete": {
+    "message": "Poista",
+    "description": "按钮文本，用于删除某些内容"
+  },
+  "button.confirm": {
+    "message": "Vahvista",
+    "description": "按钮文本，用于确认某些内容"
+  },
+  "button.cancel": {
+    "message": "Peruuta",
+    "description": "按钮文本，用于取消某些操作"
+  },
+  "button.alert": {
+    "message": "Varoitus",
+    "description": "按钮文本，用于警告某些内容"
+  },
+  "button.info": {
+    "message": "Tieto",
+    "description": "按钮文本，用于显示信息"
+  },
+  "button.publish": {
+    "message": "Julkaise",
+    "description": "按钮文本，用于发布某些内容"
+  },
+  "button.watch": {
+    "message": "Katso",
+    "description": "按钮文本，用于观看某些内容"
+  },
+  "button.verify": {
+    "message": "Todenna henkilöllisyys",
+    "description": "按钮文本，用于让用户进行实名认证"
+  },
+  "button.profile": {
+    "message": "Profiili",
+    "description": "按钮文本，用于显示个人资料"
+  },
+  "button.console": {
+    "message": "Konsoli",
+    "description": "按钮文本，用于显示控制台页面以控制网页中的某些内容"
+  },
+  "button.learn": {
+    "message": "Opi",
+    "description": "按钮文本，用于让用户学习某些内容"
+  },
+  "button.buy": {
+    "message": "Osta",
+    "description": "按钮文本，用于让用户购买某些内容"
+  },
+  "button.try": {
+    "message": "Kokeile",
+    "description": "按钮文本，用于让用户尝试某些内容"
+  },
+  "button.startForFree": {
+    "message": "Aloita ilmaiseksi",
+    "description": "按钮文本，用于让用户免费开始使用"
+  },
+  "button.apply": {
+    "message": "Hae",
+    "description": "按钮文本，用于让用户申请API服务"
+  },
+  "button.refresh": {
+    "message": "Päivitä",
+    "description": "按钮文本，用于刷新页面"
+  },
+  "button.pay": {
+    "message": "Maksa",
+    "description": "按钮文本，用于让用户支付服务费用"
+  },
+  "button.repay": {
+    "message": "Jatka maksamista",
+    "description": "按钮文本，用于让用户继续支付服务费用"
+  },
+  "button.applied": {
+    "message": "Haettu",
+    "description": "按钮文本，用于显示用户已经申请了该服务"
+  },
+  "button.acquire": {
+    "message": "Hanki",
+    "description": "按钮文本，用于让用户获取API服务的令牌或密钥"
+  },
+  "button.fillExample": {
+    "message": "Täytä esimerkki",
+    "description": "按钮文本，用于让用户填写示例数据"
+  },
+  "button.buyMore": {
+    "message": "Osta lisää",
+    "description": "按钮文本，用于让用户购买更多内容"
+  },
+  "button.update": {
+    "message": "Päivitä",
+    "description": "按钮文本，用于更新某些内容"
+  },
+  "button.view": {
+    "message": "Näytä",
+    "description": "按钮文本，用于查看某些内容"
+  },
+  "button.create": {
+    "message": "Luo",
+    "description": "按钮文本，用于创建某些内容"
+  },
+  "button.referralEarnings": {
+    "message": "Suositustulot",
+    "description": "按钮文本，用于显示推荐收益，表示用户通过邀请他人使用服务可以赚钱"
+  },
+  "button.finish": {
+    "message": "Valmis",
+    "description": "按钮文本，用于完成某些内容"
+  },
+  "entity.website": {
+    "message": "Ace Data Cloud",
+    "description": "网站名称，无需翻译，保持为'Ace Data Cloud'"
+  },
+  "entity.copyright": {
+    "message": "Tekijänoikeus",
+    "description": "用于显示版权信息的文本"
+  },
+  "entity.platform": {
+    "message": "Alusta",
+    "description": "指示这是API服务的平台的文本"
+  },
+  "entity.title": {
+    "message": "Otsikko",
+    "description": "实体的标题"
+  },
+  "entity.icon": {
+    "message": "Ikoni",
+    "description": "实体的图标"
+  },
+  "entity.status": {
+    "message": "Tila",
+    "description": "实体的状态"
+  },
+  "entity.operation": {
+    "message": "Toiminto",
+    "description": "实体的操作"
+  },
+  "entity.description": {
+    "message": "Kuvaus",
+    "description": "实体的描述"
+  },
+  "entity.createdAt": {
+    "message": "Luotu aika",
+    "description": "Entiteetin luomisaika"
+  },
+  "entity.updatedAt": {
+    "message": "Päivitetty aika",
+    "description": "Entiteetin päivitysaika"
+  },
+  "entity.order": {
+    "message": "Tilaus",
+    "description": "Entiteetin tilaus, joka sisältää summan ja palvelutiedot, ja käyttäjän on maksettava siitä"
+  },
+  "message.usedAmount": {
+    "message": "Käytetty summa",
+    "description": "Näyttää palvelun käytetyn summan"
+  },
+  "message.remainingAmount": {
+    "message": "Jäljellä oleva summa",
+    "description": "Näyttää palvelun jäljellä olevan summan"
+  },
+  "message.copied": {
+    "message": "Kopioitu onnistuneesti",
+    "description": "Näyttää viestin, että sisältö on kopioitu onnistuneesti"
+  },
+  "message.restart": {
+    "message": "Uudelleenluonti",
+    "description": "Näyttää viestin, että sisältö on kopioitu onnistuneesti"
+  },
+  "message.confirmDelete": {
+    "message": "Haluatko varmasti poistaa?",
+    "description": "Vahvistaa, haluaako käyttäjä poistaa jotain sisältöä"
+  },
+  "message.expiredAt": {
+    "message": "Vanhentumisaika",
+    "description": "Näyttää palvelun vanhentumisajan"
+  },
+  "message.alert": {
+    "message": "Varoitus",
+    "description": "Varoittaa käyttäjää"
+  },
+  "message.info": {
+    "message": "Ystävällinen muistutus",
+    "description": "Näyttää informatiivisen viestin"
+  },
+  "message.free": {
+    "message": "Ilmainen",
+    "description": "Näyttää viestin, että palvelu on ilmainen, eikä käyttäjän tarvitse maksaa"
+  },
+  "message.startPrice": {
+    "message": "Alkaen hinta",
+    "description": "Näyttää palvelun vähimmäishinnan"
+  },
+  "message.joinDiscord": {
+    "message": "Liity Discordiin",
+    "description": "Kehottaa käyttäjää liittymään Discord-kanavaan"
+  },
+  "message.addWeChat": {
+    "message": "Lisää WeChat",
+    "description": "Kehottaa käyttäjää lisäämään WeChatin"
+  },
+  "message.serviceTech": {
+    "message": "Tekninen tuki",
+    "description": "Näyttää viestin palvelun teknisestä tuesta"
+  },
+  "message.businessCooperation": {
+    "message": "Liiketoimintayhteistyö",
+    "description": "Näyttää viestin liiketoimintayhteistyöstä"
+  },
+  "message.noData": {
+    "message": "Ei dataa",
+    "description": "Näyttää viestin, että taulukossa tai luettelossa ei ole dataa"
+  },
+  "nav.home": {
+    "message": "Etusivu",
+    "description": "Verkkosivuston navigointipalkin teksti, joka näyttää etusivun"
+  },
+  "nav.content": {
+    "message": "Sisältö",
+    "description": "Verkkosivuston navigointipalkin teksti, joka näyttää sisältösivun"
+  },
+  "nav.category": {
+    "message": "Kategoria",
+    "description": "Verkkosivuston navigointipalkin teksti, joka näyttää kategoriasivun"
+  },
+  "nav.service": {
+    "message": "Palvelu",
+    "description": "Verkkosivuston navigointipalkin teksti, joka näyttää palvelusivun"
+  },
+  "nav.profile": {
+    "message": "Minä",
+    "description": "Verkkosivuston navigointipalkin teksti, joka näyttää profiilisivun"
+  },
+  "nav.products": {
+    "message": "Tuotteet",
+    "description": "Verkkosivuston navigointipalkin teksti, joka näyttää tuotesivun"
+  },
+  "nav.referral": {
+    "message": "Suositustulot",
+    "description": "Verkkosivuston navigointipalkin teksti, joka näyttää suositussivun"
+  },
+  "nav.apiPlatform": {
+    "message": "API-alusta",
+    "description": "Verkkosivuston navigointipalkin teksti, joka näyttää API-alustasivun"
+  },
+  "nav.document": {
+    "message": "Dokumentti",
+    "description": "Verkkosivuston navigointipalkin teksti, joka näyttää dokumenttisivun"
+  },
+  "nav.console": {
+    "message": "Konsoli",
+    "description": "Verkkosivuston navigointipalkin teksti, joka näyttää konsolisivun"
+  },
+  "nav.chat": {
+    "message": "Chat",
+    "description": "Verkkosivuston navigointipalkin teksti, joka näyttää chat-sivun, älä käännä tätä kenttää, sen on oltava 'Chat'"
+  },
+  "nav.midjourney": {
+    "message": "Midjourney",
+    "description": "Verkkosivuston navigointipalkin teksti, joka näyttää Midjourney-sivun, älä käännä tätä kenttää, sen on oltava 'Midjourney'"
+  },
+  "nav.chatdoc": {
+    "message": "ChatDoc",
+    "description": "Verkkosivuston navigointipalkin teksti, joka näyttää ChatDoc-sivun, älä käännä tätä kenttää, sen on oltava 'Chatdoc'"
+  },
+  "nav.qrart": {
+    "message": "QRArt",
+    "description": "Verkkosivuston navigointipalkin teksti, joka näyttää QRArt-sivun, älä käännä tätä kenttää, sen on oltava 'QRArt'"
+  },
+  "nav.suno": {
+    "message": "Suno",
+    "description": "Verkkosivuston navigointipalkin teksti, joka näyttää Suno-sivun, älä käännä tätä kenttää, sen on oltava 'Suno'"
+  },
+  "nav.flux": {
+    "message": "Flux",
+    "description": "Verkkosivuston navigointipalkin teksti, joka näyttää Flux-sivun, älä käännä tätä kenttää, sen on oltava 'Flux'"
+  },
+  "nav.luma": {
+    "message": "Luma",
+    "description": "Verkkosivuston navigointipalkin teksti, joka näyttää Luma-sivun, älä käännä tätä kenttää, sen on oltava 'Luma'"
+  },
+  "nav.pika": {
+    "message": "Pika",
+    "description": "Verkkosivuston navigointipalkin teksti, joka näyttää Pika-sivun, älä käännä tätä kenttää, sen on oltava 'Pika'"
+  },
+  "nav.kling": {
+    "message": "Kling",
+    "description": "Verkkosivuston navigointipalkin teksti, joka näyttää Kling-sivun, älä käännä tätä kenttää, sen on oltava 'Kling'"
+  },
+  "nav.hailuo": {
+    "message": "Hailuo",
+    "description": "网站导航栏中的文本，用于显示Hailuo页面，请不要翻译此字段，必须保持为'Hailuo'"
+  },
+  "nav.image": {
+    "message": "Kuva",
+    "description": "网站导航栏中的文本，用于显示图片页面"
+  },
+  "nav.music": {
+    "message": "Musiikki",
+    "description": "网站导航栏中的文本，用于显示音乐页面"
+  },
+  "nav.video": {
+    "message": "Video",
+    "description": "网站导航栏中的文本，用于显示视频页面"
+  },
+  "nav.distribution": {
+    "message": "Suositustulot",
+    "description": "网站导航栏中的文本，用于显示推荐收益页面"
+  },
+  "nav.logOut": {
+    "message": "Kirjaudu ulos",
+    "description": "网站导航栏中的文本，用于退出登录"
+  },
+  "nav.site": {
+    "message": "Sivuston asetukset",
+    "description": "网站导航栏中的文本，用于显示站点配置页面"
+  },
+  "nav.headshots": {
+    "message": "AI-passikuvat",
+    "description": "网站导航栏中的文本，用于显示站点配置页面"
+  },
+  "nav.locale": {
+    "message": "Kieliasetukset",
+    "description": "网站导航栏中的文本，用于更改语言"
+  },
+  "nav.support": {
+    "message": "Asiakastuki",
+    "description": "网站导航栏中的文本，用于显示支持页面"
+  },
+  "nav.darkMode": {
+    "message": "Tumma tila",
+    "description": "网站导航栏中的文本，用于切换到深色主题"
+  },
+  "title.alert": {
+    "message": "Hälytys",
+    "description": "警报消息的标题"
+  },
+  "title.placeholderOfSelect": {
+    "message": "Valitse",
+    "description": "选择输入框的占位符"
+  },
+  "title.placeholderOfInput": {
+    "message": "Täytä",
+    "description": "输入框的占位符"
+  },
+  "title.allApplications": {
+    "message": "Kaikki hakemukset",
+    "description": "显示所有申请的页面标题"
+  },
+  "title.allOrders": {
+    "message": "Kaikki tilaukset",
+    "description": "显示所有订单的页面标题"
+  },
+  "title.orderInfo": {
+    "message": "Tilaustiedot",
+    "description": "显示订单信息的页面标题"
+  },
+  "title.buyMore": {
+    "message": "Osta lisää",
+    "description": "让用户购买更多的页面标题"
+  },
+  "title.distribution": {
+    "message": "Suositustulot",
+    "description": "显示推荐收益的页面标题，表示用户可以通过邀请他人使用服务来赚钱"
+  },
+  "title.site": {
+    "message": "Sivuston asetukset",
+    "description": "显示站点配置的页面标题"
+  },
+  "title.distributionHistory": {
+    "message": "Suositushistoria",
+    "description": "显示推荐历史的页面标题"
+  },
+  "title.invitee": {
+    "message": "Kutsuja",
+    "description": "显示邀请者的页面标题"
+  },
+  "title.allUsages": {
+    "message": "Käyttöhistoria",
+    "description": "显示API服务所有使用记录的页面标题"
+  },
+  "title.allCredentials": {
+    "message": "Valtuustiedot",
+    "description": "显示所有凭证的页面标题，这些凭证用于访问API"
+  },
+  "about.title1": {
+    "message": "Ota yhteyttä",
+    "description": "显示联系信息的部分的标题"
+  },
+  "about.title2": {
+    "message": "Resurssit",
+    "description": "显示链接的部分的标题"
+  },
+  "about.title3": {
+    "message": "Linkit",
+    "description": "显示支持信息的部分的标题"
+  },
+  "about.address": {
+    "message": "201 N Broad St, Middletown, Delaware, USA",
+    "description": "公司的地址"
+  },
+  "about.email": {
+    "message": "office@acedata.cloud",
+    "description": "公司的电子邮件"
+  },
+  "about.link1": {
+    "message": "Palvelut",
+    "description": "服务页面的链接"
+  },
+  "about.link2": {
+    "message": "Dokumentaatio",
+    "description": "文档页面的链接"
+  },
+  "about.link3": {
+    "message": "Konsoli",
+    "description": "控制台页面的链接"
+  },
+  "about.link4": {
+    "message": "Profiili",
+    "description": "个人资料页面的链接"
+  },
+  "about.link5": {
+    "message": "Keskus",
+    "description": "中心页面的链接"
+  },
+  "about.link6": {
+    "message": "Suositustulot",
+    "description": "推荐收益页面的链接"
+  },
+  "about.link7": {
+    "message": "Tuki",
+    "description": "支持页面的链接"
+  },
+  "about.link8": {
+    "message": "Käyttöehdot",
+    "description": "服务条款页面的链接"
+  },
+  "about.link9": {
+    "message": "Tietosuojakäytäntö",
+    "description": "隐私政策页面的链接"
+  }
+}

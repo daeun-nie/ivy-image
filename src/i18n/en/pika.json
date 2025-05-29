@@ -1,0 +1,290 @@
+{
+  "style.effect1": {
+    "message": "Levitate",
+    "description": "Name of Pika's video effect"
+  },
+  "style.effect2": {
+    "message": "Decapitate",
+    "description": "Name of Pika's video effect"
+  },
+  "style.effect3": {
+    "message": "Eye-pop",
+    "description": "Name of Pika's video effect"
+  },
+  "style.effect4": {
+    "message": "Ta-da",
+    "description": "Name of Pika's video effect"
+  },
+  "style.effect5": {
+    "message": "Deflate",
+    "description": "Name of Pika's video effect"
+  },
+  "style.effect6": {
+    "message": "Crumble",
+    "description": "Name of Pika's video effect"
+  },
+  "style.effect7": {
+    "message": "Dissolve",
+    "description": "Name of Pika's video effect"
+  },
+  "style.effect8": {
+    "message": "Squish",
+    "description": "Name of Pika's video effect"
+  },
+  "style.effect9": {
+    "message": "Inflate",
+    "description": "Name of Pika's video effect"
+  },
+  "style.effect10": {
+    "message": "Melt",
+    "description": "Name of Pika's video effect"
+  },
+  "style.effect11": {
+    "message": "Cake-ify",
+    "description": "Name of Pika's video effect"
+  },
+  "style.effect12": {
+    "message": "Crush",
+    "description": "Name of Pika's video effect"
+  },
+  "style.effect13": {
+    "message": "Explode",
+    "description": "Name of Pika's video effect"
+  },
+  "name.taskId": {
+    "message": "Task ID",
+    "description": "ID of the task"
+  },
+  "name.type": {
+    "message": "Type",
+    "description": "Type of content to generate with Pika video, like 'link', 'text', etc."
+  },
+  "name.failure": {
+    "message": "Failure",
+    "description": "Failure status of a task"
+  },
+  "name.failureReason": {
+    "message": "Failure Reason",
+    "description": "Reason for task failure"
+  },
+  "name.status": {
+    "message": "Status",
+    "description": "Status of the task"
+  },
+  "name.traceId": {
+    "message": "Trace ID",
+    "description": "Trace ID of the task"
+  },
+  "name.createdAt": {
+    "message": "Created At",
+    "description": "Date and time when Pika video is generated"
+  },
+  "name.imageUrl": {
+    "message": "Reference Image",
+    "description": "Reference image for the video to be generated"
+  },
+  "name.videoUrl": {
+    "message": "Custom Video",
+    "description": "Custom video"
+  },
+  "name.prompt": {
+    "message": "Video Prompt",
+    "description": "Prompt for content input"
+  },
+  "name.ingredients": {
+    "message": "Multi-image Create Video",
+    "description": "Custom extended video"
+  },
+  "name.model": {
+    "message": "Model Version",
+    "description": "Model version used for video generation"
+  },
+  "name.effect": {
+    "message": "Video Effect",
+    "description": "Name of style parameter for switching between different models or styles"
+  },
+  "name.ingredientsModel": {
+    "message": "Ingredients Model",
+    "description": "Model version used for video generation"
+  },
+  "name.pikaBot": {
+    "message": "Pika Bot",
+    "description": "Name of the Pika video generator"
+  },
+  "description.ingredients": {
+    "message": "If you want to upload multiple images to generate your own video, turn on this button.",
+    "description": "Description for the 'ingredients' parameter"
+  },
+  "description.imageUrl": {
+    "message": "For multi-image create video tasks, you must upload multiple images.",
+    "description": "Description for the 'imageUrl' parameter"
+  },
+  "description.prompt": {
+    "message": "Prompt words for generating Pika video",
+    "description": "Description for the 'prompt' parameter"
+  },
+  "status.pending": {
+    "message": "Pending",
+    "description": "Pending status of a task"
+  },
+  "status.processing": {
+    "message": "Processing",
+    "description": "Processing status of a task"
+  },
+  "placeholder.paddingNoise": {
+    "message": "Please select...",
+    "description": "Placeholder for padding noise input"
+  },
+  "placeholder.select": {
+    "message": "Select",
+    "description": "Placeholder text in the select field"
+  },
+  "placeholder.paddingLevel": {
+    "message": "Please select...",
+    "description": "Placeholder for padding level"
+  },
+  "placeholder.prompt": {
+    "message": "Enter prompt words for the video style to generate, such as: moving",
+    "description": "Placeholder text in the prompt field"
+  },
+  "placeholder.position": {
+    "message": "Please select...",
+    "description": "Placeholder for position input"
+  },
+  "placeholder.aspectRatio": {
+    "message": "Please select...",
+    "description": "Placeholder for aspect ratio input"
+  },
+  "placeholder.preset": {
+    "message": "Please select...",
+    "description": "Placeholder for preset input"
+  },
+  "placeholder.markerShape": {
+    "message": "Please select...",
+    "description": "Placeholder for marker shape input"
+  },
+  "placeholder.rotate": {
+    "message": "Please select...",
+    "description": "Placeholder for rotate input"
+  },
+  "placeholder.subMarker": {
+    "message": "Please select...",
+    "description": "Placeholder for sub-marker input"
+  },
+  "button.precise": {
+    "message": "Precise",
+    "description": "Button text for generating Pika video"
+  },
+  "button.creative": {
+    "message": "Creative",
+    "description": "Button text for generating Pika video"
+  },
+  "button.generate": {
+    "message": "Generate",
+    "description": "Button text for generating Pika video"
+  },
+  "button.extend": {
+    "message": "Extend Video",
+    "description": "Extend video button text"
+  },
+  "button.download": {
+    "message": "Download Video",
+    "description": "Download video button text"
+  },
+  "button.uploadImageUrl": {
+    "message": "Upload Image",
+    "description": "Button text for uploading an image"
+  },
+  "button.uploadVideoUrl": {
+    "message": "Upload Video",
+    "description": "Button text for uploading a video"
+  },
+  "message.uploadReferencesExceed": {
+    "message": "Maximum 5 images can be uploaded",
+    "description": "Error message when the number of uploaded images exceeds the limit"
+  },
+  "message.uploadReferencesSuccess": {
+    "message": "Successfully uploaded images",
+    "description": "Success message when images are successfully uploaded"
+  },
+  "message.uploadReferencesError": {
+    "message": "Image upload failed, please try again later",
+    "description": "Error message when image upload fails"
+  },
+  "message.startingTask": {
+    "message": "Starting task...",
+    "description": "Message when a drawing task is starting"
+  },
+  "message.startTaskSuccess": {
+    "message": "Generation task successfully started",
+    "description": "Success message when a task starts successfully"
+  },
+  "message.startTaskFailed": {
+    "message": "Failed to start task, please contact the administrator",
+    "description": "Error message when starting a drawing task fails"
+  },
+  "message.usedUp": {
+    "message": "Your credits are used up, please purchase more credits to continue using",
+    "description": "Message when credits are used up"
+  },
+  "message.generating": {
+    "message": "Generating...",
+    "description": "Message when image is being generated"
+  },
+  "message.downloadVideo": {
+    "message": "Download this video",
+    "description": "Message when image is being generated"
+  },
+  "message.extendVideo": {
+    "message": "Continue generating this video",
+    "description": "Message when image is being generated"
+  },
+  "message.generateFailed": {
+    "message": "Image generation failed",
+    "description": "Message when image generation fails"
+  },
+  "message.uploadVideoExceed": {
+    "message": "The number of initial frame images uploaded exceeds the limit",
+    "description": "Error message when the number of initial frame images uploaded exceeds the limit"
+  },
+  "message.uploadVideoSizeExceed": {
+    "message": "Upload file size cannot exceed 10MB!",
+    "description": "Error message when upload file size exceeds 10MB!"
+  },
+  "message.uploadVideoTypeFailed": {
+    "message": "The uploaded file must be in MP4 format!",
+    "description": "Error message when the uploaded file type must be MP4"
+  },
+  "message.uploadStartImageExceed": {
+    "message": "The number of initial frame images uploaded exceeds the limit",
+    "description": "Error message when the number of initial frame images uploaded exceeds the limit"
+  },
+  "message.uploadEndImageExceed": {
+    "message": "The number of final frame images uploaded exceeds the limit",
+    "description": "Error message when the number of final frame images uploaded exceeds the limit"
+  },
+  "message.uploadStartImageError": {
+    "message": "Failed to upload initial frame image",
+    "description": "Error message when uploading initial frame image fails"
+  },
+  "message.uploadVideoError": {
+    "message": "Failed to upload video",
+    "description": "Error message when uploading video fails"
+  },
+  "message.uploadEndImageError": {
+    "message": "Failed to upload final frame image",
+    "description": "Error message when uploading final frame image fails"
+  },
+  "message.uploadDocumentsError": {
+    "message": "Failed to upload documents",
+    "description": "Error message when uploading documents fails"
+  },
+  "message.noOperations": {
+    "message": "No operations available",
+    "description": "Message when no operations are available"
+  },
+  "message.noTasks": {
+    "message": "No historical tasks, please click on the left to generate video",
+    "description": "Message when there are no tasks"
+  }
+}

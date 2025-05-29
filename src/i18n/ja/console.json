@@ -1,0 +1,118 @@
+{
+  "button.suggested": {
+    "message": "推奨",
+    "description": "ボタンのテキスト, 推奨は推奨されたボタンを意味します"
+  },
+  "menu.orderList": {
+    "message": "注文リスト",
+    "description": "ウェブサイトメニュー内のテキスト, 注文はユーザーがサービスを購入する注文を意味します"
+  },
+  "menu.applicationList": {
+    "message": "申請リスト",
+    "description": "ウェブサイトメニュー内のテキスト, 申請はユーザーがサービスを使用する申請を意味します"
+  },
+  "menu.userProfile": {
+    "message": "ユーザープロファイル",
+    "description": "ウェブサイトメニュー内のテキスト, ユーザープロファイルはユーザーの個人情報を意味します"
+  },
+  "menu.idVerify": {
+    "message": "身分証明",
+    "description": "ウェブサイトメニュー内のテキスト, 身分証明はユーザーの身分の認証を意味します"
+  },
+  "menu.manageApplication": {
+    "message": "申請管理",
+    "description": "ウェブサイトメニュー内のテキスト, 申請管理はユーザーの申請の管理を意味します"
+  },
+  "menu.distributionIndex": {
+    "message": "推奨収益",
+    "description": "ウェブサイトメニュー内のテキスト, 推奨収益はユーザーの推奨による収益を意味します"
+  },
+  "menu.developerPlatform": {
+    "message": "開発者プラットフォーム",
+    "description": "ウェブサイトメニュー内のテキスト, 開発者プラットフォームは開発者のプラットフォームを意味します"
+  },
+  "menu.usageList": {
+    "message": "使用履歴",
+    "description": "ウェブサイトメニュー内のテキスト, 使用履歴はユーザーがAPIサービスを使用した履歴を意味します"
+  },
+  "menu.credentialIndex": {
+    "message": "認証情報",
+    "description": "ウェブサイトメニュー内のテキスト, 認証情報はAPIアクセスの認証情報を意味します"
+  },
+  "menu.manageOrder": {
+    "message": "注文管理",
+    "description": "ウェブサイトメニュー内のテキスト, 注文管理はユーザーの注文の管理を意味します"
+  },
+  "menu.manageDistributionStatus": {
+    "message": "配信管理",
+    "description": "ウェブサイトメニュー内のテキスト, 配信管理はユーザーの配信状態の管理を意味します"
+  },
+  "message.benefit1": {
+    "message": "専用カスタマーサポート",
+    "description": "サイトのホームページのテキスト, 専用カスタマーサポートはユーザーが専用カスタマーサポートを受けられることを意味します"
+  },
+  "message.benefit2": {
+    "message": "新機能の先行体験",
+    "description": "サイトのホームページのテキスト, 新機能の先行体験はユーザーが新機能を先行して体験できることを意味します"
+  },
+  "message.buyExtra": {
+    "message": "購入する",
+    "description": "サイトのホームページのテキスト, 購入するはユーザーが購買できることを意味します"
+  },
+  "message.subscribe": {
+    "message": "購読する",
+    "description": "サイトのホームページのテキスト, 購読するはユーザーがメンバーシップを購読できることを意味します"
+  },
+  "message.doNotWantSubscribe": {
+    "message": "定期メンバーシップを購読したくないですか？単独での購入もできます。",
+    "description": "サイトのホームページのテキスト, 定期メンバーシップを購読したくないことを意味します"
+  },
+  "message.doNotWantExtra": {
+    "message": "購入を希望しないですか？定期メンバーシップの購読も試すことができます。",
+    "description": "サイトのホームページのテキスト, 購入を希望しないことを意味します"
+  },
+  "message.applicationNotFound": {
+    "message": "申請が見つかりません",
+    "description": "申請が存在しない場合にユーザーに表示されるメッセージ。"
+  },
+  "subscription.title": {
+    "message": "メンバーシップを購読して、より多くの特典を享受しましょう",
+    "description": "ユーザーがサービスを購読するときに表示されるメッセージ。"
+  },
+  "subscription.3days": {
+    "message": "3日間の体験メンバーシップ",
+    "description": "メンバーシップのタイプ, 3日間の体験メンバーシップ"
+  },
+  "subscription.3days.description": {
+    "message": "試用メンバーシップ, 短期使用に適しています。",
+    "description": "メンバーシップのタイプ, 短期使用に適していることを意味します"
+  },
+  "subscription.weekly": {
+    "message": "週メンバーシップ",
+    "description": "メンバーシップのタイプ, 週メンバーシップはユーザーが購入したメンバーシップのタイプを意味します"
+  },
+  "subscription.monthly": {
+    "message": "月メンバーシップ",
+    "description": "メンバーシップのタイプ, 月メンバーシップはユーザーが購入したメンバーシップのタイプを意味します"
+  },
+  "subscription.yearly": {
+    "message": "年メンバーシップ",
+    "description": "メンバーシップのタイプ, 年メンバーシップはユーザーが購入したメンバーシップのタイプを意味します"
+  },
+  "subscription.weekly.description": {
+    "message": "試用週メンバーシップ, 短期使用に適しています。",
+    "description": "メンバーシップタイプの説明, 週メンバーシップはユーザーが購入したメンバーシップのタイプを意味します"
+  },
+  "subscription.monthly.description": {
+    "message": "柔軟な月メンバーシップ, 長期使用に適しています。",
+    "description": "メンバーシップタイプの説明, 月メンバーシップはユーザーが購入したメンバーシップのタイプを意味します"
+  },
+  "subscription.yearly.description": {
+    "message": "お得な年メンバーシップ, 最高の選択。",
+    "description": "メンバーシップタイプの説明, 年メンバーシップはユーザーが購入したメンバーシップのタイプを意味します"
+  },
+  "subscription.introduction": {
+    "message": "メンバーシップを購読して、すべてのAIサービスを利用できます。",
+    "description": "メンバーシップの紹介文を意味します"
+  }
+}

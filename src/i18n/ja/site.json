@@ -1,0 +1,322 @@
+{
+  "field.title": {
+    "message": "サイトタイトル",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "field.origin": {
+    "message": "サイトドメイン",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "field.description": {
+    "message": "サイト説明",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "field.keywords": {
+    "message": "サイトキーワード",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "field.logo": {
+    "message": "サイトロゴ",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "field.favicon": {
+    "message": "サイトファビコン",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "field.qr": {
+    "message": "QRコード",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "field.url": {
+    "message": "リンク",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "field.admins": {
+    "message": "サイト管理者ID",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "field.distributionDefaultInviterId": {
+    "message": "デフォルトの招待者ID",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "field.distributionForceInviterId": {
+    "message": "強制招待者ID",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "field.featuresChat": {
+    "message": "チャット",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "field.featuresMidjourney": {
+    "message": "ミッドジャーニー",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "field.featuresChatdoc": {
+    "message": "チャットドック",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "field.featuresQrart": {
+    "message": "クアート",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "field.featuresLuma": {
+    "message": "ルマ",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "field.featuresPika": {
+    "message": "ピカ",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "field.featuresKling": {
+    "message": "クリーング",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "field.featuresHailuo": {
+    "message": "ハイロウ",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "field.featuresHeadshots": {
+    "message": "AI証明写真",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "field.featuresSuno": {
+    "message": "スノ",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "field.featuresFlux": {
+    "message": "フラックス",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "field.featuresSupport": {
+    "message": "カスタマーサポート",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "field.featuresI18n": {
+    "message": "多言語対応",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "title.basicConfig": {
+    "message": "基本設定",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "title.seoConfig": {
+    "message": "SEO設定",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "title.editAdmins": {
+    "message": "管理者編集",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "title.featuresConfig": {
+    "message": "機能設定",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "title.editTitle": {
+    "message": "タイトルを編集",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "title.editOrigin": {
+    "message": "ドメインを編集",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "title.editKeywords": {
+    "message": "キーワードを編集",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "title.editLogo": {
+    "message": "ロゴを編集",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "title.editFavicon": {
+    "message": "ファビコンを編集",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "title.editDescription": {
+    "message": "説明を編集",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "title.distributionConfig": {
+    "message": "配布設定",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "title.editDistributionDefaultInviterId": {
+    "message": "デフォルト招待者を編集",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "title.editDistributionForceInviterId": {
+    "message": "強制招待者を編集",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "title.editQR": {
+    "message": "QRコードを編集",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "title.editUrl": {
+    "message": "リンクを編集",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "placeholder.title": {
+    "message": "サイトタイトルを入力してください",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "placeholder.origin": {
+    "message": "サイトドメインを入力してください",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "placeholder.editUrl": {
+    "message": "リンクを入力してください",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "placeholder.description": {
+    "message": "サイト説明を入力してください",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "placeholder.keywords": {
+    "message": "サイトキーワードを入力してください",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "placeholder.editDistributionDefaultInviterId": {
+    "message": "デフォルトの招待者IDを入力してください",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "placeholder.editDistributionForceInviterId": {
+    "message": "強制招待者IDを入力してください",
+    "description": "編集ボックスに表示されるタイトル"
+  },
+  "message.uploadImageExceed": {
+    "message": "アップロード画像が制限を超えています",
+    "description": "アップロード画像が制限を超えていることを知らせるメッセージ"
+  },
+  "message.uploadImageError": {
+    "message": "画像のアップロードエラー",
+    "description": "画像のアップロードエラーの通知"
+  },
+  "message.editLogoTip": {
+    "message": "推奨サイズ：200*60px",
+    "description": "画像のアップロードのためのヒント"
+  },
+  "message.editQRTip": {
+    "message": "推奨サイズ：200*200px",
+    "description": "画像のアップロードのためのヒント"
+  },
+  "message.editFaviconTip": {
+    "message": "推奨サイズ：32*32px",
+    "description": "画像のアップロードのためのヒント"
+  },
+  "message.editUrl": {
+    "message": "リンクを入力してください",
+    "description": "リンク入力のためのヒント"
+  },
+  "message.atLeastOneAdmin": {
+    "message": "少なくとも1人の管理者を残してください",
+    "description": "少なくとも1人の管理者を残すためのヒント"
+  },
+  "message.distributionDefaultInviterIdTip": {
+    "message": "デフォルトの招待者のユーザーID。招待リンクにinviter_idパラメータが含まれない場合、デフォルトでこのユーザーIDが招待者として使用されます。",
+    "description": "デフォルトの招待者IDについての説明"
+  },
+  "message.distributionForceInviterIdTip": {
+    "message": "強制招待者のユーザーID。このIDが設定されている場合、招待リンクがinviter_idパラメータを持つかどうかに関わらず、必ずこのユーザーIDが招待者として使用されます。",
+    "description": "強制招待者IDについての説明"
+  },
+  "message.originTip": {
+    "message": "サイトのドメイン名。サイト設定とドメイン名が紐付けられており、ドメイン名は変更できません。",
+    "description": "サイトのドメイン名についての説明"
+  },
+  "message.titleTip": {
+    "message": "サイトタイトル。ブラウザのタブに表示されます。",
+    "description": "サイトタイトルについての説明"
+  },
+  "message.descriptionTip": {
+    "message": "サイトの説明。サイトのメタ情報に含まれ、SEO最適化に使用されます。",
+    "description": "サイトの説明についての説明"
+  },
+  "message.logoTip": {
+    "message": "サイトのロゴ。メニュー欄が展開された時にサイトメニューの上部に表示されます。",
+    "description": "サイトのロゴについての説明"
+  },
+  "message.faviconTip": {
+    "message": "サイトのファビコン。ブラウザのタブに表示されます。",
+    "description": "サイトのファビコンについての説明"
+  },
+  "message.adminsTip": {
+    "message": "サイト管理者のID。デフォルトでは、最初にこのサイトを作成したユーザーが管理者になります。サイト管理者のみがサイトを管理できます。",
+    "description": "サイト管理者についての説明"
+  },
+  "message.adminsTip2": {
+    "message": "ここで管理者IDを追加または削除できます。ユーザーIDはhttps://auth.acedata.cloudで確認できます。",
+    "description": "サイト管理者についての説明"
+  },
+  "message.keywordsTip": {
+    "message": "サイトのキーワード。サイトのメタ情報に含まれ、SEO最適化に使用されます。",
+    "description": "サイトのキーワードについての説明"
+  },
+  "message.keywordsTip2": {
+    "message": "ここでサイトのキーワードを追加または削除できます。キーワードが具体的であるほど、SEO最適化に有利です。",
+    "description": "サイトのキーワードについての説明"
+  },
+  "message.featuresChat": {
+    "message": "Chat機能モジュールをオンまたはオフにします。",
+    "description": "Chat機能についての説明"
+  },
+  "message.featuresMidjourney": {
+    "message": "Midjourney機能モジュールをオンまたはオフにします。",
+    "description": "Midjourney機能についての説明"
+  },
+  "message.featuresChatdoc": {
+    "message": "Chatdoc機能モジュールをオンまたはオフにします。",
+    "description": "Chatdoc機能についての説明"
+  },
+  "message.featuresQrart": {
+    "message": "Qrart機能モジュールをオンまたはオフにします。",
+    "description": "Qrart機能についての説明"
+  },
+  "message.featuresSuno": {
+    "message": "Suno機能モジュールをオンまたはオフにします。",
+    "description": "Suno機能についての説明"
+  },
+  "message.featuresFlux": {
+    "message": "FLux機能モジュールをオンまたはオフにします。",
+    "description": "FLux機能についての説明"
+  },
+  "message.featuresLuma": {
+    "message": "Luma機能モジュールをオンまたはオフにします。",
+    "description": "Luma機能についての説明"
+  },
+  "message.featuresPika": {
+    "message": "Pika機能モジュールをオンまたはオフにします。",
+    "description": "Pika機能についての説明"
+  },
+  "message.featuresKling": {
+    "message": "Kling機能モジュールをオンまたはオフにします。",
+    "description": "Kling機能についての説明"
+  },
+  "message.featuresHailuo": {
+    "message": "Hailuo機能モジュールをオンまたはオフにします。",
+    "description": "Hailuo機能についての説明"
+  },
+  "message.featuresHeadshots": {
+    "message": "AI証明写真機能モジュールをオンまたはオフにします。",
+    "description": "AI証明写真機能についての説明"
+  },
+  "message.featuresSupport": {
+    "message": "カスタマーサポートをオンまたはオフにします。",
+    "description": "Support機能についての説明"
+  },
+  "message.featuresI18n": {
+    "message": "多言語サポートをオンまたはオフにします。オフにすると、ユーザーはデフォルト言語のみを使用できます。",
+    "description": "多言語サポートについての説明"
+  },
+  "button.upload": {
+    "message": "アップロード",
+    "description": "アップロード"
+  },
+  "button.enabled": {
+    "message": "有効",
+    "description": "スイッチテキスト、有効を示します"
+  },
+  "button.disabled": {
+    "message": "無効",
+    "description": "スイッチテキスト、無効を示します"
+  }
+}

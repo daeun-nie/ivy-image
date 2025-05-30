@@ -12,7 +12,9 @@
       {{ $t('application.type.usage') }}
     </el-tag>
     {{ $t('common.message.remainingAmount') }}:
-    {{ application?.remaining_amount?.toFixed(6) }}
+    <span>
+      {{ application?.remaining_amount === -1 ? $t('application.message.unlimited') : application?.remaining_amount?.toFixed(6) }}
+    </span>
     {{ $t(`service.unit.` + application?.service?.unit + 's') }}
     <p v-if="showId" class="subtitle">ID: {{ application.id }}</p>
   </span>

@@ -206,5 +206,9 @@
   "title.manageApplication": {
     "message": "Application Management",
     "description": "Title of the page when the user wants to manage applications."
+  }  ,
+  "application.message.unlimited": {
+    "message": "Unlimited",
+    "description": "Label used to show unlimited quota or usage."
   }
 }

@@ -2,19 +2,22 @@
   <div class="estimation">
     <div v-for="(api, apiIndex) in service?.apis" :key="apiIndex">
       <div v-for="(item, itemIndex) in api?.estimation" :key="itemIndex" class="items">
-        <p v-if="package?.amount && item?.cost" class="item">
+        <p v-if="package?.amount !== undefined && item?.cost" class="item">
           ≈ {{ item.name }} 
           <span v-if="package.amount === -1">∞</span>
           <span v-else>{{ Math.round(package.amount / item.cost) }}</span> {{ $t('api.unit.count') }}
+
           <span v-if="package.price > 0">
             -
             {{
-              getPriceString({ value: package.price / (package.amount / item.cost), fractionDigits: 3 }) +
-              ' / ' +
-              $t(`api.unit.count`)
+              package.amount === -1
+                ? `∞ / ${$t('api.unit.count')}` 
+                : getPriceString({ value: package.price / (package.amount / item.cost), fractionDigits: 3 }) + ' / ' + $t('api.unit.count')
             }}
           </span>
+
           <span v-if="item.remark"> ({{ item.remark }}) </span>
+
           <span v-if="item?.comparisons?.length > 0"> - </span>
           <span v-for="(comparison, comparisonIndex) in item?.comparisons" :key="comparisonIndex" class="comparison">
             <i v-if="comparison?.value < 0">
@@ -39,7 +42,6 @@ import { getPriceString } from '@/utils';
 
 export default defineComponent({
   name: 'ServiceEstimation',
-  components: {},
   props: {
     service: {
       type: Object as () => IService | undefined,

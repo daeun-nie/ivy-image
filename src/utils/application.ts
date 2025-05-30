@@ -7,33 +7,28 @@ import { IApplication, IApplicationType } from '@/models';
  */
 export function isApplicationExpired(application: IApplication) {
   if (!application?.expired_at || application.expired_at === 'infinity') {
-    return false;
+    return false; // vô hạn thì không expired
   }
   try {
-    const expiredAt = new Date(application?.expired_at);
+    const expiredAt = new Date(application.expired_at);
     return expiredAt < new Date();
   } catch (error) {
-    return false;
+    return false; // nếu lỗi parse date thì coi như không expired
   }
 }
 
-/**
- * Get is application has balance
- * @param application
- * @returns boolean
- */
 export function isApplicationExhausted(application: IApplication) {
-  if (application?.remaining_amount === undefined || application?.remaining_amount === null || application?.remaining_amount === Infinity) {
+  // Với remaining_amount là undefined, null, hoặc Infinity => coi như không hết
+  if (
+    application?.remaining_amount === undefined ||
+    application?.remaining_amount === null ||
+    application?.remaining_amount === Infinity
+  ) {
     return false;
   }
   return application.remaining_amount < 0;
 }
 
-/**
- * Get is application is valid, has balance and not expired
- * @param application
- * @returns boolean
- */
 export function isApplicationUsable(application: IApplication) {
   const isExhausted = isApplicationExhausted(application);
   const isExpired = isApplicationExpired(application);
@@ -41,6 +36,7 @@ export function isApplicationUsable(application: IApplication) {
   console.debug('is application expired', isExpired);
   return !isExhausted && !isExpired;
 }
+
 
 /**
  * get final application from applications

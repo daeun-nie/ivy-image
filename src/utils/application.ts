@@ -26,7 +26,8 @@ export function isApplicationExhausted(application: IApplication) {
   ) {
     return false;
   }
-  return application.remaining_amount < 0;
+  // Dù remaining_amount là gì thì cũng không cạn kiệt
+  return false;
 }
 
 export function isApplicationUsable(application: IApplication) {

@@ -11,8 +11,11 @@
         <el-descriptions-item :label="$t('application.field.name')">
           {{ service?.title }}
         </el-descriptions-item>
+
         <el-descriptions-item :label="$t('application.field.freeAmount')">
-          <span> {{ service?.free_amount }} {{ $t(`service.unit.${service?.unit}`) }} </span>
+          <span>
+            {{ service?.free_amount === -1 ? $t('application.message.unlimited') : service?.free_amount + ' ' + $t(`service.unit.${service?.unit}`) }}
+          </span>
         </el-descriptions-item>
       </el-descriptions>
       <el-divider class="my-2" />

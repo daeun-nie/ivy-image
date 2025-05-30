@@ -6,7 +6,7 @@ import { IApplication, IApplicationType } from '@/models';
  * @returns boolean
  */
 export function isApplicationExpired(application: IApplication) {
-  if (!application?.expired_at) {
+  if (!application?.expired_at || application.expired_at === 'infinity') {
     return false;
   }
   try {
@@ -23,8 +23,10 @@ export function isApplicationExpired(application: IApplication) {
  * @returns boolean
  */
 export function isApplicationExhausted(application: IApplication) {
-  console.debug('application remaining amount', application, application?.remaining_amount);
-  return application?.remaining_amount && application?.remaining_amount < 0;
+  if (application?.remaining_amount === undefined || application?.remaining_amount === null || application?.remaining_amount === Infinity) {
+    return false;
+  }
+  return application.remaining_amount < 0;
 }
 
 /**

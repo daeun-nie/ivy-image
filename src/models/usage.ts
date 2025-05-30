@@ -11,6 +11,8 @@ export interface IApiUsage {
   used_amount?: number;
   deducted_amount?: number;
   service?: IService;
+
+  is_unlimited?: boolean; // 👉 Thêm dòng này
 }
 
 export interface IApiUsageListResponse {

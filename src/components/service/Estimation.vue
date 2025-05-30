@@ -3,7 +3,9 @@
     <div v-for="(api, apiIndex) in service?.apis" :key="apiIndex">
       <div v-for="(item, itemIndex) in api?.estimation" :key="itemIndex" class="items">
         <p v-if="package?.amount && item?.cost" class="item">
-          ≈ {{ item.name }} {{ Math.round(package.amount / item.cost) }} {{ $t('api.unit.count') }}
+          ≈ {{ item.name }} 
+          <span v-if="package.amount === -1">∞</span>
+          <span v-else>{{ Math.round(package.amount / item.cost) }}</span> {{ $t('api.unit.count') }}
           <span v-if="package.price > 0">
             -
             {{

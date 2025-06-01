@@ -18,15 +18,6 @@ export function isApplicationExpired(application: IApplication) {
 }
 
 export function isApplicationExhausted(application: IApplication) {
-  // Với remaining_amount là undefined, null, hoặc Infinity => coi như không hết
-  if (
-    application?.remaining_amount === undefined ||
-    application?.remaining_amount === null ||
-    application?.remaining_amount === Infinity
-  ) {
-    return false;
-  }
-  // Dù remaining_amount là gì thì cũng không cạn kiệt
   return false;
 }
 
